@@ -24,7 +24,7 @@ Other framing narratives: *b. ʿErub.* 6a; *b. Yeb.* 64, 104a, 121; *b. Ket.* 78
 
 ## 2. Cases introduced by a citation 
 
-*b. Ber.* 22a*; b. Šab.* 139a*,*140a*; b. Yeb.* 45b (3x), 46b, 65b*; b. Ket.* 27b*,* 69b*.* 80a*,* 80b*; b. Giṭ.* 33a, 78b; *b. Qid.* 50a; *b. B. Qam.* 73a. 99b; *b. B. Me*ṣ. 7a, 48b, 49b, 67a; *b. B. Bat.* 40b*,* 52a, 82b (2x), 160b (*b. B. Bat.* 164b); *b. Šebu.* 47a (*b. Šeb.* 48a); *b. ʿAb. Zar.* 22a, 64a, 69a, 70b (2x); *b. Ḥul.* 76b.
+*b. Ber.* 22a*; *b. Šab.* 139a, 140a; *b. Yeb.* 45b (3x), 46b, 65b*; b. Ket.* 27b*,* 69b*.* 80a*,* 80b*; b. Giṭ.* 33a, 78b; *b. Qid.* 50a; *b. B. Qam.* 73a. 99b; *b. B. Me*ṣ. 7a, 48b, 49b, 67a; *b. B. Bat.* 40b*,* 52a, 82b (2x), 160b (*b. B. Bat.* 164b); *b. Šebu.* 47a (*b. Šeb.* 48a); *b. ʿAb. Zar.* 22a, 64a, 69a, 70b (2x); *b. Ḥul.* 76b.
 
 ## 3. Cases citing a named opinion or dispute
 
