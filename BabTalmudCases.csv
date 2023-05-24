@@ -1,438 +1,438 @@
-index,sortable,citation,Attribution_Chain,Attributions_cited_in_story,Rabbis_mentioned_in_sequel,Party_or_Parties,Party_IDs,Judge,Sper_Sat_ID,Judge_Gen,Ri,Pu,St,Pr,Vow,Oth,Rabb. actor?,Explicit Case?
-1,0101.009a.001,ברכות דף ט עמוד א,,Simeon (T),,Pair of sages [or: Zoga?],pair_of_rabbis,Joshua b. Levi,1544,P1,1,,,,,,1,
-2,0101.022a.001,ברכות דף כב עמוד א,Rabin,,,anon [in rab setting?],anon_in_rab_setting?,Asi,535,P3,1,1,,,,,1,0
-3,0101.045b.001,ברכות דף מה עמוד ב,,,,Yehuda bar Maremar; Mar bar Rav Ashi;Aha of Difti,1464;2156;304,Maremar,2198,B6,1,,,,,,1,
-4,0201.134b.001,שבת דף קלד עמוד ב,,,,Father of new baby,0201_01,Rava,2582,B4,1,,,,,,,0
-5,0201.139a.001,שבת דף קלט עמוד א,Yehuda bar Shelat --> Rab Assi,,,kenishta de Ma`on,kenishta_de_ma`on,Yohanan,1570,P1,1,,,,,,,1
-6,0201.140a.001,שבת דף קמ עמוד א,Hiyya b. Abin,,,Hiyya b. Abin,1094,Ada b. Ahaba; Huna,194;895,B2;B2,1,,,,,,,1
-7,0202.006a.001,עירובין דף ו עמוד א,,,Huna; Hanan b. Raba,anon,0202_01,Rab,2578,B1,1,,,,,,,
-8,0202.007b.001,עירובין דף ז עמוד ב,,,Yosef; Abbaye,anon,0202_02,Judah b. Yehezqel,1394,B3,1,,,,,,,1
-9,0202.011b.001,עירובין דף יא עמוד ב,,,Sheshet; Gidal,be-resh-galuta,be_resh_galuta,Nahman,2285,B4,,,,,,,?,
-10,0202.012a.001,עירובין דף יב עמוד א,,,,anon,0202_03,Judah b. Yehezqel,1394,B3,1,,,,,,,1
-11,0202.025a.001,עירובין דף כה עמוד א,,,,a woman,0202_04,Nahman,2285,B4,,,,,,,,
-12,0202.060a,עירובין דף ס עמוד א,,,Abbaye,people of  Qaquna,people_of_qaquna,Yosef,1764,B3,1,,,,,,,1
-13,0203.025b;0205.082a.001;0404.074a.001,סנהדרין דף עד עמוד א,,,,anon,B0404_08,Raba*,2582,B4,,,,,,1,,
-14,0203.025b;0205.082b.001;0404.074a.001,יומא דף פב עמוד ב,,,,anon,B0404_08,Raba*,2582,B4,,,,,,1,,
-15,0203.113b.001,פסחים דף קיג עמוד ב,,,,Tobiah;Zibud,tobiah;zibud,Pappa,2518,B5,,,,,,1,?,
-16,0205.001a.001,ראש השנה דף לא עמוד ב,,,,anon,B0208_Anon_1,Amemar,514,B6,,,,,,1,,0
-17,0205.082b.002,יומא דף פב עמוד ב,,,,anon pregnant woman,B0203_01,Rabbi,1518,P?,1,,,,,,,
-18,0205.082b.003,יומא דף פב עמוד ב,,,,anon pregnant woman,B0203_02,Hanina,1212,P?,1,,,,,,,
-19,0206.011a.001,סוכה דף יא עמוד א,,Rab,Huna and Rab Yosef [about Rab and Samuel]; Y attests to story,Amram Hasida,2448,Hiyya b. Ashi,1102,B2,1,,,,,,1,1
-20,0206.011b.001,סוכה דף יא עמוד ב,,Samuel,NEEDS WORK,Matena,2225,Samuel,2757,B1,1,,,,,,1,0
-21,0206.031a.001,סוכה דף לא עמוד א,,,,woman;resh_galuta;rabbanan of resh galuta,B0206_01; resh_galuta; rabbanan_de_be_resh_galuta,Nahman,2284,B4,1,,,1,,,1,1
-22,0207.004a.001,ביצה דף ד עמוד א,,Rab; Yohanan,,Host of AbA,_194,Ada b. Ahavah,194,B2,1,,,,,,1,1
-23,0207.004a.002,ביצה דף ד עמוד א,,Rab; Yohanan; Rava,,Host of Pappa; Anon,_2518; 0207_01,Pappa,2518,B5,1,,,,,,1,1
-24,0207.007a.001,ביצה דף ז עמוד א,,,,Buyer of eggs,0207_02,Ami,495,P3? P4?,,,,1,,,,1
-25,0207.007a.002,ביצה דף ז עמוד א,,,,Buyer of eggs,0207_03,Ami,495,P3? P4?,,,,1,,,,1
-26,0207.012b.001,ביצה דף יב עמוד ב,,,,Tobi bar Nehemiah [= b. Matena?],1364,Yosef,1764,B3,1,,,,,,1,
-27,0207.012b.002,ביצה דף יב עמוד ב,,,Abbaye,Host of Raba b. Hanan,_2602,Raba,2582,B4,1,,,,,,1,
-28,0207.036b.001,ביצה דף לו עמוד ב,,,,Abbaye,121,Rabah,2581,B3,1,,,,,,1,
-29,0207.040a.001,ביצה דף מ עמוד א,,,,Hana bar Hanilai,1194,Huna,895,B2,1,,,,,,1,
-30,0207.27b.001,ביצה דף כז עמוד ב,,,,Owner of firstling,0207_05,Raba,2582,B4,,,,,,,,
-31,0210.026b.001,מגילה דף כו עמוד ב,,,,Ravina,2647,Ashi,571,B5/B7,,,,1,,1,1,1
-32,0210.026b.002,מגילה דף כו עמוד ב,,Hisda,,Rami b. Abba,2676,Pappa;Huna,2518;581,B5;B2[?],,,,,,1,1,
-33,0301.037a.001,יבמות דף לז עמוד א,,,,Anon relatives of betrothed,0301_01,Rafram,2647,B7,,,1,,,,,0
-34,0301.039b.001,יבמות דף לט עמוד ב,,,,Yabam;Yebamah?,0301_02; 0301_03,Rav,2578,B1,,,1,,,,,
-35,0301.045a.001,יבמות דף מה עמוד א,,Yohanan,,Aha Sar habirah; Tanhum b Hiyya; Acco,310; 2977,Ami,495,P3? P4?,,,1,,,,1?,1
-36,0301.045a.002,יבמות דף מה עמוד א,,,,Child of gentile man,0301_05,Judah,1394,B2,,,1,,,,,0
-37,0301.045a.003,יבמות דף מה עמוד א,,,,Child of gentile man,0301_06,Raba,2582,B4,,,1,,,,,0
-38,0301.045b.001,יבמות דף מה עמוד ב,Ravina; Gazin,,,Offspring of unmarried and gentile; offspring of married and gentile,0301_07; 0301_08,Yose br Abin,1663,P4? P5?,,,1,,,,,
-39,0301.045b.002,יבמות דף מה עמוד ב,Sheshet; Gazin,,,Offspring of unmarried and gentile; offspring of married and gentile,0301_09; 0301_36,Yose b. Zabida,1684,P?,,,1,,,,,
-40,0301.045b.003,יבמות דף מה עמוד ב,Aha b. Rabbah; Ravina,,,Offspring of unmarried or gentile OR offspring of married and gentile,0301_10,Amemar,514,B6,,,1,,,,,
-41,0301.046b.001,יבמות דף מו עמוד ב,Rabbah; [Yosef; Safra],,,convert [male],0301_11,Hiyya b. Rabbi; Oshaya b. Rabbi;Oshaya b. Hiyya,hiyya_b_r;oshaya_b_r;246,P?,,,1,,,,,1
-42,0301.064b.001,יבמות דף סד עמוד ב,,,,Fourth sister having given birth,0301_13,Simeon b. Gamaliel,2852,T,1,,,,,,,
-43,0301.064b.002,יבמות דף סד עמוד ב,,,Ishaq b. Yosep; Abbaye,mother of newborns,0301_12,Yohanan,1570,P2,1,,,,,,,1
-44,0301.065b.001,יבמות דף סה עמוד ב,,,,Wife and husband,0301_14; 0301_15,be-midrasha,be_midrasha,P-uncertain,,,1,,,,,
-45,0301.065b.002,יבמות דף סה עמוד ב,Aha [Munich 95 Hiyya] b Hanina; Abbahu; Asi,,,Wife with no children from husband,0301_16,Yohanan,1570,P2,,,1,,,1,,1
-46,0301.065b.003,יבמות דף סה עמוד ב,,,,Wife with no children from husband,0301_17,Ami,495,P3? P4?,,,1,,,1,,
-47,0301.065b.004,יבמות דף סה עמוד ב,,,,Wife,0301_18,Nahman,2283,B5,,,1,,,1,,
-48,0301.065b.005,יבמות דף סה עמוד ב,,,,Judith wife of Hiyya--disguised,_1088,Hiyya,1088,P1,,,,,,1,1,
-49,0301.075b.001,יבמות דף עה עמוד ב,,,,Anon-male,0301_19,Mar bar Rav Ashi,2156,B7,,,1,,,,,?
-50,0301.075b.002,יבמות דף עה עמוד ב,,,Pappi,Anon-male,0301_20,Bibi b. Abbaye,602,B5,,,1,,,,,?
-51,0301.080b.001,יבמות דף פ עמוד ב,,,rabbi (by stam),Woman gave birth after twelve,0301_21,Rabbah Tosfa`ah,2639,B7,,,1,,,,,
-52,0301.101b.001,יבמות דף קא עמוד ב,,,,Anon,0301_24,Pappa; Hunah b. Yehoshua,2518; 918,B5; B5,,,1,,,,?,
-53,0301.104a.001,יבמות דף קד עמוד א,,,Samuel,Anon,0301_25,Rabbah b. Hiyya Qeṭosfa`a,2598,B2,,,1,,,,?,
-54,0301.105a.001,יבמות דף קה עמוד א,,,Abba b. Mamal,Levir; widow,0301_26;0301_27,Ami,495,P3? P4?,,,1,,,,,
-55,0301.105b.001,יבמות דף קה עמוד ב,,,Ishmael b. Yose (L); Abdan (P1),minor widow,0301_28,Judah Patriarch,1508,L,,,1,,,,,
-56,0301.106a.001,יבמות דף קו עמוד א,,,,Levir; widow,0301_29; 0301_30,Hiyya b. Abba,1091,P3,,,1,,,1,,
-57,0301.106b.001,יבמות דף קו עמוד א,,,Pappa,DIL of Pappa,_2518,Abbaye,121,B4,,,1,,,,1,
-58,0301.110a.001,יבמות דף קי עמוד א,,,Pappa; Ashi,bride,0301_31,Bruna; Hananel,787; 1339,Berona; Hananel,,,1,,,,,
-59,0301.112a.001,יבמות דף קיב עמוד א,,baraita,Sherabia,levir; widow,0301_32;0301_33,Rava,2582,B4,,,1,,,,,
-60,0301.113b.001,יבמות דף קיג עמוד ב,,,,Ishaq b. Bisana,1903,Pedat,2478,P4,1,,,,,,1,
-61,0301.114b.001,יבמות דף קיד עמוד ב,,,,Woman,0301_32,Rava,2582,B4,,,1,,,,,
-62,0301.121b.001,יבמות דף קכא עמוד ב,,,Ada b. Ahaba,Wife of missing husband,0301_34,Abbaye; Yoseph,121;1764,B4; B3,,,1,,,,,
-63,0301.91b.001,יבמות דף צא עמוד ב,,,Huna b. Yehoshua ,Anon,0301_22,Pappa,2518,B5,,,1,,,,,0
-64,0301.97a.01;0403.155b.001; 0607.047b.001,יבמות דף צז עמוד א,,,,Anon,0301_23,Hiyya,1088,P1,,,1,,,,,0
-65,0301.97a.01;0403.155b.001; 0607.047b.001,יבמות דף צז עמוד א,,,,Anon,0301_23,Hiyya,1088,P1,,,1,,,,,0
-66,0302.010a.001,כתובות דף י עמוד א,,,,Anon[ket1],B0302_1,Nahman,2285,B3,,,,,,1,,0
-67,0302.010a.002,כתובות דף י עמוד א,,,,Anon[ket2],B0302_2,Gamaliel ,829,Y?,,,1,,,,,0
-68,0302.010a.003,כתובות דף י עמוד א,,,,Anon[Ket3],B0302_3,Gamaliel b. R,930,L,,,1,,,,,0
-69,0302.010b.001,כתובות דף י עמוד ב,,,,Anon[Ket4],B0302_5,Gamaliel b. R,930,L,,,1,,,,,0
-70,0302.010b.001,כתובות דף י עמוד ב,,,,Anon[Ket4],B0302_4,Gamaliel the Elder,828,E,,,1,,,,,0
-71,0302.010b.002,כתובות דף י עמוד ב,,,,Anon[Ket5],B0302_6,Rabbi,1508,L,,,1,,,,,0
-72,0302.013a.001,כתובות דף יג עמוד ב,,[Gamaliel; Joshua],Abaye,Anon[betrothed man and woman](2),B0302_2+,Yosef,1764,B3,,,1,,,,,?
-73,0302.025b.001,כתובות דף כה עמוד ב,,,,Anon[Ket6 witness] Anon[Ket7 priest],B0302_7; B0302_8,Ammi,495,P4,,,1,,,,,?
-74,0302.025b.002,כתובות דף כה עמוד ב,,,,Anon[Ket8 witness] Anon[Ket9 priest],B0302_9; B0302_10,Joshua b. Levi,1544,P1,,,1,,,,,?
-75,0302.025b.003,כתובות דף כה עמוד ב,,,Eleazar,Anon[Ket10 witness]; Anon[Ket11 priest],B0302_11; B0302_12,Resh Laqish,2879,P2,,,1,,,,,?
-76,0302.027b.001,כתובות דף כז עמוד ב,,,Abbaye responds,Anon[Ket12],B0302_13,Rava,2582,B4,,,,1,,1,,1
-77,0302.027b.002,כתובות דף כח עמוד א,,Nahman,Ada b. Matena,Anon[Ket-99; betrothed man]; anon[Ket-100; woman],B0302_14; B0302_15,Rava,2582,B4,,,1,1,,,,?
-78,0302.027b.003,כתובות דף כז עמוד ב,Dimi --> [Hanan Kartagenaa OR Joshua b. Levi],,,Anon[Ket13],B0302_16,Joshua b. Levi OR Rabbi,1508,P1; L,,,1,,,1,,
-79,0302.049b.001,כתובות דף מט עמוד ב,,,,Anon[Ket14] (plural),B0302_17+,Judah,1394,B2,,,1,1,,,,0
-80,0302.049b.002,כתובות דף מט עמוד ב,,,,Anon[Ket15] (plural),B0302_18+,Hisda,1345,B3,,,1,1,,,,0
-81,0302.049b.003,כתובות דף מט עמוד ב,,,,Anon[Ket16] (plural),B0302_19+,Rava,2582,B4,,,,,,,,0
-82,0302.050b.001,כתובות דף נ עמוד ב,,,Nahman,anon[Ket17ovda],B0302_20,Judges of Nehardea,20347,?,,,1,1,,,,
-83,0302.050b.002,כתובות דף נ עמוד ב,,,Nahman,anon[Ket18ovda],B0302_21,Hana b. Bizana,21004,B3,,,1,1,,,,
-84,0302.050b.004,כתובות דף נ עמוד ב,,,,Orphans; Benai bro of Hiyya b. Abba,B0302_22; _2658,Samuel,2763,B1,,,1,1,,,1,
-85,0302.050b.005,כתובות דף נ עמוד ב,,,Abaye,Anon[Ket19] (and orphans),B0302_23+,Yosef,1764,B3,,,1,1,,,,
-86,0302.051a.001,כתובות דף נא עמוד א,,,Sages,anon[Ket20-orphan]; anon[Ket21-orphan],B0302_24; B0302_25,Rava,2582,B4,,,1,1,,,,?
-87,0302.052a.001,כתובות דף נב עמוד א,,,,[anon-widow; anon-heirs],B0302_26; B0302_27,Levi,2032,B3,,,1,1,,,,0
-88,0302.052b.001,כתובות דף נב עמוד ב,,,,Relations of Yohanan,_1570,Yohanan,1570,P2,,,1,1,,,1,1
-89,0302.054a.001,כתובות דף נד עמוד א,,,Rav; Samuel ,anon[Ket21-widow],B0302_28,Nahman,2285,B3,,,1,1,,,,1
-90,0302.054a.002,כתובות דף נד עמוד א,,,,House of Eliashib; daughter in law of house,house of Eliashib; daugher in law of house of Eliashib.,Ravina,2647,B6/7?,,,1,1,,,?,1
-91,0302.054a.003,כתובות דף נד עמוד א,,,,Deceased; wife; her heirs,B0302_29; B0302_30; B0302_31,Idi b. Avin,343,B4,,,1,1,,,,?
-92,0302.054b.001,כתובות דף נד עמוד ב,,,,Relations of Yohanan,_1570,Yohanan; Resh Laqish,1570; 2879,P2,,,1,1,,,1,
-93,0302.057a.001,כתובות דף נז עמוד א,,Nahman -->  Samuel ,Abaye,Sister of Rami b. Hamma; Avya,_2681; 229,Yosef,1764,B3,,,1,1,,,1,1
-94,0302.060b.001,כתובות דף ס עמוד ב,,Meir; Judah; BH; BS; [Ula,Yosef,Tenant of Abaye,_121,Abbaye,121,B4,,,1,,,,1,?
-95,0302.060b.002,כתובות דף ס עמוד ב,,Nahman,Pappi,Anon[Ket23],B0302_33,Pappa; Huna b. Joshua,2518; 918,B5,,,1,,,,,0
-96,0302.060b.003,כתובות דף ס עמוד ב,,,be resh galuta,Anon[Ket24_old woman],B0302_34,Nahman,2285,B3,,,1,,,,,1
-97,0302.063b.001,כתובות דף סג עמוד ב,,,Hanina of Sura,Anon[Ket27],B0302_35,Mar Zutra,2161,B6,,,1,,,,,
-98,0302.065a.001,כתובות דף סה עמוד א,,,,Wife of Abbaye,_121,Rava,2582,B4,,,1,1,,,1,1
-99,0302.065a.002,כתובות דף סה עמוד א,,,,Wife of Yosef b. Rava,_1781,Nehemiah b. Yosef,2277,B5,,,1,1,,,1,1
-100,0302.065a.003,כתובות דף סה עמוד א,,,,Wife of Yosef b. Menashia,_1776,Yosef,1764,B3,,,1,1,,,1,1
-101,0302.069b.001,כתובות דף סט עמוד א,Manyomi b. Nehumi,,,Anon[Ket25_widow]; Anon[Ke26_brothers],B0302_36; B0302_37,Ameimar,514,B6,,,1,1,,,,1
-102,0302.078b.001,כתובות דף עט עמוד א,,Hanilai b. Idi --> Samuel,Anan; Uqba; Rava,Anon[Ket26_widow]; Anon[Ke27_daughter],B0302_38; B0302_39,Nahman,2285,B4,,,,1,,,,1
-103,0302.080a.001,כתובות דף פ עמוד א,Judges of Pumbedita,,,Anon[Ket29],B0302_40,Judah,1394,B2,,,1,1,,,,
-104,0302.080a.002,כתובות דף פ עמוד א,,,Rabbanan,Anon[Ket30],B0302_41,Ammi,495,P4,,,1,1,,,,
-105,0302.080b.001,כתובות דף פ עמוד ב,Pappa,,,Anon[Ket31_wife],B0302_42,Rava,2582,B4,,,1,1,,,,
-106,0302.084b.001,כתובות דף פד עמוד ב,,,,Herdsman; Orphans; creditors,B0302_43; B0302_44+; B0302_45+,Nahman,2285,B4,,,,1,,,,
-107,0302.084b.002,כתובות דף פד עמוד ב,,,,Relations of Yohanan; Anon[Ket_xx_orphans],_1570; B0302_58+,Yohanan; Resh Laqish,1570; 2879,P2,,,,1,,,1,
-108,0302.085a.001,כתובות דף פה עמוד א,,Rav; Samuel; Nahman,Pinhas b. Ammi,Pappa; Hunah b Joshua,2518; 918,Rava,2582,B4,,,,1,,,1,1
-109,0302.085a.002,כתובות דף פה עמוד א,,,,(Abimi b. Abahu?);Hamma b. Rabbah b. Abbahu,_131; 20990,Abahu,92,P3,,,,1,,,1,
-110,0302.085a.003,כתובות דף פה עמוד א,,,,Anon[Ket32_woman],B0302_48,Nahman,2285,B3,,,,1,,,,1
-111,0302.085a.004,כתובות דף פה עמוד א,,,[daughter of Hisda],Anon[Ket33_woman],B0302_49,Rava,2582,B4,,,,1,,1,,1
-112,0302.085a.005,כתובות דף פה עמוד א,,,Pappi,Anon[Ket34_woman]; Anon[Ket35_litigant],B0302_50; B0302_51,Bibi b. Abbaye,602,B5,,,,1,,,,
-113,0302.085b.001,כתובות דף פה עמוד ב,,,,Depositor; heirs of Miyyasha b. b. Joshua,B0302_52; _2085,Ammi,495,P4,,,,1,,,1,
-114,0302.085b.002,כתובות דף פה עמוד ב,,,,Depositor; heirs of Hasa,B0302_53; _1344,Nahman,2285,B3,,,,1,,,1,
-115,0302.085b.003,כתובות דף פה עמוד ב,,,,house of Dimi = Avdimi P5?],_867,Abba,6,P5?,,,,1,,,1,
-116,0302.086a.001; [Segal; p. 20 BQ 98b],כתובות דף פו עמוד א,,,Rafram,Anon[Ket_54]; Anon[Ket_55],B0302_54; B0302_55,Ashi,571,B6,,,,1,,,?,
-117,0302.091a.001,כתובות דף צא עמוד א,,,,heirs of wives of bar Sarsur,_770,Amram; Nahman,2285,B2/B3,,,1,1,,,?,
-118,0302.091b.001,כתובות דף צא עמוד ב,,,,Anon[Ket36_creditor]; Anon[Ket37_heirs],B0302_56; B0302_57,Abbaye,121,B4,,,,1,,,,
-119,0302.094b.002,כתובות דף צד עמוד ב,,,,Anon[Ket38_creditor]; Anon[K39_creditor],B0302_59; B0302_60,Joseph,1764,B3,,,,1,,,,
-120,0302.098a.001,כתובות דף צח עמוד א,,Simeon,,Anon[Ket40_widow];Anon[Ket41_heirs],B0302_61; B0302_62+,Rava,2582,B4,,,,1,,,,
-121,0302.098a.002,כתובות דף צח עמוד א,,,,depositary orphans,B0302_63; B0302_64+,Ammi,495,P4,,,,1,,,,
-122,0302.104b.001,כתובות דף קד עמוד ב,,,,Hiyya Arikha; MIL+,1090; _1090,Rabbah b. Shela,2627,B3,,,1,1,,,1,1
-123,0302.109b.001,כתובות דף קט עמוד ב,,Yohanan,,Anon[Ket43_epitropos of estate],B0302_102,Abbaye,121,B4,,,,1,,,,
-124,0302.111a.001,כתובות דף קיא עמוד א,,,,Anon[Ket44_levir],B0302_65,Hanina,1213,P1,,,1,,,1,,
-125,0302.60a.001,כתובות דף ס עמוד א,,,Dimi b. Yosef,Anon[Ket22],B0302_66,Samuel,2763,B1,,,1,,,,,
-126,0303.007b.001,נדרים דף ז עמוד ב,,,,One banned by  Yirmiah b. Abba,_1954,Hisda,1345,B3,,,,,1,,1,
-127,0303.008b.001,נדרים דף ח עמוד ב,,,,Rabina,2647,Ashi,571,B6,,,,,1,,1,
-128,0303.020b.001,נדרים דף כ עמוד ב,,,,Anon,0303_01,Rabbi,1508,L,,,,,,1,,
-129,0303.020b.002,נדרים דף כ עמוד ב,,,,Anon,0303_02,Rab,2578,B1,,,,,,1,,
-130,0303.021b.001,נדרים דף כא עמוד ב,,,,Anon,0303_03,Huna,895,B2? B5?,,,,,1,,,0
-131,0303.021b.002,נדרים דף כא עמוד ב,,,,Anon,0303_04,Rabbah b. Huna,2596,B4,,,,,1,,,0
-132,0303.021b.003,נדרים דף כא עמוד ב,,,,Anon,0303_05,Assi,534,B6?,,,,,1,,,0
-133,0303.021b.004,נדרים דף כא עמוד ב,,,,Anon,0303_06,Eleazar,467,P3,,,,,1,,,0
-134,0303.021b.005,נדרים דף כא עמוד ב,,,,Anon,0303_07,Yohanan,1570,P2,,,,,1,,,0
-135,0303.022a.001,נדרים דף כב עמוד א,,,,grandson of Yannai,_1814,Yannai Sabba,1814,P1?,,,,,1,,1,
-136,0303.022b.001,נדרים דף כב עמוד א,,,,Ulla,2409,Yohanan,1570,P2,,,,,,1,1,
-137,0303.022b.002,נדרים דף כב עמוד ב,,,,Anon,0303_08,Assi,534,B6?,,,,,1,?,,
-138,0303.022b.003,נדרים דף כב עמוד ב,,Rabbi [Abot],Raba,Sehora,2364,Nahman,2285,B3,,,,,1,,1,1
-139,0303.023a.001,נדרים דף כג עמוד א,,,,Abbaye,121,Yosef,1764,B3,,,,,1,,1,1
-140,0303.025a.001,נדרים דף כה עמוד א,,,,Anon woman,0303_13,Raba,2582,B4,,,,1,1,,,1
-141,0303.050b.001,נדרים דף נ עמוד ב,,,,Anon woman,0303_09,Judah [of Nehardea?],1394,B2,,,,,,1,?,0
-142,0303.050b.002,נדרים דף נ עמוד ב,,,,Anon; Anon,0303_10;0303_11,Rabbi,1508,L,,,,?,,1,,
-143,0303.059a.001,נזיר דף נט עמוד א,,,,One brought for flogging,B0304_01,Ammi,495,P?,,,,,,1,,0
-144,0303.090a.001,נדרים דף צ עמוד א,,,,Aha b. Huna; student,,Hisda,1345,B3,,,,,1,,1,1
-145,0306.005b.001,גיטין דף ה עמוד ב,,,,Simeon b. Abba,2839,Joshua b. Levi,1544,P1,,,1,,,1,1,
-146,0306.005b.002,גיטין דף ה עמוד ב,,,,Rabin b. Hisda,149,Yohanan,1570,P2,,,1,,,1,1,
-147,0306.005b.003,גיטין דף ה עמוד ב,,,,Bar Hadaya,723,*Ahi; Ami; Assi,*581;495;535,B1; P3; P3,,,1,,,1,1,
-148,0306.005b.004,גיטין דף ה עמוד ב,,,,Rabbah bar bar Hanah,2594,Eliezer,497,P3,,,1,,,1,1,
-149,0306.006a.001,גיטין דף ו עמוד א,,Hanin,,Kahana,2004,Rab,2578,B1,,,1,,,1,1,
-150,0306.014a.001,גיטין דף יד עמוד א,,Huna,Raba,Gardeners (1); gardeners (others),0306_01;0306_02+,Nahman,2285,B3,,,,1,,,,
-151,0306.018b.001,גיטין דף יח עמוד ב,,Simeon (T),,Husband; agents; [wife],0306_03;0306_4+;0306_05,Joshua b. Levi,1544,P1,,,1,,,1,,
-152,0306.019a.001,גיטין דף יט עמוד א,,,,Who exactly?,0306_06,Kahana,2004,?,,,,,,1,,0
-153,0306.027a.001,גיטין דף כז עמוד א,,,,finder?,0306_07,Rabbah,2581,B3,,,1,,,1,,0
-154,0306.029b.001,גיטין דף כט עמוד ב,,,,Agent of husband,0306_08,Raba,2582,B4,,,1,,,,,
-155,0306.033a.001,גיטין דף לג עמוד ב,Rabbah bar bar Hanah,,,husband; [wife],0306_09;0306_10,Yoshia de-min Usha,1388,P2,,,1,,,,,
-156,0306.035a.001,גיטין דף לה עמוד א,,Rab,,Widow,0306_11,Huna,895,B2,,,1,1,,,,
-157,0306.035a.002,גיטין דף לה עמוד א,,Rab Huna?,,Widow,0306_12,Rabbah b. Rab Huna,2596,B3,,,1,1,,,,?
-158,0306.037a.001,גיטין דף לז עמוד א,,,,Relation of Asi,535,Asi; Yohanan,535; 1570,P3;P2,1,,,1,,,1,
-159,0306.037b.001,גיטין דף לז עמוד ב,,,,creditors,0306_13,Rab,2578,B2,1,,,1,,,,0
-160,0306.039b.001,גיטין דף לט עמוד ב,,Zeira; Nahman,Nahman b. Yishaq; Raba b. She`elta; Rabbis from Mahoza; Hiyya b. Abin,Slave woman; dying owner,0306_14; 0306_15,Nahman,2285,B3,,,1,1,,,,
-161,0306.040a.001,גיטין דף מ עמוד א,,Amemar; Dimi,Rabbanan,Slaves,0306_16+,Rabina,2647,B6/7?,,,1,1,,,,
-162,0306.040a.002,גיטין דף מ עמוד א,,,,[Yosef b. Raba on behalf of slave?],0306_17,Pappa,2518,B5,,,1,1,,,,
-163,0306.045a.001,גיטין דף מה עמוד א,,,,escaped slave;owner,0306_18;0306_19,Ami,495,P3,,,1,1,,1,,
-164,0306.046b.001,גיטין דף מו עמוד ב,,,Abba,Captives?,0306_20+,Huna,895,B2,,,,1,,,,
-165,0306.046b.002,גיטין דף מו עמוד ב,,,Rabbanan,Sold himself to the games,0306_21,Ami,495,B3,,,1,1,,,,
-166,0306.052a.001,גיטין דף נב עמוד א,,Mishnah; Hanilai; Shemuel,,caregiver?;Relations of orphans,0306_22;0306_23+,Nahman,2285,B3,,,,1,,,,1
-167,0306.052a.002,גיטין דף נב עמוד א,,Hanilai; Shemuel,,Rabbana Uqba; orphans,2423;0306_24,Nahman,2285,B3,,,,1,,,1,1
-168,0306.052b.001,גיטין דף נב עמוד ב,,Huna -Rab; Shela,,Amram Saba`a;relations of orphans,Amram_Sabaa; 0306_25,Nahman,2285,B3,,,,1,,,?,1
-169,0306.054b.001,גיטין דף נב עמוד ב,,Yohanan/Yose,Assi,householder,0306_27,Ami,495,B3,,1,,,,,,1
-170,0306.054b.001,גיטין דף נד עמוד ב,,Yohanan-Yose,Asi,buyer of pure goods.,0306_26,Ami,495,B3,,1,,,,1,,
-171,0306.054b.002,גיטין דף נד עמוד ב,,,Yirmiya?,Scribe of Torah,0306_27,Ami,495,B3,,,,1,,1,,
-172,0306.054b.003,גיטין דף נד עמוד ב,,,,Preparer of Torah scroll,0306_28,Abbahu,92,P3,,,,1,,1,,
-173,0306.058b.001,גיטין דף נח עמוד ב,,,Huna b. Yehoshua,Giddal b. R/De`ila`i; landowners,Giddal_b_ Re`ila`I;0306_29,Pappa,2518,B5,,,,1,,1,?,
-174,0306.060b.001,גיטין דף ס עמוד ב,,,,field owners,0306_30+,Abbaye,121,B4,,,,1,,,,
-175,0306.073a.001,גיטין דף עג עמוד א,,,,Seller of land; [purchaser of land],0306_31;0306_32,Rabina; Raba,2647;2582,B6/7; B4,,,,1,,,,
-176,0306.073a.003,גיטין דף עג עמוד א,,,,Pappa; Huna b. Yehoshua,2518;918,Raba,2582,B4,,,,1,,,1,
-177,0306.077a.003,גיטין דף עז עמוד ב,,,Ilish,dying man,0306_33,Raba,2582,B4,1,,,1,,,,
-178,0306.078b.001,גיטין דף עח עמוד ב,Mordechai-Ashi,,,divorcee/levirate widow,0306_34,Anon,99999,B-uncertain,,,1,,,,,0
-179,0306.082a.001,גיטין דף פב עמוד א,,,,[one preparing a divorce],0306_35,Ami[alit. Yohanan; Rosh: Yannai],495,B3,,,1,,,,,0
-180,0306.088a.001,גיטין דף פח עמוד א,,,Yirmiyah,who?,0306_36,Abbahu,92,P3,,,1,,,,,?
-181,0307.008b.001,קידושין דף ח עמוד ב,,,,Sons of Huna bar Abin; seller,_899+;0307_01,Ami,495,P3?,,,,1,,,1,1
-182,0307.031b.001,קידושין דף לא עמוד ב,,,Eleazar,Assi,535,Yohanan,1570,P2,,,,,,1,1,1
-183,0307.045b.001,קידושין דף מה עמוד ב,,,Assi,betrothed minor,0307_03,Rab,2578,B1,1,,1,,,,,0
-184,0307.050a.001,קידושין דף נ עמוד א,Hiyya b. Abin,,,anon husband; anon wife,0307_11;0307_12,Hisda; Huna,1345; 895,B3; B2,,,,,,?,,0
-185,0307.052b.001,קידושין דף נב עמוד ב,,,,man who tossed coins,0307_04,Rava,2582,B4,,,1,,,,,1
-186,0307.052b.002,קידושין דף נב עמוד ב,,,,tenant farmer,0307_05,Rava,2582,B4,,,1,1,,,,1
-187,0307.052b.003,קידושין דף נב עמוד ב,,,,brewer,0307_06,Rava,2582,B4,,,1,1,,,,1
-188,0307.065b.001,קידושין דף סה עמוד ב,,,,Mar Zutra b. Rab Mari b. Isur; Ada Sabba  b. Rab Mari b. Isur,2164;220,Ashi,571,B6,,,,,,,,
-189,0307.066a.001,קידושין דף סו עמוד א,,,,Blind student,blind_student,Samuel,2763,B1,,,1,,,1,1,1
-190,0307.070a.001,קידושין דף ע עמוד א,,,,man buying meat; Judah,0307_9;1394,Nahman,2285,B3,,,1,,,1,,
-191,0307.076b.001,קידושין דף עו עמוד ב,,,,Host of Ada b.Ahaba; Bibi,_194;600,Yosef,1764,B3,,,1,,,,1,1
-192,0307.079b.001,קידושין דף עט עמוד ב,,,Samuel; [Rab],Woman who betrothed herself and her father betrothed,0307_10,Yosef b. Menashia of Dewil,1776,B2,,,1,,,,,1
-193,0401.012a.001,בבא קמא דף יב עמוד א,,[Nahman?],,Anon[BQ-1],B0401_1,Judges of Nehardea,20347,[B?],,,,1,,,,0
-194,0401.012a.002,בבא קמא דף יב עמוד א,,[Nahman?],,Anon[BQ-2],B0401_2,Hana b. Bizana,21004,B3,,,,1,,,,0
-195,0401.027b.001,בבא קמא דף כז עמוד ב,,,,Anon[BQ-3],B0401_3,Samuel,2763,B1,,,,1,,,,
-196,0401.027b.002,בבא קמא דף כז עמוד ב,,,,Anon[BQ-4],B0401_4,Rava;Rabba,2581; 2582,[B2;B4],,,,1,,,,
-197,0401.037a.001;0504.050b.001,בבא קמא דף לז עמוד א,,,,Hanan Bisha; Anon[BQ-5],Hanan Bisha; B0401_5,Huna,895,[B2/P3],,,,1,,,?,1
-198,0401.058b.001,בבא קמא דף נח עמוד ב,,,Nahman,Anon[BQ-6]; Anon[BQ-7],B0401_6; B0401_7,Resh Galuta; Nahman,2285; _Resh galuta,B3,,,,1,,,,1
-199,0401.059b.001,בבא קמא דף נט עמוד א,,,,anon[ovda],B0401_8,Pappa; Huna b. Joshua,2518; 918,B5,,,,1,,,,
-200,0401.073a.001,בבא קמא דף עג עמוד א,Yirmiyah of Difti,Rava,,Anon[BQ-8],B0401_9,Pappa,2518,B5,,,,1,,,,
-201,0401.084a.001,בבא קמא דף פד עמוד א,,,Rava,Anon[BQ-102],B0401_10; B0401_11,Pappa b. Samuel,2527,B4,,,,1,,,,
-202,0401.084a.002,בבא קמא דף פד עמוד א,,,,Anon[BQ-; 103;ass driver]; Anon[BQ-104; a child],B0401_12; B0401_13,Rava,2582,B4,,,,1,,,,
-203,0401.088a.001,בבא קמא דף פח עמוד ב,,,Rava; Hoshaya,Mother of Samuel b. Abba of Hagronya[??],_2769,Yirmiyah b. Abba,1954,B2,,,,1,,,1,1
-204,0401.090b.001,בבא קמא דף צ עמוד ב,,Yose ha-gelili,,Anon[BQ-10],B0401_14,Judah Patriarch[L?],1508,L?,,,,1,,,,1
-205,0401.103a.001,בבא קמא דף קג עמוד א,,,,Kahana[B?],2004,Rab,2578,B1,,,,1,,,1,1
-206,0401.096b.001,בבא קמא דף צו עמוד ב,,,Rava,anon[BM-105;  thief]; anon[BM-106; owners],B0401_15; B0401_16+,Nahman,2285,B3,,,,1,,,,1
-207,0401.098a.001,בבא קמא דף צח עמוד א,,,,agardamis tayya,Agardamis Tayy`a,Pappa; Huna b. Joshua,2518; 918,B5,,,,1,,,?,0
-208,0401.098b.001,בבא קמא דף צח עמוד ב,??,,,Ashi,571,Rafram[B6?],2690,B6?,,,,1,,,1,0
-209,0401.099b.001,בבא קמא דף צט עמוד ב,Rabbah b. b. Hanah,,,Anon[BQ-11],B0401_17,Yohanan,1570,P2,1,,,1,,,,
-210,0401.099b.002,בבא קמא דף צט עמוד ב,,baraita,Kahana[B2?]; Assi[B1?],Anon[BQ-11;hagrama[?]],B0401_18,Rab,2578,B1,1,,,1,,,,
-211,0401.112a.001,בבא קמא דף קיב עמוד א,,[Abbahu quotes:] Jos.b. Hamma in n. Oshaya,Abbahu,Yirmiyah; son of father in law of Yirmiya,1952; _1952,Abin[P3?],139,P3?,,,,1,,,1,1
-212,0401.115a.001,בבא קמא דף קטו עמוד א,,Rab?,,Hanan Bisha; unspecified,Hanan Bisha; B0401_19,Huna,895,B2/P3,,,,1,,,?,1
-213,0401.115a.002,בבא קמא דף קטו עמוד א,,,[Kahan[B?]; this is stam],Abimi b. Nazi FIL of Ravina; Anon[BQ-thief],133; B0401_20,Rabina[?],2647,B6/7?,,,,1,,,1,
-214,0401.116b.001,בבא קמא דף קטז עמוד ב,,Mishnah/baraita,[Joseph; huna b. Hiyya; Nahman],Anon[BQ-14]; Anon[BQ-15; thief]; wheat belonging to Resh Galuta,B0401_36; B0401_22; _Resh Galuta,Nahman,2285,B3,,,,1,,,?,1
-215,0401.117a.001,בבא קמא דף קיז עמוד א,,baraita,Rabbanan,Mari b. Pinhas b. Hisda[?]; Anon[BQ-16]; gentiles,2189; B0401_21; B0401_22+,[Joseph; huna b. Hiyya; Nahman],571,B6,,,,1,,,1,
-216,0401.117a.002,בבא קמא דף קיז עמוד א,,,Kahana[B3; B4?],Anon[BQ-17; owner]; Anon[BQ-18],B0401_25; B0401_35,Rab,2578,B1,,,,1,,,0,1
-217,0401.117b.001,בבא קמא דף קיז עמוד ב,,,Abbaye; Gloss by Ashi,depositary; thief; depositors,B0401_26; B0401_27; B0401_28,Rabbah,2581,B3,,,,1,,,0,1
-218,0401.117b.002,בבא קמא דף קיז עמוד ב,,,[Joseph; Huna b. Hiyya; Nahman],Depositary; thief,B0401_29; B0401_30,Rabbah,2582,B4,,,,1,,1,?,1
-219,0401.117b.003,בבא קמא דף קיז עמוד ב,,,Abbaye,Ferry rider; ass owner.,B0401_30; B0401_31,Rabbah,2581,B3,,,,1,,1,0,1
-220,0402.007a.001,בבא מציעא דף ז עמוד א,Hiyya b. Abin,Nahman,,Anon[BM-1]; anon[BM-99],B0402_1; B0402_99,Hisda; Huna,1345; 895,B3; B2,1,,,1,,,1,0
-221,0402.014a.001,בבא מציעא דף יד עמוד א,,,,Abuha b. Ihi,98,Samuel,2763,B1,,,,1,,,?,1
-222,0402.016a.001,בבא מציעא דף טז עמוד א,,,Joseph; Abaye,Buyer; victim of theft,B0402_3; B0402_4,[Pumbedita],20348,?,,,,1,,,,0
-223,0402.017a.001,בבא מציעא דף יז עמוד א,,,,Shabetai b. R. Marinus,2711,Hiyya[P1?],1088,P1,,,1,1,,1,1,1
-224,0402.018b.001,בבא מציעא דף יח עמוד ב,,,,Parties to a divorce,B0402_100+,Rabbah,2581,B3,,,1,,,1,,0
-225,0402.023b.001,בבא מציעא דף כג עמוד ב,,,,Jacob b. Abba,1840,Abbaye,121,B4,,,,1,,,1,1
-226,0402.023b.002,בבא מציעא דף כג עמוד ב,,,,Anon[BM-5],B0402_4,Rab,2578,B1,,,,1,,,?,1
-227,0402.024b.001,בבא מציעא דף כד עמוד ב,,,,Anon[BM-6],B0402_5,Judah[b. Yehezqel],1394,B2,,,,1,,,,1
-228,0402.024b.002,בבא מציעא דף כד עמוד ב,,,,Anonymous finder; property of be bar Marion,B0402_8; be bar Marion,Abbaye,121,B4,,,,1,,,?,1
-229,0402.024b.003,בבא מציעא דף כד עמוד ב,,,,Ishaq Napaha,1885,Yohanan or be midrasha,1570/be Midrasha,P2,,,,1,,,1,
-230,0402.024b.004,בבא מציעא דף כד עמוד ב,,,,Ammi,534,Yohanan or Assi or be midrasha,1570/294/be Midrasha,P2; P3,1,,,?,,,1,1
-231,0402.028b.001,בבא מציעא דף כח עמוד ב,,,[Rabbah b. Huna],Father of R. Pappa,_2518,Rabba b. Huna,2596,B3,,,,1,,,1,1
-232,0402.029b.001,בבא מציעא דף כט עמוד ב,,,Judah[b. Yehezkel]  > Samuel --> Tarfon,Rahava,22946,Yosef,1764,B3,,,,1,,,?,1
-233,0402.031b.001,בבא מציעא דף לא עמוד ב,,,,Issur and Safra,Issur; 2398,Rabba b. Huna,2596,B3,,,,1,,,1,1
-234,0402.035a.001,בבא מציעא דף לה עמוד א,,,,Anon[BM-7],B0402_6,Nahman,2285,B3,,,,1,,,,1
-235,0402.036a.001,בבא מציעא דף לו עמוד א,,Hisda,,Anon[BM-8; gardeners],B0402_7+,Rab,2578,B1,,,,1,,,,
-236,0402.038b.001,בבא מציעא דף לח עמוד ב,,,Amram,Anon[BM-9],B0402_8,Sheshet,2938,B3,,,,1,,,,0
-237,0402.039b.001,בבא מציעא דף לט עמוד ב,,,,Mari b. Isaq; brother,2178; _2178,Hisda; Ammi,1345; 495,B3; [P3?],,,?,1,,,1,1
-238,0402.042a.001,בבא מציעא דף מב עמוד א,,,,Anon[BM-depositary],B0402_12,Rava,2582,B4,,,,1,,,,1
-239,0402.044b.001,בבא מציעא דף מד עמוד ב,,,,Rab,2578,Hiyya,1088,P1,,,,1,,,1,1
-240,0402.048b.001,בבא מציעא דף מח עמוד ב,Raba,,,Hiyya b. Yosef; Anon[BM-11],1113;B0402_10,Yohanan,1570,P2,,,,1,,,1,1
-241,0402.049a.002,בבא מציעא דף מט עמוד א,,,,Kahana,2004,Rab,2578,B1,,,,1,,,1,
-242,0402.049a.003,בבא מציעא דף מט עמוד א,,,Rabbanan,Anon[BM-12],B0402_11,Rava,2582,B4,,,,1,,,,1
-243,0402.049b.001,בבא מציעא דף מט עמוד ב,Pappi; Ravina,Rabbanan; Rava,Ravina[who is also tradent?],Tavot; Samuel b. Zutra,1351/2784,Rava,2582,B4,,,,1,,,1,1
-244,0402.049b.002,בבא מציעא דף מט עמוד ב,,,,anonymus(*),B0402_15,Hisda,1345,B3,,,,1,,,,1
-245,0402.051a.001,בבא מציעא דף נא עמוד א,,,,landlord[?] of Rami b. Hama,_2681,Nahman,2285,B3,,,,1,,,1,1
-246,0402.051a.002,בבא מציעא דף נא עמוד א,,,,Anon[BM-14],B0402_13,Rava,2582,B4,,,,1,,,,1
-247,0402.051a.003,בבא מציעא דף נא עמוד א,,Eleazar[P?],,Anon[BM-15],B0402_14,Hisda,1345,B3,,,,1,,,,1
-248,0402.066a.001,בבא מציעא דף סו עמוד א,,,Judah[b. Yehezkel],house of the exilarch,_Resh Galuta,Nahman,2285,B2; B3,,,,1,,,?,0
-249,0402.067a.001,בבא מציעא דף סז עמוד א,Pappi,[Rabba b Huna],,anon[ovda],B0402_18,Ravina[B6/7?],2647,B6/7?,,,,1,,,,
-250,0402.067a.002,בבא מציעא דף סז עמוד א,,,,Anon[BM-17; orphana],B0402_16+,Ashi,571,B6,,,,1,,,,
-251,0402.069a.002,בבא מציעא דף סט עמוד א,,,,Samaritans,Samaritans+,Pappa[B5?],2518,B5,,,,1,,,,1
-252,0402.069a.001,בבא מציעא דף סט עמוד א,,[M],,Menashya b. Gada,2140,Abbaye,121,B4,,,,1,,,1,1
-253,0402.074b.001,בבא מציעא דף עד עמוד ב,,,Rabbanan,Anon[BM-18],B0402_20,Pappa[B5?],2518,B5?],,,1,1,,,,1
-254,0402.081a.001,בבא מציעא דף פא עמוד א,,,Rabbanan,Anon[BM-19; alkaline sellers],B0402_21+,Pappa[B5?],2518,B5,,,,1,,,,1
-255,0402.081a.002,בבא מציעא דף פא עמוד א,,,,Anon[BM-20; seller]; Anon[BM-21; purchaser],B0402_22; B0402_23,Nahman,2285,B3,,,,1,,,,1
-256,0402.081b.001,בבא מציעא דף פא עמוד ב,,,Rabbanan,Anon[BM-22; 23],B0402_24+,Rava,2582,B4,,,,1,,,,1
-257,0402.083a.001,בבא מציעא דף פג עמוד א,,,Joseph b. Rava,Anon[BM-24],B0402_25,Rava,2582,B4,,,,1,,,,
-258,0402.083a.002,בבא מציעא דף פג עמוד א,,,Joseph b. Rava,Anon[BM-25],B0402_26,Rava,2582,B4,,,,1,,,,
-259,0402.093a.001,בבא מציעא דף צג עמוד א,,,Abbaye,Anon[BM-26; shepher],B0402_27,Rabbah,2581,B3,,,,1,,,,1
-260,0402.093b.001,בבא מציעא דף צג עמוד ב,,,,Bar Adda Sebola`a,Bar Adda Sebola`a,Pappa[B5?],2518,B5?,,,,1,,,?,1
-261,0402.093b.002,בבא מציעא דף צג עמוד ב,,,,Aybo[?]; be-Ronia[?],334; _2665,Nahman,2285,B3,,,,1,,,1,1
-262,0402.096b.001,בבא מציעא דף צו עמוד ב,,,,Anon[BM-28],B0402_28,Rava,2582,B4,,,,1,,,,1
-263,0402.096b.002,בבא מציעא דף צו עמוד ב,,[Kahana; Assi],Kahana[B2?]; Assi[B1?],Anon[BM-29],B0402_29,Rab,2578,B1,,,,1,,,,1
-264,0402.097a.002,בבא מציעא דף צז עמוד א,,,Rabbanan,Maremar b. Hanina[B6?]; be Hoza`e,2199; be Hoza`e,Rava,2582,B4,,,,1,,,1,1
-265,0402.097b.001,בבא מציעא דף צז עמוד א,,,,Anon[BM-Borrower of item],B0402_30,Pappa[B5?],2518,B5,,,,1,,,,1
-266,0402.101a.001,בבא מציעא דף קא עמוד א,,,,Anon[BM-30],B0402_31,Rab,2578,B1,,,,1,,,,0
-267,0402.106b.001,בבא מציעא דף קו עמוד ב,,,Rabbanan,Anon[BM-31],B0402_32,Rava,2582,B4,,,,1,,,,1
-268,0402.109a.001,בבא מציעא דף קט עמוד א,,,,Ronya the planter of Ravina,_2647,Rava,2582,B4,,,,1,,,1,
-269,0402.109b.001,בבא מציעא דף קט עמוד ב,,,Rava,Anon[BM-32; planter],B0402_33,Pappa b. Samuel,2527,B4,,,,1,,,,
-270,0402.116a.001,בבא מציעא דף קטז עמוד א,,,[Rava?],Anon[BM-33],B0402_34,Abbaye,121,B4,,,,1,,,,
-271,0403.005a.001,בבא בתרא דף ה עמוד א,,Huna; Yose,,Ronya; Ravina[B6/7?],_2647; 2647,Raba,2582,B4,,,,1,,,1,1
-272,0403.006a.001,בבא בתרא דף ו עמוד א,,,,Anon[BB-1; ovda],B0403_1,Joseph[b.Hiyya],1764,B3,,,,1,,,,0
-273,0403.008a.001,בבא בתרא דף ח עמוד א,,,,Rabbanan; anon[BB-2; Tiberians],rabbanan;B0403_2+,Rabbi[L;P1;P4?],1508,[L;P1;P4],,,,1,,1,1,1
-274,0403.009a.001,בבא בתרא דף ט עמוד א,,,Yemar b. Shelamia objected to Rava; Pappa,Anon[BB-3; butchers],B0403_3+,Rava,2582,B4,,,,1,,,,
-275,0403.013b.001,בבא בתרא דף יג עמוד ב,,,,Rabin b. Hinnena[B3?]; Dimi b. Hinnena[B3?],149; 871,Rava,2582,B4,,,,1,,,1,1
-276,0403.022a.001,בבא בתרא דף כב עמוד א,,,,anon[BB-4; basket sellers]; anon[BB-5; people of the place],diqula`e[basket sellers?]; people of the place,Ravina[B6/7?],2647,B6/7?,,,,1,,,,1
-277,0403.022a.002,בבא בתרא דף כב עמוד א,,,,anon[BB-6; ‘amra’e]; anon[BB-7; people of the place],Wool sellers+; people of Pum Nehara+,Kahana [de Pum Nehara][B3; B4],2004,B3; B4,,,,1,,,,1
-278,0403.022a.003,בבא בתרא דף כב עמוד א,,,Claiming responsibility for Ada b. Abba`s death: Yosef; Dimi; Rava; Abbaye; Nahman b. Isaac,Rab Dimi of Nehardea; Rava; Ada b. Abba,881; 2582; 194,Joseph[b.Hiyya],1764,B3,,,,1,,,1,1
-279,0403.025b.001,בבא בתרא דף כה עמוד ב,,Kahana,,Pappi Yona`a; Anon[BB-8;Sesame grinders],Pappi Yokna`a; B0403_8+,Ashi,571,B6,,,,1,,,?,1
-280,0403.026a.001,בבא בתרא דף כו עמוד א,,,[see comments; Mar b. Ashi; Maremar],those of the house of Marion b. Rabin; Flax grinders,house of Marion br Rabin+; B0403_9+,Ravina,2647,B6/7?,,,,1,,,1,1
-281,0403.029b.001,בבא בתרא דף כט עמוד ב,,,,Rami b. Hama and Uqba b. Hama; and an external claimant,2681; 2429; B0403_10,Rava,2582,B4,,,1,1,,,1,1
-282,0403.029b.002; 0403.159b.002,בבא בתרא דף כט עמוד ב,,,Rava,generic claimants(2),B0403_11+,Nahman,2285,B3,,,,1,,,,
-283,0403.030a.001; 0403.159b.001,בבא בתרא דף ל עמוד א,,,Rava,Anon[BB-12;plaintifs(2)],B0403_12+,Nahman,2285,B3,,,,1,,,,
-284,0403.031b.001,בבא בתרא דף לא עמוד ב,,??,Hamnuna; Menahem b. Yose,anon[BB-13],B0403_99,Nahman,2285,B3,,,,,,,,
-285,0403.033b.001; 0406.032b.001,בבא בתרא דף לג עמוד ב,,,Abba,Anon litigant 1;Anon litigant 2;Witness,0406_03;0406_04;0406_05,Ammi,495,P4,,,,1,,,,
-286,0403.040b.001,בבא בתרא דף מ עמוד ב,Pappa,,,anon[BB-16];anon[BB-17; witnesses],B0403_16+; B0403_17+,Rava,2582,B4,,,1,1,,,,1
-287,0403.041a.001,בבא בתרא דף מא עמוד א,,Judah; Ishmael,,Anan; anon[BB-18; neighbor],2453; B0403_18,Nahman,2285,B3,,,,1,,,1,1
-288,0403.041b.002,בבא בתרא דף מא עמוד ב,,Simeon b. Eleazar,,Kahana[B3; B4]; anon[BB-19; neighbor]; anon[BB-20; witnesses],2004; B0403_19; B0403_20+,Judah[b. Yehezqel],1394,B2,,,,1,,,,
-289,0403.041b.001,בבא בתרא דף מא עמוד ב,,,Rab,Anonymous(2),B0403_54+,Hiyya,1088,P1,,,,1,,,,
-290,0403.051b.001,בבא בתרא דף נא עמוד ב,,Eleazar,Uqba b. d. of Rab; Nehemia b. d. of Rab,anonymous[Husband and wife?],B0403_53+,Hisda,1345,B3,,,1,1,,,,0
-291,0403.052a.001,בבא בתרא דף נב עמוד א,,,,[Wife of] Rabbah b. b. Hanah; Rabah b. bar Hanan; Marta etc (3rd party),_2594; 2544; Marta and granddaughters,Rab,2578,B1,,,,1,,,1,1
-292,0403.052a.002,בבא בתרא דף נב עמוד א,Uqba b. d. of Rab[B?];Nehemia b. d. of Rab[B?],Rava,,anonymous,B0403_107,Pappi,2518,B5,,,?,1,,,,0
-293,0403.054a.001,בבא בתרא דף נד עמוד א,,,,anon[BB-24; Woman]; anon[BB-25; man],B0403_24; B0403_25,Levi OR Mar Uqba,2032/2423,[P1/B2],,,,1,,,,1
-294,0403.054b.001,בבא בתרא דף נד עמוד ב,,Abaye  and Rab Yoseph ,,Anon[BB; one who bought from gentile]; Anon[BB; an Israelite who plowed in field],B0403_108; B0403_109,Judah[b. Yehezqel],1394,B2,,,,1,,1,,1
-295,0403.054b.002,בבא בתרא דף נד עמוד ב,,Samuel; Huna b. Rab,,Huna; another Israelite (Venice; Pesaro; Munich; Hamburg); hahu gavra (Paris; Escorial; Vatican115b),895; B0403_48,Nahman,2285,B3,,,,1,,,1,1
-296,0403.058a.001,בבא בתרא דף נח עמוד א,,,,anon[BB-28; heirs; 3],B0403_28+,Bena`ah,687,P1,,,,1,,,,1
-297,0403.058a.002,בבא בתרא דף נח עמוד א,,,,anon[BB-29; heirs; 10],B0403_29+,Bena`ah,687,P1,,,,1,,,,1
-298,0403.059a.001,בבא בתרא דף נט עמוד א,,Ila`a,,anon[BB-30],B0403_30,Ammi; Abba b. Mamal,495; 47,P3,,,,1,,,,0
-299,0403.060a.001,בבא בתרא דף ס עמוד א,,,,anon[BB-31;Owner of house]; anon[BB-32; people in public domain],B0403_31; B0403_32+,Ammi,495,P4,,,,1,,,?,1
-300,0403.060a.002,בבא בתרא דף ס עמוד א,,,,anon[BB-33;Owner of tree]; anon[BB-34; people in public domain],B0403_33; B0403_34+,Yannai,1814,P1,,,,1,,,,1
-301,0403.082b.001[m. Kil. 4:9],בבא בתרא דף פב עמוד ב,Abaye  and Rab Yoseph ,,,anon[BB-35; from Salmon],B0403_35,Sages,0,T,1,,,,,,,
-302,0403.082b.002,בבא בתרא דף פב עמוד ב,Abaye  and Rab Yoseph ,,,anon[BB-36],B0403_36,Judah[b. Yehezqel],1394,B2,,,,1,,,,0
-303,0403.088a.001,בבא בתרא דף פח עמוד א,,,,anon[BB-37]; anon[BB-38]; butcher]; anon[BB-39; thief],B0403_37; B0403_38; B0403_39,Yemar,1804,B6,,,,1,,,,1
-304,0403.088a.002,בבא בתרא דף פח עמוד א,,,,anon[BB-40]; anon[BB-41]; merchant]; anon[BB-42; customers],B0403_82; B0403_83; B0403_84,Kahana [de Pum Nehara][B3; B4],2004,B3; B4,1,,,1,,,,1
-305,0403.096b.001,בבא בתרא דף צו עמוד ב,,Rab; Samuel,,anon[ovda],B0403_40,Joseph,1764,B2,,,,1,,,,0
-306,0403.100a.001,בבא בתרא דף ק עמוד א,,,,[owner/purchaser of vineyard],B0403_41,Ishaq b. Ami,1901,B4,,,,1,,,,0
-307,0403.106b.001,בבא בתרא דף קו עמוד ב,,[Quotes Mishnah in following discussion],,Pappa,2518,Abbaye,121,B4,,,,1,,,1,
-308,0403.111a.002,בבא בתרא דף קיא עמוד א,,[Zekhariah b. Haqatsav (baraita)];,Nahman,anon[ovda],B0403_42,Tabla,21052,B3,,,1,1,,,,0
-309,0403.126a.001,בבא בתרא דף קכו עמוד א,,,[Pappa and Pappi],Firstborn; brother(s); relations of brothers; purchaser,B0403_43; B0403_44+; B0403_45; B0403_79,Rava,2582,B4,,,1,1,,,,1
-310,0403.126b.001,בבא בתרא דף קכו עמוד ב,,,,Mar Zutra mi-deRishba[?],2166,Ashi,571,B6,,,1,1,,,?,1
-311,0403.126b.002,בבא בתרא דף קכו עמוד ב,,,,Anon[BB; attests that one is firstborn]; another who is a firstborn,B0403_46; B0403_47,Rabba b. bar Hana,2594,B3,,,1,1,,,,1
-312,0403.126b.003,בבא בתרא דף קכו עמוד ב,,,,Anon[BB; attests that one is firstborn]; another who is a firstborn,B0403_104; B0403_105,Haninah,1213,P1?,,,1,1,,,,1
-313,0403.143a.001,בבא בתרא דף קמג עמוד א,,,,anon[ovda],B0403_50,Samuel,2763,B1,,,,1,,,,0
-314,0403.143a.002,בבא בתרא דף קמג עמוד א,,,,anon[ovda],B0403_52,Yohanan,1570,P2,,,,1,,,,0
-315,0403.144a.001,בבא בתרא דף קמד עמוד א,,,,Safra; brothers ,2398; _2398,Rava,2582,B4,,,,1,,,1,1
-316,0403.151a.001,בבא בתרא דף קנא עמוד א,,,Huna bryh d-r Yehoshua,Zutra b. Tovya; Mother of; married to Zebid[B3?B5?],1006; _1006; 993,Bibi b. Abbaye,602,B5,,,1,1,,,1,1
-317,0403.151a.002,בבא בתרא דף קנא עמוד א,,Samuel,,Uqba b. Hama; Rami b. Hama,2429; 2681,Sheshet; Nahman,2938; 2285,B3,,,,1,,,1,1
-318,0403.151a.004,בבא בתרא דף קנא עמוד א,,,,Amram Hasida,2488,Nahman,2285,B3,,,,1,,,1,1
-319,0403.151a.005,בבא בתרא דף קנא עמוד א,,Samuel,,Mother of Tobi b. Mattena; Ahadvoi b. Mattena,_1364; 1364;,Nahman,2285,B3,,,,1,,,1,
-320,0403.151a.006,בבא בתרא דף קנא עמוד ב,,,,Dimi b. Yosef; mother,873; _873,Nahman,2285,B3,,,,1,,,1,1
-321,0403.153a.001,בבא בתרא דף קנג עמוד א,,,,One who gave in anticipation of death; [grantees],B0403_55; B0403_80+,Huna,895,B2,,,,1,,,,1
-322,0403.153a.002,בבא בתרא דף קנג עמוד א,,,,Anon,Anon[BM-4],Nahman; Yirmiya b. Abba,2285; 1954,B3; B2,,,,1,,,,1
-323,0403.153a.003,בבא בתרא דף קנג עמוד א,,,Pappa b Hanan Scribe[B4?; B5?],Woman who came before,B0403_73,Rava,2582,B4,,,,1,,,,1
-324,0403.155b.001_,בבא בתרא דף קנה עמוד ב,,,,[Saris],B0403_57,Hiyya,1088,P1,,,1,,,,,
-325,0403.155b.002,בבא בתרא דף קנה עמוד ב,,,,Seller not of age,B0403_13,Rava,2582,B4,,,1,1,,,,
-326,0403.155b.003,בבא בתרא דף קנה עמוד ב,,,,son younger than 20yrs; relations; buyers,B0403_58; B0403_59; B0403_81+,Rava,2582,B4,,,1,1,,,,
-327,0403.160b.001; 0403.164b.001?,בבא בתרא דף קס עמוד ב,Rami b. Hama; Hisda,,Simeon b. Rabbi ,Bearer of a bound document presented it,B0403_60,Rabbi,1508,T,,,,?,,1,,?
-328,0403.164b.002,בבא בתרא דף קסד עמוד ב,,,Zonin,Bearer of a bound document presented it,B0403_61,Rabbi,1508,T,,,,?,,1,,
-329,0403.167a.001,בבא בתרא דף קסז עמוד א,,,,Purchaser of  purchase of landed property; [seller; implied],B0403_07;B0403_08,Abbaye,121,B4,,,,?,,1,,
-330,0403.167a.002,בבא בתרא דף קסז עמוד א,,,,purchaser of brothers` property; [seller implied],B0403_05;B0403_06,Abbaye,121,B4,,,,,,,,
-331,0403.167a.003,בבא בתרא דף קסז עמוד א,,,,Rava; Aha b. Ada; bearer of document,2582; 265; B0403_04,Rava,2582,B4,,,,?,,1,1,
-332,0403.167b.001,בבא בתרא דף קסז עמוד א,,,Abbaye,Yirmiyah b Abba; anonymuswomen(2),1954; B0403_67+,Yirmiyah b Abba,1954,B2,,,,?,,1,1,
-333,0403.168b.001,בבא בתרא דף קסח עמוד ב,,Safra,Abbaye`s scribe;  Aha b. Manyomi,Landowners in Pumbedita; [Arabs],B0403_68+; B0403_69+,Abbaye,121,B4,,,,?,,,,
-334,0403.169b.001,בבא בתרא דף קסט עמוד ב,,,,Woman who gave funds; the agent,B0403_70; B0403_71,Nahman,2285,B3,,,,1,,1,,
-335,0403.170a.001,בבא בתרא דף קע עמוד א,,[complx],,Isaac b. Yosef; Abba,1113; 6,Ishaq Napaha,1885,P3,,,,1,,,1,
-336,0403.171b.001,בבא בתרא דף קעא עמוד ב,,[complex],,Isaac b. Yosef; Abba,1113; 6,Hanina b. Pappi,22004,P3,,,,1,,1,1,1
-337,0404.027a.001,סנהדרין דף כז עמוד א,,Rava,,anon,B0404_11,Pappi,2533,B5,,,,,,1,,0
-338,0404.029b.001,סנהדרין דף כט עמוד ב,,Asi,,anon,B0404_12,Rab,2578,B1,,,,1,,,,0
-339,0404.029b.002,סנהדרין דף כט עמוד ב,,,,``Qab Rashu``,qab_rashu,Nahman,2285,B4,,,,1,,,?,1
-340,0404.029b.003,סנהדרין דף כט עמוד ב,,,,``Akbera deyatib adinare``,akbara_deyativ_adinare,Ishmael b. Yose ;Hiyya,1986;1088,T;P1,,,,1,,,?,1
-341,0404.031a.001,סנהדרין דף לא עמוד א,,,,anon; anon,B0404_01;B0404_02,Ami,495,B?,,,,1,,,,0
-342,0404.031a.002,סנהדרין דף לא עמוד א,,,,anon (child),B0404_03,Nahman,2285,B4,,,,1,1,,1,
-343,0404.05a.001,סנהדרין דף ה עמוד א,,,,Mar Zutra;anon?,2161;B0404_09?,Yosep,1764,B3,,,,,,1,1,?
-344,0404.05a.002,סנהדרין דף ה עמוד א,,,,Rabbah bar Hanah; anon?,2600;B0404_10?,Hiyya,1088,P1,,,,,,,1,
-345,0406.030a.001,שבועות דף ל עמוד א,,,,Ulla b. Ila`I;[Yosef],2415;1764,Nahman,2285,B3,,,,,,1,1,0
-346,0406.030b.001,שבועות דף ל עמוד ב,,,,Wife of Huna,_895,Nahman,2285,B3,,,,,,1,1,0
-347,0406.030b.002,שבועות דף ל עמוד ב,,,,Rab b. Shaba*,2579,Pappa,2518,B5,,,,,,1,1,0
-348,0406.030b.003,שבועות דף ל עמוד ב,,,,Yemar;Mar Zutra,1804;10131,Amemar,571,B6,,,,,,1,1,0
-349,0406.030b.004,שבועות דף לא עמוד א,,,,Anon; Anon,0406_01;0406_02,Raba b. Huna,2596,B3,,,,,,1,?,0
-350,0406.032b.001;0403.033b.001,שבועות דף לב עמוד ב,,,Abba,Anon litigant 1;Anon litigant 2;Witness,0406_03;0406_04;0406_05,Ami,495,P4,,,,1,,,,
-351,0406.047a.001 [0406.048a],שבועות דף מז עמוד א,Yosef b. Maniomi,,,Anon litigant; Anon litigant,0406_06;0406_07,Nahman,2285,B3,,,,1,,,,0
-352,0406.048b.001,שבועות דף מח עמוד ב,,,,tsorba de-rabbanan,sorba_derabbanan,Hamma,1164,B5,,,,,,1,1,1
-353,0408.017a.001,עבודה זרה דף יז עמוד א,,,,Woman admitting to sins/minut,0408_01,Hisda,1345,B3,,,1,,,1,,
-354,0408.022a.001,עבודה זרה דף כב עמוד א,,,Ravina [etiveh],Jewish and gentile mwryq`y,0408_02; 0408_03,Rava,2582,B4,,,,,,,,
-355,0408.022a.002,עבודה זרה דף כב עמוד א,Gabiha mi-be Katil,,Ravina [etiveh],Jewish and gentile planters of orlah,0408_04; 0408_05,,2582,B4,1,,,1,,1,,
-356,0408.030a.001,עבודה זרה דף ל עמוד א,,,,Servant (f) of Hiyya,_1088,Hiyya,1088,P1,1,,,,,,1,1
-357,0408.039a.001,עבודה זרה דף לט עמוד א,,,,Slave of Levi,_2031,Yohanan,1570,P2,1,,,,,,,1
-358,0408.039a.002,עבודה זרה דף לט עמוד א,,,Hanan Hayyta [transition to next story],Huna bar Manyomi; people of the house of [wife of?] Amram Hasida ,923; _2448+,Yosef,1764,B3,1,,,,,,,1
-359,0408.039a.003,עבודה זרה דף לט עמוד א,,Samuel,,Hanan Hayyta; peopleof the house of [wife of] Rabena`a brother of Hiyya b. Aba[B3?],1333; 2657,Matena; Judah me-Hagronia`,2225; 1514,B2; [?],1,,,,,,,1
-360,0408.056b.001,עבודה זרה דף נו עמוד ב,,,Stam discussion,Consumers of wine? Owner?,0408_07,Samuel,2763,B1,1,,,1,,,,1
-361,0408.057a.001,עבודה זרה דף נז עמוד א,,,Asi; Kahana,Owner of wine,0408_08,Rab,2578,B1,1,,,1,,,,
-362,0408.057b.001,עבודה זרה דף נז עמוד ב,,,Huna b. Hinena; Huna b. Nahman,Shopkeeper [owner of wine],0408_09,Raba,1582,B4,1,,,,,,,
-363,0408.058a.001,עבודה זרה דף נח עמוד א,,,,owner of wine?,0408_10,Samuel,2763,B1,1,,,1,,,,0
-364,0408.058a.002,עבודה זרה דף נח עמוד א,,,,owner of wine?,0408_11,Yohanan,1570,P2,1,,,1,,,,0
-365,0408.060a.001,עבודה זרה דף ס עמוד א,,,,owners/consumers of wine?,0408_12,Yaaqob of Nehar Peqod,1878,B6,1,,,,,,,
-366,0408.062a.001,עבודה זרה דף סב עמוד ב,,,,Owner of a boat(?),0408_13,Hisda,1345,B4,1,,,1,,,,
-367,0408.064a.001,עבודה זרה דף סד עמוד א,Nahman,,,Converts,0408_14+,Abba b Abbuha,2586,B2,1,,1,1,,,,
-368,0408.069a.001,עבודה זרה דף סט עמוד א,Hillel --> Ashi,,,House of Kahana,_2004,Kahana,2004,B2,,1,,,,,,
-369,0408.070a.001,עבודה זרה דף ע עמוד א,,,,,,Samuel,2763,B1,1,,,1,,,,0
-370,0408.070b.001,עבודה זרה דף ע עמוד ב,Dimi,,,owners of wine?,0408_15+,Eleazar,467,P3,1,,,1,,1,,
-371,0408.070b.002,עבודה זרה דף ע עמוד ב,Ishaq,,,owner tavern and/or customers,0408_16,Eleazar,467,P3,1,,,,,,,
-372,0408.072a.001,עבודה זרה דף עב עמוד א,,,houses Hisda; Huna,anon?,0408_17,Huna?,895,B2,,,,1,,,,
-373,0408.074b.001,עבודה זרה דף עד עמוד ב,,,Rab,Press owner,0408_18,Hiyya,1088,P1?,1,,,,,,,
-374,0503.010b.001,חולין דף י עמוד ב,,,,anon[ovda](multiple?),B0503-01+,Yosef,1764,B3,1,,,,,,,0
-375,0503.018a.001,חולין דף יח עמוד א,,,,anon(slaughterer),B0503-02,Rava,2582,B4,1,,,,,,,1
-376,0503.039b.001,חולין דף לט עמוד ב,,Hanan Hayyta; peopleof the house of [wife of] Rabena`a brother of Hiyya b. Aba,,Arabs;anon(slaughterers),Arabs; B0503-03,Tobi b. Matena; Yosef,1364; 1764,B3,1,,,,,,?,1
-377,0503.043b.001,חולין דף מג עמוד ב,,,Abbaye,anon(slaughterer? Ownder of animal?),B0503-04,Rabbah,2581,B3,1,,,,,,,1
-378,0503.043b.003,חולין דף מג עמוד ב,,Rab; Samuel,Abba,Sons of Uqba,_21222,Rava,2582,B4,1,,,,,,1,1
-379,0503.044b.001,חולין דף מד עמוד ב,,,Kahana; Assi,anon(slaughterer? Ownder of animal?),B0503-05,Rab; Rabbah b b. Hanah,2578; 2594,B1; B3,1,,,,,,,1
-380,0503.047a.001,חולין דף מז עמוד א,,Rava,Aha,anon(slaughterer or animal owner),B0503-06,Maremar,2198,B5,1,,,,,,,?
-381,0503.047a.002,חולין דף מז עמוד א,,,Huna Mar b. Awiya,anon(slaughterer or animal owner),B0503-07,Ashi,571,B6,1,,,,,,,?
-382,0503.047b.001,חולין דף מז עמוד ב,,,Natan and all the greato ones of the generation,anon(slaughterer or animal owner),B0503-08,Hananiah?,Hananiah[T],T,1,,,,,,,1
-383,0503.048b.001,חולין דף מח עמוד ב,,,Yirmiyah; Zariqa,anon(slaughterer or animal owner),B0503-09,Ami; Ishaq Napaha,495; 1885,P3,1,,,,,,,?
-384,0503.048b.002,חולין דף מח עמוד ב,,,,anon(slaughterer or animal owner),B0503-10,Rabbanan Terofa`e,Rabbanan terofa`e,?,1,,,,,,,?
-385,0503.049b.001,חולין דף מט עמוד ב,,Rab,Sheshet,anon(slaughterer or animal owner),B0503-11,Rava,2582,B4,1,,,,,,,?
-386,0503.049b.002,חולין דף מט עמוד ב,,Simeon,Nahman b. Yishaq,anon,B0503-12,Rava,2582,B4,,,,,,1,?,1
-387,0503.051a.001,חולין דף נא עמוד א,,,Safra; Abbaye; Awira,anon(ovda),B0503-13,Rabbi,1508,T,1,,,,,,?,1
-388,0503.053.001,חולין דף נג עמוד ב,,,,anon(animal owner),B0503-14,Rab; Samuel,2578; 2763,B1,1,,,,,,,?
-389,0503.056a.001,חולין דף נו עמוד א,,Levi,,House of Rab Hana,_1185,Matena,2225,B4,1,,,,,,1,?
-390,0503.056b.001,חולין דף נו עמוד ב,,M,,Joshua b. Levi,1544,Eleazar ha-Qappar,485,L?,1,,,,,,1,1
-391,0503.056b.002,חולין דף נו עמוד ב,,M; [implicitly; Eleazar ha-qappar?],,Ishaq b.Yosef,1901,Abahu,92,P3,1,,,,,,1,1
-392,0503.057a.001,חולין דף נז עמוד א,,,,anon[Hul-99],B0503-16,Rava,2582,B4,1,,,,,,,?
-393,0503.076b.001,חולין דף עו עמוד ב,Ulla; Nahman,,,house of R. Ishaq,_1885+,Yohanan,1570,P2,1,,,,,,1,1
-394,0503.077a.001,חולין דף עז עמוד א,,,Ada b. Matena; Ravina,Anon owner of slaughtered animal,0503_17,Abbaye; Rava,121; 2582,B4,1,,,,,,,?
-395,0503.085b.001,חולין דף פה עמוד ב,,,,Hiyya,1088,Rabbi,1508,T,,,,,,1,1,1
-396,0503.095b.001,חולין דף צה עמוד ב,,,,Hiyya b Abin,1094,Huna,895,B2,1,,,,,,1,1
-397,0503.095b.002,חולין דף צה עמוד ב,,,,Hanina Hoza`a,135,Nahman,2285,B3,1,,,,,,1,1
-398,0503.095b.003,חולין דף צה עמוד ב,,,,Natan b. Abbaye/Ami,2341,Hisda,1345,B3,1,,,,,,1,1
-399,0503.097a.001,חולין דף צז עמוד א,,,,anon[ovda](multiple?),B0503-18+,Yohanan,1570,P2,1,,,,,,,?
-400,0503.098a.001,חולין דף צח עמוד א,,Rabbi,,Anon,B0503-19+,Gamaliel b. R,830,L,1,,,,,,,0
-401,0503.098a.002,חולין דף צח עמוד א,,Rabbi,,anon,B0503-20,Simeon b. Rabbi,2896,L,1,,,,,,,?
-402,0503.098a.003,חולין דף צח עמוד א,,,,anon,B0503-21,Hiyya,1088,P1,1,,,,,,,?
-403,0503.099b.001,חולין דף צט עמוד ב,,,Judah b. Zavina ,anon,B0503-22,Hanina,1213,P?,1,,,,,,,1
-404,0503.105b.001,חולין דף קה עמוד ב,,,,Porters; [Demon],B0503-23; Demon,Ashi,571,B6,,,,,,1,,1
-405,0503.110a.001,חולין דף קי עמוד א,,,,Rami b. Tamre/Diqule from Pumbedita,2689,Hisda,1345,B3,1,,,,,,1,1
-406,0503.112b.001,חולין דף קיב עמוד ב,,,,Mari b. Rahel,2190,Rava,2582,B3,1,,,,,,1,1
-407,0503.132b.001,חולין דף קלב עמוד ב,,,,Landlord[?] of Tabla,_1362,Nahman,2285,B3,1,,,1,,,1,1
-408,0503.134b.001,חולין דף קלד עמוד ב,,,,Levi,2032,Landlord[?] of Tabla,2938,B3,1,,,,,,1,1
-409,0503.141a.001,חולין דף קמא עמוד ב,,,,Judah,1394,Samuel ,2763,B1,,,,1,,,1,1
-410,0504.003b.001,בכורות דף ג עמוד ב,,Judah (M),,Woman convert,0504_01,Rava,2582,B4,1,,,,,,,
-411,0504.011a.001,בכורות דף יא עמוד א,,,,Yuda Nesi`ah,1518,Tarfon,1383,T,1,,,,,,1,
-412,0504.036a.001,בכורות דף לו עמוד א,,,,Zadoq,2546,Joshua; Gamaliel,10100;829,T,1,,1,,,,1,
-413,0504.036b.001,בכורות דף לו עמוד ב,,,,Priest,0503_02,Rafram,2690,B7,1,,,,,,1,
-414,0504.036b.002,בכורות דף לו עמוד ב,,,,Anon,0504_03,Ashi,571,B6,1,,,,,,,
-415,0504.042b.001,בכורות דף מד עמוד ב,,,,Samuel,2578,Father of Samuel,106,B0?,,,,,,1,1,
-416,0504.050b.001;0401.037a.001;,בכורות דף נ עמוד ב,,,,Hanan Bisha; one injured,hanan_bisha; 0401_05,Huna,895,B2/P3,,,,1,,,?,1
-417,0505.007b.001,מכות דף ו עמוד ב,,,,foreign language speaker; foreign language speaker,loez_1; loez_2,Raba,2582,B4,,,,,,1,,0
-418,0505.023b.001,ערכין דף כג עמוד ב,,,,husband; wife,B0505_husband_1;B0505_husband_2,Josepf b. Raba;Pappa,1781;2518,B5;B5,,,1,,1,,,1
-419,0505.024a.001,ערכין דף כד עמוד א,,,,[borrower?],B0505_Anon_1,Yemar,1804,B6,1,,,,,,,1
-420,0505.029a.001,ערכין דף כט עמוד א,,,,anon,B0505_Anon_2,Yehudah,1394,B3,,,,,1,,,1
-421,0507.013b.001,כריתות דף יג עמוד ב,,,,Aha of Husal,305,Ashi,571,B6,,,,,1,,1,
-422,0607.020b.001,נדה דף כ עמוד ב,,,Ammi,Woman,0607_01,Eleazar,467,P3,,1,,,,,,1
-423,0607.020b.003,נדה דף כ עמוד ב,,,,Yalta,Yalta,Rabba b. b. Hana; Ishaq b Yehuda,2594;1913,B3; B3,,1,,,,,1,
-424,0607.024a.001,נדה דף כד עמוד א,,,Hiyya,Women who had miscarried,0607_02,Sons of Hiyya,_1088+,P2,,1,,,,,,
-425,0607.024a.002,נדה דף כד עמוד ב,,Rab; Samuel,Huna,woman having discharged a fetus with two spines,0607_16,Yirmiah b. Aba,1954,B2,,1,,,,,,0
-426,0607.025a.001,נדה דף כה עמוד א,,,,Woman having dischanged sac,0607_03,Samuel,2763,B1,,1,,,,,,
-427,0607.025b.001,נדה דף כה עמוד ב,,,,Woman who had discharged a sac,0607_04,Samuel,2763,B1,,1,,,,,,
-428,0607.025b.002,נדה דף כה עמוד ב,,,,Woman having given birth,0607_05,Samuel,2763,B1,,1,,,,,,1
-429,0607.036b.001,נדה דף לו עמוד ב,,,Assi (Rab),Woman after childbirth,0607_06,Shela b. Abina,2725,B2,,1,,,,,,0
-430,0607.042b.001,נדה דף מב עמוד ב,,,,Father of new child,0607_07,Raba,2582,B4,1,,,,,,,1
-431,0607.047b.001_,נדה דף מז עמוד ב,,,,people,0607_08+,Hiyya,1088,P1,,,1,,,,,0
-432,0607.052a.001,נדה דף נב עמוד א,,,,Girl(s) seeking to renounce marriage,0607_09,``fellows`` of Kahana,2004_fellows,B?,,,1,,,,,0
-433,0607.058a.001,נדה דף נח עמוד א,,,,Woman found blood on warp[mashtita?],0607_11,Yannai,1814,P1,,1,,,,,,
-434,0607.066a.001,נדה דף סו עמוד א,,,Abdan,Woman bleeding during intercourse,0607_13,Rabbi,1508,T,,1,,,,,,
-435,0607.066a.002,נדה דף סו עמוד א,,,Dimi bar Yosef,Woman bleeding during intercourse,0607_14,Samuel,2763,B1,,1,,,,,,
-436,0607.066a.003,נדה דף סו עמוד א,,,,Woman who discharges blood after miqveh,0607_15,Yohanan,1570,P1,,,,,,,,
-437,0607.52a.001,נדה דף נב עמוד א,,,Shemen; Yohanan; Judah Nesiah,Girl(s) seeking to renounce marriage,0607_10,Ishaq; disciples of Hanina,1213; _1885,P3,,,1,,,,,
+index,sortable,citation_engl,citation_heb,attribution_chain,attributions_cited_in_story,rabbis_mentioned_in_sequel,party_or_parties,party_ids,judge,satlow_sperling_id,judge_gen,Ri,Pu,St,Pr,Vow,Oth,rabb_actor,explicit_case
+1,0101.009a.001,Berakhot 9a,ברכות דף ט עמוד א,,Simeon (T),,Pair of sages [or: Zoga?],pair_of_rabbis,Joshua b. Levi,1544,P1,1,,,,,,1,
+2,0101.022a.001,Berakhot 22a,ברכות דף כב עמוד א,Rabin,,,anon [in rab setting?],anon_in_rab_setting?,Asi,535,P3,1,1,,,,,1,
+3,0101.045b.001,Berakhot 45b,ברכות דף מה עמוד ב,,,,Yehuda bar Maremar; Mar bar Rav Ashi;Aha of Difti,1464;2156;304,Maremar,2198,B6,1,,,,,,1,
+4,0201.134b.001,Shabbat 134b,שבת דף קלד עמוד ב,,,,Father of new baby,0201_01,Rava,2582,B4,1,,,,,,,
+5,0201.139a.001,Shabbat 139a,שבת דף קלט עמוד א,Yehuda bar Shelat --> Rab Assi,,,kenishta de Ma`on,kenishta_de_ma`on,Yohanan,1570,P1,1,,,,,,,1
+6,0201.140a.001,Shabbat 140a,שבת דף קמ עמוד א,Hiyya b. Abin,,,Hiyya b. Abin,1094,Ada b. Ahaba; Huna,194;895,B2;B2,1,,,,,,,1
+7,0202.006a.001,Eruvin 6a,עירובין דף ו עמוד א,,,Huna; Hanan b. Raba,anon,0202_01,Rab,2578,B1,1,,,,,,,
+8,0202.007b.001,Eruvin 7b,עירובין דף ז עמוד ב,,,Yosef; Abbaye,anon,0202_02,Judah b. Yehezqel,1394,B3,1,,,,,,,1
+9,0202.011b.001,Eruvin 11b,עירובין דף יא עמוד ב,,,Sheshet; Gidal,be-resh-galuta,be_resh_galuta,Nahman,2285,B4,,,,,,,?,
+10,0202.012a.001,Eruvin 12a,עירובין דף יב עמוד א,,,,anon,0202_03,Judah b. Yehezqel,1394,B3,1,,,,,,,1
+11,0202.025a.001,Eruvin 25a,עירובין דף כה עמוד א,,,,a woman,0202_04,Nahman,2285,B4,,,,,,,,
+12,0202.060a,Eruvin 60a,עירובין דף ס עמוד א,,,Abbaye,people of  Qaquna,people_of_qaquna,Yosef,1764,B3,1,,,,,,,1
+13,0203.025b;0205.082a.001;0404.074a.001,Pesahim 25b; Yoma 82a; Sanhedrin 74a,סנהדרין דף עד עמוד א,,,,anon,B0404_08,Raba*,2582,B4,,,,,,1,,
+14,0203.025b;0205.082b.001;0404.074a.001,Pesahim 25b; Yoma 82b; Sanhedrin 74a,יומא דף פב עמוד ב,,,,anon,B0404_08,Raba*,2582,B4,,,,,,1,,
+15,0203.113b.001,Pesahim 113b,פסחים דף קיג עמוד ב,,,,Tobiah;Zibud,tobiah;zibud,Pappa,2518,B5,,,,,,1,?,
+16,0205.001a.001,Yoma 1a,ראש השנה דף לא עמוד ב,,,,anon,B0208_Anon_1,Amemar,514,B6,,,,,,1,,
+17,0205.082b.002,Yoma 82b,יומא דף פב עמוד ב,,,,anon pregnant woman,B0203_01,Rabbi,1518,P?,1,,,,,,,
+18,0205.082b.003,Yoma 82b,יומא דף פב עמוד ב,,,,anon pregnant woman,B0203_02,Hanina,1212,P?,1,,,,,,,
+19,0206.011a.001,Sukkah 11a,סוכה דף יא עמוד א,,Rab,Huna and Rab Yosef [about Rab and Samuel]; Y attests to story,Amram Hasida,2448,Hiyya b. Ashi,1102,B2,1,,,,,,1,1
+20,0206.011b.001,Sukkah 11b,סוכה דף יא עמוד ב,,Samuel,NEEDS WORK,Matena,2225,Samuel,2757,B1,1,,,,,,1,
+21,0206.031a.001,Sukkah 31a,סוכה דף לא עמוד א,,,,woman;resh_galuta;rabbanan of resh galuta,B0206_01; resh_galuta; rabbanan_de_be_resh_galuta,Nahman,2284,B4,1,,,1,,,1,1
+22,0207.004a.001,Besah 4a,ביצה דף ד עמוד א,,Rab; Yohanan,,Host of AbA,_194,Ada b. Ahavah,194,B2,1,,,,,,1,1
+23,0207.004a.002,Besah 4a,ביצה דף ד עמוד א,,Rab; Yohanan; Rava,,Host of Pappa; anon,_2518; 0207_01,Pappa,2518,B5,1,,,,,,1,1
+24,0207.007a.001,Besah 7a,ביצה דף ז עמוד א,,,,Buyer of eggs,0207_02,Ami,495,P3? P4?,,,,1,,,,1
+25,0207.007a.002,Besah 7a,ביצה דף ז עמוד א,,,,Buyer of eggs,0207_03,Ami,495,P3? P4?,,,,1,,,,1
+26,0207.012b.001,Besah 12b,ביצה דף יב עמוד ב,,,,Tobi bar Nehemiah [= b. Matena?],1364,Yosef,1764,B3,1,,,,,,1,
+27,0207.012b.002,Besah 12b,ביצה דף יב עמוד ב,,,Abbaye,Host of Raba b. Hanan,_2602,Raba,2582,B4,1,,,,,,1,
+28,0207.036b.001,Besah 36b,ביצה דף לו עמוד ב,,,,Abbaye,121,Rabah,2581,B3,1,,,,,,1,
+29,0207.040a.001,Besah 40a,ביצה דף מ עמוד א,,,,Hana bar Hanilai,1194,Huna,895,B2,1,,,,,,1,
+30,0207.27b.001,Besah 27b,ביצה דף כז עמוד ב,,,,Owner of firstling,0207_05,Raba,2582,B4,,,,,,,,
+31,0210.026b.001,Megillah 26b,מגילה דף כו עמוד ב,,,,Ravina,2647,Ashi,571,B5/B7,,,,1,,1,1,1
+32,0210.026b.002,Megillah 26b,מגילה דף כו עמוד ב,,Hisda,,Rami b. Abba,2676,Pappa;Huna,2518;581,B5;B2[?],,,,,,1,1,
+33,0301.037a.001,Yebamot 37a,יבמות דף לז עמוד א,,,,anon relatives of betrothed,0301_01,Rafram,2647,B7,,,1,,,,,
+34,0301.039b.001,Yebamot 39b,יבמות דף לט עמוד ב,,,,Yabam;Yebamah?,0301_02; 0301_03,Rav,2578,B1,,,1,,,,,
+35,0301.045a.001,Yebamot 45a,יבמות דף מה עמוד א,,Yohanan,,Aha Sar habirah; Tanhum b Hiyya; Acco,310; 2977,Ami,495,P3? P4?,,,1,,,,1?,1
+36,0301.045a.002,Yebamot 45a,יבמות דף מה עמוד א,,,,Child of gentile man,0301_05,Judah,1394,B2,,,1,,,,,
+37,0301.045a.003,Yebamot 45a,יבמות דף מה עמוד א,,,,Child of gentile man,0301_06,Raba,2582,B4,,,1,,,,,
+38,0301.045b.001,Yebamot 45b,יבמות דף מה עמוד ב,Ravina; Gazin,,,Offspring of unmarried and gentile; offspring of married and gentile,0301_07; 0301_08,Yose br Abin,1663,P4? P5?,,,1,,,,,
+39,0301.045b.002,Yebamot 45b,יבמות דף מה עמוד ב,Sheshet; Gazin,,,Offspring of unmarried and gentile; offspring of married and gentile,0301_09; 0301_36,Yose b. Zabida,1684,P?,,,1,,,,,
+40,0301.045b.003,Yebamot 45b,יבמות דף מה עמוד ב,Aha b. Rabbah; Ravina,,,Offspring of unmarried or gentile OR offspring of married and gentile,0301_10,Amemar,514,B6,,,1,,,,,
+41,0301.046b.001,Yebamot 46b,יבמות דף מו עמוד ב,Rabbah; [Yosef; Safra],,,convert [male],0301_11,Hiyya b. Rabbi; Oshaya b. Rabbi;Oshaya b. Hiyya,hiyya_b_r;oshaya_b_r;246,P?,,,1,,,,,1
+42,0301.064b.001,Yebamot 64b,יבמות דף סד עמוד ב,,,,Fourth sister having given birth,0301_13,Simeon b. Gamaliel,2852,T,1,,,,,,,
+43,0301.064b.002,Yebamot 64b,יבמות דף סד עמוד ב,,,Ishaq b. Yosep; Abbaye,mother of newborns,0301_12,Yohanan,1570,P2,1,,,,,,,1
+44,0301.065b.001,Yebamot 65b,יבמות דף סה עמוד ב,,,,Wife and husband,0301_14; 0301_15,be-midrasha,be_midrasha,P-uncertain,,,1,,,,,
+45,0301.065b.002,Yebamot 65b,יבמות דף סה עמוד ב,Aha [Munich 95 Hiyya] b Hanina; Abbahu; Asi,,,Wife with no children from husband,0301_16,Yohanan,1570,P2,,,1,,,1,,1
+46,0301.065b.003,Yebamot 65b,יבמות דף סה עמוד ב,,,,Wife with no children from husband,0301_17,Ami,495,P3? P4?,,,1,,,1,,
+47,0301.065b.004,Yebamot 65b,יבמות דף סה עמוד ב,,,,Wife,0301_18,Nahman,2283,B5,,,1,,,1,,
+48,0301.065b.005,Yebamot 65b,יבמות דף סה עמוד ב,,,,Judith wife of Hiyya--disguised,_1088,Hiyya,1088,P1,,,,,,1,1,
+49,0301.075b.001,Yebamot 75b,יבמות דף עה עמוד ב,,,,anon-male,0301_19,Mar bar Rav Ashi,2156,B7,,,1,,,,,?
+50,0301.075b.002,Yebamot 75b,יבמות דף עה עמוד ב,,,Pappi,anon-male,0301_20,Bibi b. Abbaye,602,B5,,,1,,,,,?
+51,0301.080b.001,Yebamot 80b,יבמות דף פ עמוד ב,,,rabbi (by stam),Woman gave birth after twelve,0301_21,Rabbah Tosfa`ah,2639,B7,,,1,,,,,
+52,0301.101b.001,Yebamot 101b,יבמות דף קא עמוד ב,,,,anon,0301_24,Pappa; Hunah b. Yehoshua,2518; 918,B5; B5,,,1,,,,?,
+53,0301.104a.001,Yebamot 104a,יבמות דף קד עמוד א,,,Samuel,anon,0301_25,Rabbah b. Hiyya Qeṭosfa`a,2598,B2,,,1,,,,?,
+54,0301.105a.001,Yebamot 105a,יבמות דף קה עמוד א,,,Abba b. Mamal,Levir; widow,0301_26;0301_27,Ami,495,P3? P4?,,,1,,,,,
+55,0301.105b.001,Yebamot 105b,יבמות דף קה עמוד ב,,,Ishmael b. Yose (L); Abdan (P1),minor widow,0301_28,Judah Patriarch,1508,L,,,1,,,,,
+56,0301.106a.001,Yebamot 106a,יבמות דף קו עמוד א,,,,Levir; widow,0301_29; 0301_30,Hiyya b. Abba,1091,P3,,,1,,,1,,
+57,0301.106b.001,Yebamot 106b,יבמות דף קו עמוד א,,,Pappa,DIL of Pappa,_2518,Abbaye,121,B4,,,1,,,,1,
+58,0301.110a.001,Yebamot 110a,יבמות דף קי עמוד א,,,Pappa; Ashi,bride,0301_31,Bruna; Hananel,787; 1339,Berona; Hananel,,,1,,,,,
+59,0301.112a.001,Yebamot 112a,יבמות דף קיב עמוד א,,baraita,Sherabia,levir; widow,0301_32;0301_33,Rava,2582,B4,,,1,,,,,
+60,0301.113b.001,Yebamot 113b,יבמות דף קיג עמוד ב,,,,Ishaq b. Bisana,1903,Pedat,2478,P4,1,,,,,,1,
+61,0301.114b.001,Yebamot 114b,יבמות דף קיד עמוד ב,,,,Woman,0301_32,Rava,2582,B4,,,1,,,,,
+62,0301.121b.001,Yebamot 121b,יבמות דף קכא עמוד ב,,,Ada b. Ahaba,Wife of missing husband,0301_34,Abbaye; Yoseph,121;1764,B4; B3,,,1,,,,,
+63,0301.91b.001,Yebamot 91b,יבמות דף צא עמוד ב,,,Huna b. Yehoshua ,anon,0301_22,Pappa,2518,B5,,,1,,,,,
+64,0301.97a.01;0403.155b.001; 0607.047b.001,Yebamot 97a.01; Bava Batra 155b; Niddah 47b,יבמות דף צז עמוד א,,,,anon,0301_23,Hiyya,1088,P1,,,1,,,,,
+65,0301.97a.01;0403.155b.001; 0607.047b.001,Yebamot 97a.01; Bava Batra 155b; Niddah 47b,יבמות דף צז עמוד א,,,,anon,0301_23,Hiyya,1088,P1,,,1,,,,,
+66,0302.010a.001,Ketubot 10a,כתובות דף י עמוד א,,,,anon[ket1],B0302_1,Nahman,2285,B3,,,,,,1,,
+67,0302.010a.002,Ketubot 10a,כתובות דף י עמוד א,,,,anon[ket2],B0302_2,Gamaliel ,829,Y?,,,1,,,,,
+68,0302.010a.003,Ketubot 10a,כתובות דף י עמוד א,,,,anon[Ket3],B0302_3,Gamaliel b. R,930,L,,,1,,,,,
+69,0302.010b.001,Ketubot 10b,כתובות דף י עמוד ב,,,,anon[Ket4],B0302_5,Gamaliel b. R,930,L,,,1,,,,,
+70,0302.010b.001,Ketubot 10b,כתובות דף י עמוד ב,,,,anon[Ket4],B0302_4,Gamaliel the Elder,828,E,,,1,,,,,
+71,0302.010b.002,Ketubot 10b,כתובות דף י עמוד ב,,,,anon[Ket5],B0302_6,Rabbi,1508,L,,,1,,,,,
+72,0302.013a.001,Ketubot 13a,כתובות דף יג עמוד ב,,[Gamaliel; Joshua],Abaye,anon[betrothed man and woman](2),B0302_2+,Yosef,1764,B3,,,1,,,,,?
+73,0302.025b.001,Ketubot 25b,כתובות דף כה עמוד ב,,,,anon[Ket6 witness] anon[Ket7 priest],B0302_7; B0302_8,Ammi,495,P4,,,1,,,,,?
+74,0302.025b.002,Ketubot 25b,כתובות דף כה עמוד ב,,,,anon[Ket8 witness] anon[Ket9 priest],B0302_9; B0302_10,Joshua b. Levi,1544,P1,,,1,,,,,?
+75,0302.025b.003,Ketubot 25b,כתובות דף כה עמוד ב,,,Eleazar,anon[Ket10 witness]; anon[Ket11 priest],B0302_11; B0302_12,Resh Laqish,2879,P2,,,1,,,,,?
+76,0302.027b.001,Ketubot 27b,כתובות דף כז עמוד ב,,,Abbaye responds,anon[Ket12],B0302_13,Rava,2582,B4,,,,1,,1,,1
+77,0302.027b.002,Ketubot 27b,כתובות דף כח עמוד א,,Nahman,Ada b. Matena,anon[Ket-99; betrothed man]; anon[Ket-100; woman],B0302_14; B0302_15,Rava,2582,B4,,,1,1,,,,?
+78,0302.027b.003,Ketubot 27b,כתובות דף כז עמוד ב,Dimi --> [Hanan Kartagenaa OR Joshua b. Levi],,,anon[Ket13],B0302_16,Joshua b. Levi OR Rabbi,1508,P1; L,,,1,,,1,,
+79,0302.049b.001,Ketubot 49b,כתובות דף מט עמוד ב,,,,anon[Ket14] (plural),B0302_17+,Judah,1394,B2,,,1,1,,,,
+80,0302.049b.002,Ketubot 49b,כתובות דף מט עמוד ב,,,,anon[Ket15] (plural),B0302_18+,Hisda,1345,B3,,,1,1,,,,
+81,0302.049b.003,Ketubot 49b,כתובות דף מט עמוד ב,,,,anon[Ket16] (plural),B0302_19+,Rava,2582,B4,,,,,,,,
+82,0302.050b.001,Ketubot 50b,כתובות דף נ עמוד ב,,,Nahman,anon[Ket17ovda],B0302_20,Judges of Nehardea,20347,?,,,1,1,,,,
+83,0302.050b.002,Ketubot 50b,כתובות דף נ עמוד ב,,,Nahman,anon[Ket18ovda],B0302_21,Hana b. Bizana,21004,B3,,,1,1,,,,
+84,0302.050b.004,Ketubot 50b,כתובות דף נ עמוד ב,,,,Orphans; Benai bro of Hiyya b. Abba,B0302_22; _2658,Samuel,2763,B1,,,1,1,,,1,
+85,0302.050b.005,Ketubot 50b,כתובות דף נ עמוד ב,,,Abaye,anon[Ket19] (and orphans),B0302_23+,Yosef,1764,B3,,,1,1,,,,
+86,0302.051a.001,Ketubot 51a,כתובות דף נא עמוד א,,,Sages,anon[Ket20-orphan]; anon[Ket21-orphan],B0302_24; B0302_25,Rava,2582,B4,,,1,1,,,,?
+87,0302.052a.001,Ketubot 52a,כתובות דף נב עמוד א,,,,[anon-widow; anon-heirs],B0302_26; B0302_27,Levi,2032,B3,,,1,1,,,,
+88,0302.052b.001,Ketubot 52b,כתובות דף נב עמוד ב,,,,Relations of Yohanan,_1570,Yohanan,1570,P2,,,1,1,,,1,1
+89,0302.054a.001,Ketubot 54a,כתובות דף נד עמוד א,,,Rav; Samuel ,anon[Ket21-widow],B0302_28,Nahman,2285,B3,,,1,1,,,,1
+90,0302.054a.002,Ketubot 54a,כתובות דף נד עמוד א,,,,House of Eliashib; daughter in law of house,house of Eliashib; daugher in law of house of Eliashib.,Ravina,2647,B6/7?,,,1,1,,,?,1
+91,0302.054a.003,Ketubot 54a,כתובות דף נד עמוד א,,,,Deceased; wife; her heirs,B0302_29; B0302_30; B0302_31,Idi b. Avin,343,B4,,,1,1,,,,?
+92,0302.054b.001,Ketubot 54b,כתובות דף נד עמוד ב,,,,Relations of Yohanan,_1570,Yohanan; Resh Laqish,1570; 2879,P2,,,1,1,,,1,
+93,0302.057a.001,Ketubot 57a,כתובות דף נז עמוד א,,Nahman -->  Samuel ,Abaye,Sister of Rami b. Hamma; Avya,_2681; 229,Yosef,1764,B3,,,1,1,,,1,1
+94,0302.060b.001,Ketubot 60b,כתובות דף ס עמוד ב,,Meir; Judah; BH; BS; [Ula,Yosef,Tenant of Abaye,_121,Abbaye,121,B4,,,1,,,,1,?
+95,0302.060b.002,Ketubot 60b,כתובות דף ס עמוד ב,,Nahman,Pappi,anon[Ket23],B0302_33,Pappa; Huna b. Joshua,2518; 918,B5,,,1,,,,,
+96,0302.060b.003,Ketubot 60b,כתובות דף ס עמוד ב,,,be resh galuta,anon[Ket24_old woman],B0302_34,Nahman,2285,B3,,,1,,,,,1
+97,0302.063b.001,Ketubot 63b,כתובות דף סג עמוד ב,,,Hanina of Sura,anon[Ket27],B0302_35,Mar Zutra,2161,B6,,,1,,,,,
+98,0302.065a.001,Ketubot 65a,כתובות דף סה עמוד א,,,,Wife of Abbaye,_121,Rava,2582,B4,,,1,1,,,1,1
+99,0302.065a.002,Ketubot 65a,כתובות דף סה עמוד א,,,,Wife of Yosef b. Rava,_1781,Nehemiah b. Yosef,2277,B5,,,1,1,,,1,1
+100,0302.065a.003,Ketubot 65a,כתובות דף סה עמוד א,,,,Wife of Yosef b. Menashia,_1776,Yosef,1764,B3,,,1,1,,,1,1
+101,0302.069b.001,Ketubot 69b,כתובות דף סט עמוד א,Manyomi b. Nehumi,,,anon[Ket25_widow]; anon[Ke26_brothers],B0302_36; B0302_37,Ameimar,514,B6,,,1,1,,,,1
+102,0302.078b.001,Ketubot 78b,כתובות דף עט עמוד א,,Hanilai b. Idi --> Samuel,Anan; Uqba; Rava,anon[Ket26_widow]; anon[Ke27_daughter],B0302_38; B0302_39,Nahman,2285,B4,,,,1,,,,1
+103,0302.080a.001,Ketubot 80a,כתובות דף פ עמוד א,Judges of Pumbedita,,,anon[Ket29],B0302_40,Judah,1394,B2,,,1,1,,,,
+104,0302.080a.002,Ketubot 80a,כתובות דף פ עמוד א,,,Rabbanan,anon[Ket30],B0302_41,Ammi,495,P4,,,1,1,,,,
+105,0302.080b.001,Ketubot 80b,כתובות דף פ עמוד ב,Pappa,,,anon[Ket31_wife],B0302_42,Rava,2582,B4,,,1,1,,,,
+106,0302.084b.001,Ketubot 84b,כתובות דף פד עמוד ב,,,,Herdsman; Orphans; creditors,B0302_43; B0302_44+; B0302_45+,Nahman,2285,B4,,,,1,,,,
+107,0302.084b.002,Ketubot 84b,כתובות דף פד עמוד ב,,,,Relations of Yohanan; anon[Ket_xx_orphans],_1570; B0302_58+,Yohanan; Resh Laqish,1570; 2879,P2,,,,1,,,1,
+108,0302.085a.001,Ketubot 85a,כתובות דף פה עמוד א,,Rav; Samuel; Nahman,Pinhas b. Ammi,Pappa; Hunah b Joshua,2518; 918,Rava,2582,B4,,,,1,,,1,1
+109,0302.085a.002,Ketubot 85a,כתובות דף פה עמוד א,,,,(Abimi b. Abahu?);Hamma b. Rabbah b. Abbahu,_131; 20990,Abahu,92,P3,,,,1,,,1,
+110,0302.085a.003,Ketubot 85a,כתובות דף פה עמוד א,,,,anon[Ket32_woman],B0302_48,Nahman,2285,B3,,,,1,,,,1
+111,0302.085a.004,Ketubot 85a,כתובות דף פה עמוד א,,,[daughter of Hisda],anon[Ket33_woman],B0302_49,Rava,2582,B4,,,,1,,1,,1
+112,0302.085a.005,Ketubot 85a,כתובות דף פה עמוד א,,,Pappi,anon[Ket34_woman]; anon[Ket35_litigant],B0302_50; B0302_51,Bibi b. Abbaye,602,B5,,,,1,,,,
+113,0302.085b.001,Ketubot 85b,כתובות דף פה עמוד ב,,,,Depositor; heirs of Miyyasha b. b. Joshua,B0302_52; _2085,Ammi,495,P4,,,,1,,,1,
+114,0302.085b.002,Ketubot 85b,כתובות דף פה עמוד ב,,,,Depositor; heirs of Hasa,B0302_53; _1344,Nahman,2285,B3,,,,1,,,1,
+115,0302.085b.003,Ketubot 85b,כתובות דף פה עמוד ב,,,,house of Dimi = Avdimi P5?],_867,Abba,6,P5?,,,,1,,,1,
+116,0302.086a.001; [Segal; p. 20 BQ 98b],Ketubot 86a; [Segal; p. 20 BQ 98b],כתובות דף פו עמוד א,,,Rafram,anon[Ket_54]; anon[Ket_55],B0302_54; B0302_55,Ashi,571,B6,,,,1,,,?,
+117,0302.091a.001,Ketubot 91a,כתובות דף צא עמוד א,,,,heirs of wives of bar Sarsur,_770,Amram; Nahman,2285,B2/B3,,,1,1,,,?,
+118,0302.091b.001,Ketubot 91b,כתובות דף צא עמוד ב,,,,anon[Ket36_creditor]; anon[Ket37_heirs],B0302_56; B0302_57,Abbaye,121,B4,,,,1,,,,
+119,0302.094b.002,Ketubot 94b,כתובות דף צד עמוד ב,,,,anon[Ket38_creditor]; anon[K39_creditor],B0302_59; B0302_60,Joseph,1764,B3,,,,1,,,,
+120,0302.098a.001,Ketubot 98a,כתובות דף צח עמוד א,,Simeon,,anon[Ket40_widow];anon[Ket41_heirs],B0302_61; B0302_62+,Rava,2582,B4,,,,1,,,,
+121,0302.098a.002,Ketubot 98a,כתובות דף צח עמוד א,,,,depositary orphans,B0302_63; B0302_64+,Ammi,495,P4,,,,1,,,,
+122,0302.104b.001,Ketubot 104b,כתובות דף קד עמוד ב,,,,Hiyya Arikha; MIL+,1090; _1090,Rabbah b. Shela,2627,B3,,,1,1,,,1,1
+123,0302.109b.001,Ketubot 109b,כתובות דף קט עמוד ב,,Yohanan,,anon[Ket43_epitropos of estate],B0302_102,Abbaye,121,B4,,,,1,,,,
+124,0302.111a.001,Ketubot 111a,כתובות דף קיא עמוד א,,,,anon[Ket44_levir],B0302_65,Hanina,1213,P1,,,1,,,1,,
+125,0302.60a.001,Ketubot 60a,כתובות דף ס עמוד א,,,Dimi b. Yosef,anon[Ket22],B0302_66,Samuel,2763,B1,,,1,,,,,
+126,0303.007b.001,Nedarim 7b,נדרים דף ז עמוד ב,,,,One banned by  Yirmiah b. Abba,_1954,Hisda,1345,B3,,,,,1,,1,
+127,0303.008b.001,Nedarim 8b,נדרים דף ח עמוד ב,,,,Rabina,2647,Ashi,571,B6,,,,,1,,1,
+128,0303.020b.001,Nedarim 20b,נדרים דף כ עמוד ב,,,,anon,0303_01,Rabbi,1508,L,,,,,,1,,
+129,0303.020b.002,Nedarim 20b,נדרים דף כ עמוד ב,,,,anon,0303_02,Rab,2578,B1,,,,,,1,,
+130,0303.021b.001,Nedarim 21b,נדרים דף כא עמוד ב,,,,anon,0303_03,Huna,895,B2? B5?,,,,,1,,,
+131,0303.021b.002,Nedarim 21b,נדרים דף כא עמוד ב,,,,anon,0303_04,Rabbah b. Huna,2596,B4,,,,,1,,,
+132,0303.021b.003,Nedarim 21b,נדרים דף כא עמוד ב,,,,anon,0303_05,Assi,534,B6?,,,,,1,,,
+133,0303.021b.004,Nedarim 21b,נדרים דף כא עמוד ב,,,,anon,0303_06,Eleazar,467,P3,,,,,1,,,
+134,0303.021b.005,Nedarim 21b,נדרים דף כא עמוד ב,,,,anon,0303_07,Yohanan,1570,P2,,,,,1,,,
+135,0303.022a.001,Nedarim 22a,נדרים דף כב עמוד א,,,,grandson of Yannai,_1814,Yannai Sabba,1814,P1?,,,,,1,,1,
+136,0303.022b.001,Nedarim 22b,נדרים דף כב עמוד א,,,,Ulla,2409,Yohanan,1570,P2,,,,,,1,1,
+137,0303.022b.002,Nedarim 22b,נדרים דף כב עמוד ב,,,,anon,0303_08,Assi,534,B6?,,,,,1,?,,
+138,0303.022b.003,Nedarim 22b,נדרים דף כב עמוד ב,,Rabbi [Abot],Raba,Sehora,2364,Nahman,2285,B3,,,,,1,,1,1
+139,0303.023a.001,Nedarim 23a,נדרים דף כג עמוד א,,,,Abbaye,121,Yosef,1764,B3,,,,,1,,1,1
+140,0303.025a.001,Nedarim 25a,נדרים דף כה עמוד א,,,,anon woman,0303_13,Raba,2582,B4,,,,1,1,,,1
+141,0303.050b.001,Nedarim 50b,נדרים דף נ עמוד ב,,,,anon woman,0303_09,Judah [of Nehardea?],1394,B2,,,,,,1,?,
+142,0303.050b.002,Nedarim 50b,נדרים דף נ עמוד ב,,,,anon; anon,0303_10;0303_11,Rabbi,1508,L,,,,?,,1,,
+143,0303.059a.001,Nedarim 59a,נזיר דף נט עמוד א,,,,One brought for flogging,B0304_01,Ammi,495,P?,,,,,,1,,
+144,0303.090a.001,Nedarim 90a,נדרים דף צ עמוד א,,,,Aha b. Huna; student,,Hisda,1345,B3,,,,,1,,1,1
+145,0306.005b.001,Gittin 5b,גיטין דף ה עמוד ב,,,,Simeon b. Abba,2839,Joshua b. Levi,1544,P1,,,1,,,1,1,
+146,0306.005b.002,Gittin 5b,גיטין דף ה עמוד ב,,,,Rabin b. Hisda,149,Yohanan,1570,P2,,,1,,,1,1,
+147,0306.005b.003,Gittin 5b,גיטין דף ה עמוד ב,,,,Bar Hadaya,723,*Ahi; Ami; Assi,*581;495;535,B1; P3; P3,,,1,,,1,1,
+148,0306.005b.004,Gittin 5b,גיטין דף ה עמוד ב,,,,Rabbah bar bar Hanah,2594,Eliezer,497,P3,,,1,,,1,1,
+149,0306.006a.001,Gittin 6a,גיטין דף ו עמוד א,,Hanin,,Kahana,2004,Rab,2578,B1,,,1,,,1,1,
+150,0306.014a.001,Gittin 14a,גיטין דף יד עמוד א,,Huna,Raba,Gardeners (1); gardeners (others),0306_01;0306_02+,Nahman,2285,B3,,,,1,,,,
+151,0306.018b.001,Gittin 18b,גיטין דף יח עמוד ב,,Simeon (T),,Husband; agents; [wife],0306_03;0306_4+;0306_05,Joshua b. Levi,1544,P1,,,1,,,1,,
+152,0306.019a.001,Gittin 19a,גיטין דף יט עמוד א,,,,Who exactly?,0306_06,Kahana,2004,?,,,,,,1,,
+153,0306.027a.001,Gittin 27a,גיטין דף כז עמוד א,,,,finder?,0306_07,Rabbah,2581,B3,,,1,,,1,,
+154,0306.029b.001,Gittin 29b,גיטין דף כט עמוד ב,,,,Agent of husband,0306_08,Raba,2582,B4,,,1,,,,,
+155,0306.033a.001,Gittin 33a,גיטין דף לג עמוד ב,Rabbah bar bar Hanah,,,husband; [wife],0306_09;0306_10,Yoshia de-min Usha,1388,P2,,,1,,,,,
+156,0306.035a.001,Gittin 35a,גיטין דף לה עמוד א,,Rab,,Widow,0306_11,Huna,895,B2,,,1,1,,,,
+157,0306.035a.002,Gittin 35a,גיטין דף לה עמוד א,,Rab Huna?,,Widow,0306_12,Rabbah b. Rab Huna,2596,B3,,,1,1,,,,?
+158,0306.037a.001,Gittin 37a,גיטין דף לז עמוד א,,,,Relation of Asi,535,Asi; Yohanan,535; 1570,P3;P2,1,,,1,,,1,
+159,0306.037b.001,Gittin 37b,גיטין דף לז עמוד ב,,,,creditors,0306_13,Rab,2578,B2,1,,,1,,,,
+160,0306.039b.001,Gittin 39b,גיטין דף לט עמוד ב,,Zeira; Nahman,Nahman b. Yishaq; Raba b. She`elta; Rabbis from Mahoza; Hiyya b. Abin,Slave woman; dying owner,0306_14; 0306_15,Nahman,2285,B3,,,1,1,,,,
+161,0306.040a.001,Gittin 40a,גיטין דף מ עמוד א,,Amemar; Dimi,Rabbanan,Slaves,0306_16+,Rabina,2647,B6/7?,,,1,1,,,,
+162,0306.040a.002,Gittin 40a,גיטין דף מ עמוד א,,,,[Yosef b. Raba on behalf of slave?],0306_17,Pappa,2518,B5,,,1,1,,,,
+163,0306.045a.001,Gittin 45a,גיטין דף מה עמוד א,,,,escaped slave;owner,0306_18;0306_19,Ami,495,P3,,,1,1,,1,,
+164,0306.046b.001,Gittin 46b,גיטין דף מו עמוד ב,,,Abba,Captives?,0306_20+,Huna,895,B2,,,,1,,,,
+165,0306.046b.002,Gittin 46b,גיטין דף מו עמוד ב,,,Rabbanan,Sold himself to the games,0306_21,Ami,495,B3,,,1,1,,,,
+166,0306.052a.001,Gittin 52a,גיטין דף נב עמוד א,,Mishnah; Hanilai; Shemuel,,caregiver?;Relations of orphans,0306_22;0306_23+,Nahman,2285,B3,,,,1,,,,1
+167,0306.052a.002,Gittin 52a,גיטין דף נב עמוד א,,Hanilai; Shemuel,,Rabbana Uqba; orphans,2423;0306_24,Nahman,2285,B3,,,,1,,,1,1
+168,0306.052b.001,Gittin 52b,גיטין דף נב עמוד ב,,Huna -Rab; Shela,,Amram Saba`a;relations of orphans,Amram_Sabaa; 0306_25,Nahman,2285,B3,,,,1,,,?,1
+169,0306.054b.001,Gittin 54b,גיטין דף נב עמוד ב,,Yohanan/Yose,Assi,householder,0306_27,Ami,495,B3,,1,,,,,,1
+170,0306.054b.001,Gittin 54b,גיטין דף נד עמוד ב,,Yohanan-Yose,Asi,buyer of pure goods.,0306_26,Ami,495,B3,,1,,,,1,,
+171,0306.054b.002,Gittin 54b,גיטין דף נד עמוד ב,,,Yirmiya?,Scribe of Torah,0306_27,Ami,495,B3,,,,1,,1,,
+172,0306.054b.003,Gittin 54b,גיטין דף נד עמוד ב,,,,Preparer of Torah scroll,0306_28,Abbahu,92,P3,,,,1,,1,,
+173,0306.058b.001,Gittin 58b,גיטין דף נח עמוד ב,,,Huna b. Yehoshua,Giddal b. R/De`ila`i; landowners,Giddal_b_ Re`ila`I;0306_29,Pappa,2518,B5,,,,1,,1,?,
+174,0306.060b.001,Gittin 60b,גיטין דף ס עמוד ב,,,,field owners,0306_30+,Abbaye,121,B4,,,,1,,,,
+175,0306.073a.001,Gittin 73a,גיטין דף עג עמוד א,,,,Seller of land; [purchaser of land],0306_31;0306_32,Rabina; Raba,2647;2582,B6/7; B4,,,,1,,,,
+176,0306.073a.003,Gittin 73a,גיטין דף עג עמוד א,,,,Pappa; Huna b. Yehoshua,2518;918,Raba,2582,B4,,,,1,,,1,
+177,0306.077a.003,Gittin 77a,גיטין דף עז עמוד ב,,,Ilish,dying man,0306_33,Raba,2582,B4,1,,,1,,,,
+178,0306.078b.001,Gittin 78b,גיטין דף עח עמוד ב,Mordechai-Ashi,,,divorcee/levirate widow,0306_34,Anon,99999,B-uncertain,,,1,,,,,
+179,0306.082a.001,Gittin 82a,גיטין דף פב עמוד א,,,,[one preparing a divorce],0306_35,Ami [alit. Yohanan; Rosh: Yannai],495,B3,,,1,,,,,
+180,0306.088a.001,Gittin 88a,גיטין דף פח עמוד א,,,Yirmiyah,who?,0306_36,Abbahu,92,P3,,,1,,,,,?
+181,0307.008b.001,Qiddushin 8b,קידושין דף ח עמוד ב,,,,Sons of Huna bar Abin; seller,_899+;0307_01,Ami,495,P3?,,,,1,,,1,1
+182,0307.031b.001,Qiddushin 31b,קידושין דף לא עמוד ב,,,Eleazar,Assi,535,Yohanan,1570,P2,,,,,,1,1,1
+183,0307.045b.001,Qiddushin 45b,קידושין דף מה עמוד ב,,,Assi,betrothed minor,0307_03,Rab,2578,B1,1,,1,,,,,
+184,0307.050a.001,Qiddushin 50a,קידושין דף נ עמוד א,Hiyya b. Abin,,,anon husband; anon wife,0307_11;0307_12,Hisda; Huna,1345; 895,B3; B2,,,,,,?,,
+185,0307.052b.001,Qiddushin 52b,קידושין דף נב עמוד ב,,,,man who tossed coins,0307_04,Rava,2582,B4,,,1,,,,,1
+186,0307.052b.002,Qiddushin 52b,קידושין דף נב עמוד ב,,,,tenant farmer,0307_05,Rava,2582,B4,,,1,1,,,,1
+187,0307.052b.003,Qiddushin 52b,קידושין דף נב עמוד ב,,,,brewer,0307_06,Rava,2582,B4,,,1,1,,,,1
+188,0307.065b.001,Qiddushin 65b,קידושין דף סה עמוד ב,,,,Mar Zutra b. Rab Mari b. Isur; Ada Sabba  b. Rab Mari b. Isur,2164;220,Ashi,571,B6,,,,,,,,
+189,0307.066a.001,Qiddushin 66a,קידושין דף סו עמוד א,,,,Blind student,blind_student,Samuel,2763,B1,,,1,,,1,1,1
+190,0307.070a.001,Qiddushin 70a,קידושין דף ע עמוד א,,,,man buying meat; Judah,0307_9;1394,Nahman,2285,B3,,,1,,,1,,
+191,0307.076b.001,Qiddushin 76b,קידושין דף עו עמוד ב,,,,Host of Ada b.Ahaba; Bibi,_194;600,Yosef,1764,B3,,,1,,,,1,1
+192,0307.079b.001,Qiddushin 79b,קידושין דף עט עמוד ב,,,Samuel; [Rab],Woman who betrothed herself and her father betrothed,0307_10,Yosef b. Menashia of Dewil,1776,B2,,,1,,,,,1
+193,0401.012a.001,Bava Qamma 12a,בבא קמא דף יב עמוד א,,[Nahman?],,anon[BQ-1],B0401_1,Judges of Nehardea,20347,[B?],,,,1,,,,
+194,0401.012a.002,Bava Qamma 12a,בבא קמא דף יב עמוד א,,[Nahman?],,anon[BQ-2],B0401_2,Hana b. Bizana,21004,B3,,,,1,,,,
+195,0401.027b.001,Bava Qamma 27b,בבא קמא דף כז עמוד ב,,,,anon[BQ-3],B0401_3,Samuel,2763,B1,,,,1,,,,
+196,0401.027b.002,Bava Qamma 27b,בבא קמא דף כז עמוד ב,,,,anon[BQ-4],B0401_4,Rava;Rabba,2581; 2582,[B2;B4],,,,1,,,,
+197,0401.037a.001;0504.050b.001,Bava Qamma 37a; Bekhorot 50b,בבא קמא דף לז עמוד א,,,,Hanan Bisha; anon[BQ-5],Hanan Bisha; B0401_5,Huna,895,[B2/P3],,,,1,,,?,1
+198,0401.058b.001,Bava Qamma 58b,בבא קמא דף נח עמוד ב,,,Nahman,anon[BQ-6]; anon[BQ-7],B0401_6; B0401_7,Resh Galuta; Nahman,2285; _Resh galuta,B3,,,,1,,,,1
+199,0401.059b.001,Bava Qamma 59b,בבא קמא דף נט עמוד א,,,,anon[ovda],B0401_8,Pappa; Huna b. Joshua,2518; 918,B5,,,,1,,,,
+200,0401.073a.001,Bava Qamma 73a,בבא קמא דף עג עמוד א,Yirmiyah of Difti,Rava,,anon[BQ-8],B0401_9,Pappa,2518,B5,,,,1,,,,
+201,0401.084a.001,Bava Qamma 84a,בבא קמא דף פד עמוד א,,,Rava,anon[BQ-102],B0401_10; B0401_11,Pappa b. Samuel,2527,B4,,,,1,,,,
+202,0401.084a.002,Bava Qamma 84a,בבא קמא דף פד עמוד א,,,,anon[BQ-; 103;ass driver]; anon[BQ-104; a child],B0401_12; B0401_13,Rava,2582,B4,,,,1,,,,
+203,0401.088a.001,Bava Qamma 88a,בבא קמא דף פח עמוד ב,,,Rava; Hoshaya,Mother of Samuel b. Abba of Hagronya[??],_2769,Yirmiyah b. Abba,1954,B2,,,,1,,,1,1
+204,0401.090b.001,Bava Qamma 90b,בבא קמא דף צ עמוד ב,,Yose ha-gelili,,anon[BQ-10],B0401_14,Judah Patriarch[L?],1508,L?,,,,1,,,,1
+206,0401.096b.001,Bava Qamma 96b,בבא קמא דף צו עמוד ב,,,Rava,anon[BM-105;  thief]; anon[BM-106; owners],B0401_15; B0401_16+,Nahman,2285,B3,,,,1,,,,1
+207,0401.098a.001,Bava Qamma 98a,בבא קמא דף צח עמוד א,,,,agardamis tayya,Agardamis Tayy`a,Pappa; Huna b. Joshua,2518; 918,B5,,,,1,,,?,
+208,0401.098b.001,Bava Qamma 98b,בבא קמא דף צח עמוד ב,??,,,Ashi,571,Rafram[B6?],2690,B6?,,,,1,,,1,
+209,0401.099b.001,Bava Qamma 99b,בבא קמא דף צט עמוד ב,Rabbah b. b. Hanah,,,anon[BQ-11],B0401_17,Yohanan,1570,P2,1,,,1,,,,
+210,0401.099b.002,Bava Qamma 99b,בבא קמא דף צט עמוד ב,,baraita,Kahana[B2?]; Assi[B1?],anon[BQ-11;hagrama[?]],B0401_18,Rab,2578,B1,1,,,1,,,,
+205,0401.103a.001,Bava Qamma 103a,בבא קמא דף קג עמוד א,,,,Kahana[B?],2004,Rab,2578,B1,,,,1,,,1,1
+211,0401.112a.001,Bava Qamma 112a,בבא קמא דף קיב עמוד א,,[Abbahu quotes:] Jos.b. Hamma in n. Oshaya,Abbahu,Yirmiyah; son of father in law of Yirmiya,1952; _1952,Abin[P3?],139,P3?,,,,1,,,1,1
+212,0401.115a.001,Bava Qamma 115a,בבא קמא דף קטו עמוד א,,Rab?,,Hanan Bisha; unspecified,Hanan Bisha; B0401_19,Huna,895,B2/P3,,,,1,,,?,1
+213,0401.115a.002,Bava Qamma 115a,בבא קמא דף קטו עמוד א,,,[Kahan[B?]; this is stam],Abimi b. Nazi FIL of Ravina; anon[BQ-thief],133; B0401_20,Rabina[?],2647,B6/7?,,,,1,,,1,
+214,0401.116b.001,Bava Qamma 116b,בבא קמא דף קטז עמוד ב,,Mishnah/baraita,[Joseph; huna b. Hiyya; Nahman],anon[BQ-14]; anon[BQ-15; thief]; wheat belonging to Resh Galuta,B0401_36; B0401_22; _Resh Galuta,Nahman,2285,B3,,,,1,,,?,1
+215,0401.117a.001,Bava Qamma 117a,בבא קמא דף קיז עמוד א,,baraita,Rabbanan,Mari b. Pinhas b. Hisda[?]; anon[BQ-16]; gentiles,2189; B0401_21; B0401_22+,[Joseph; huna b. Hiyya; Nahman],571,B6,,,,1,,,1,
+216,0401.117a.002,Bava Qamma 117a,בבא קמא דף קיז עמוד א,,,Kahana[B3; B4?],anon[BQ-17; owner]; anon[BQ-18],B0401_25; B0401_35,Rab,2578,B1,,,,1,,,,1
+217,0401.117b.001,Bava Qamma 117b,בבא קמא דף קיז עמוד ב,,,Abbaye; Gloss by Ashi,depositary; thief; depositors,B0401_26; B0401_27; B0401_28,Rabbah,2581,B3,,,,1,,,,1
+218,0401.117b.002,Bava Qamma 117b,בבא קמא דף קיז עמוד ב,,,[Joseph; Huna b. Hiyya; Nahman],Depositary; thief,B0401_29; B0401_30,Rabbah,2582,B4,,,,1,,1,?,1
+219,0401.117b.003,Bava Qamma 117b,בבא קמא דף קיז עמוד ב,,,Abbaye,Ferry rider; ass owner.,B0401_30; B0401_31,Rabbah,2581,B3,,,,1,,1,,1
+220,0402.007a.001,Bava Mesi`a 7a,בבא מציעא דף ז עמוד א,Hiyya b. Abin,Nahman,,anon[BM-1]; anon[BM-99],B0402_1; B0402_99,Hisda; Huna,1345; 895,B3; B2,1,,,1,,,1,
+221,0402.014a.001,Bava Mesi`a 14a,בבא מציעא דף יד עמוד א,,,,Abuha b. Ihi,98,Samuel,2763,B1,,,,1,,,?,1
+222,0402.016a.001,Bava Mesi`a 16a,בבא מציעא דף טז עמוד א,,,Joseph; Abaye,Buyer; victim of theft,B0402_3; B0402_4,[Pumbedita],20348,?,,,,1,,,,
+223,0402.017a.001,Bava Mesi`a 17a,בבא מציעא דף יז עמוד א,,,,Shabetai b. R. Marinus,2711,Hiyya[P1?],1088,P1,,,1,1,,1,1,1
+224,0402.018b.001,Bava Mesi`a 18b,בבא מציעא דף יח עמוד ב,,,,Parties to a divorce,B0402_100+,Rabbah,2581,B3,,,1,,,1,,
+225,0402.023b.001,Bava Mesi`a 23b,בבא מציעא דף כג עמוד ב,,,,Jacob b. Abba,1840,Abbaye,121,B4,,,,1,,,1,1
+226,0402.023b.002,Bava Mesi`a 23b,בבא מציעא דף כג עמוד ב,,,,anon[BM-5],B0402_4,Rab,2578,B1,,,,1,,,?,1
+227,0402.024b.001,Bava Mesi`a 24b,בבא מציעא דף כד עמוד ב,,,,anon[BM-6],B0402_5,Judah[b. Yehezqel],1394,B2,,,,1,,,,1
+228,0402.024b.002,Bava Mesi`a 24b,בבא מציעא דף כד עמוד ב,,,,anonymous finder; property of be bar Marion,B0402_8; be bar Marion,Abbaye,121,B4,,,,1,,,?,1
+229,0402.024b.003,Bava Mesi`a 24b,בבא מציעא דף כד עמוד ב,,,,Ishaq Napaha,1885,Yohanan or be midrasha,1570/be Midrasha,P2,,,,1,,,1,
+230,0402.024b.004,Bava Mesi`a 24b,בבא מציעא דף כד עמוד ב,,,,Ammi,534,Yohanan or Assi or be midrasha,1570/294/be Midrasha,P2; P3,1,,,?,,,1,1
+231,0402.028b.001,Bava Mesi`a 28b,בבא מציעא דף כח עמוד ב,,,[Rabbah b. Huna],Father of R. Pappa,_2518,Rabba b. Huna,2596,B3,,,,1,,,1,1
+232,0402.029b.001,Bava Mesi`a 29b,בבא מציעא דף כט עמוד ב,,,Judah[b. Yehezkel]  > Samuel --> Tarfon,Rahava,22946,Yosef,1764,B3,,,,1,,,?,1
+233,0402.031b.001,Bava Mesi`a 31b,בבא מציעא דף לא עמוד ב,,,,Issur and Safra,Issur; 2398,Rabba b. Huna,2596,B3,,,,1,,,1,1
+234,0402.035a.001,Bava Mesi`a 35a,בבא מציעא דף לה עמוד א,,,,anon[BM-7],B0402_6,Nahman,2285,B3,,,,1,,,,1
+235,0402.036a.001,Bava Mesi`a 36a,בבא מציעא דף לו עמוד א,,Hisda,,anon[BM-8; gardeners],B0402_7+,Rab,2578,B1,,,,1,,,,
+236,0402.038b.001,Bava Mesi`a 38b,בבא מציעא דף לח עמוד ב,,,Amram,anon[BM-9],B0402_8,Sheshet,2938,B3,,,,1,,,,
+237,0402.039b.001,Bava Mesi`a 39b,בבא מציעא דף לט עמוד ב,,,,Mari b. Isaq; brother,2178; _2178,Hisda; Ammi,1345; 495,B3; [P3?],,,?,1,,,1,1
+238,0402.042a.001,Bava Mesi`a 42a,בבא מציעא דף מב עמוד א,,,,anon[BM-depositary],B0402_12,Rava,2582,B4,,,,1,,,,1
+239,0402.044b.001,Bava Mesi`a 44b,בבא מציעא דף מד עמוד ב,,,,Rab,2578,Hiyya,1088,P1,,,,1,,,1,1
+240,0402.048b.001,Bava Mesi`a 48b,בבא מציעא דף מח עמוד ב,Raba,,,Hiyya b. Yosef; anon[BM-11],1113;B0402_10,Yohanan,1570,P2,,,,1,,,1,1
+241,0402.049a.002,Bava Mesi`a 49a,בבא מציעא דף מט עמוד א,,,,Kahana,2004,Rab,2578,B1,,,,1,,,1,
+242,0402.049a.003,Bava Mesi`a 49a,בבא מציעא דף מט עמוד א,,,Rabbanan,anon[BM-12],B0402_11,Rava,2582,B4,,,,1,,,,1
+243,0402.049b.001,Bava Mesi`a 49b,בבא מציעא דף מט עמוד ב,Pappi; Ravina,Rabbanan; Rava,Ravina[who is also tradent?],Tavot; Samuel b. Zutra,1351/2784,Rava,2582,B4,,,,1,,,1,1
+244,0402.049b.002,Bava Mesi`a 49b,בבא מציעא דף מט עמוד ב,,,,anonymus(*),B0402_15,Hisda,1345,B3,,,,1,,,,1
+245,0402.051a.001,Bava Mesi`a 51a,בבא מציעא דף נא עמוד א,,,,landlord[?] of Rami b. Hama,_2681,Nahman,2285,B3,,,,1,,,1,1
+246,0402.051a.002,Bava Mesi`a 51a,בבא מציעא דף נא עמוד א,,,,anon[BM-14],B0402_13,Rava,2582,B4,,,,1,,,,1
+247,0402.051a.003,Bava Mesi`a 51a,בבא מציעא דף נא עמוד א,,Eleazar[P?],,anon[BM-15],B0402_14,Hisda,1345,B3,,,,1,,,,1
+248,0402.066a.001,Bava Mesi`a 66a,בבא מציעא דף סו עמוד א,,,Judah[b. Yehezkel],house of the exilarch,_Resh Galuta,Nahman,2285,B2; B3,,,,1,,,?,
+249,0402.067a.001,Bava Mesi`a 67a,בבא מציעא דף סז עמוד א,Pappi,[Rabba b Huna],,anon[ovda],B0402_18,Ravina[B6/7?],2647,B6/7?,,,,1,,,,
+250,0402.067a.002,Bava Mesi`a 67a,בבא מציעא דף סז עמוד א,,,,anon[BM-17; orphana],B0402_16+,Ashi,571,B6,,,,1,,,,
+252,0402.069a.001,Bava Mesi`a 69a,בבא מציעא דף סט עמוד א,,[M],,Menashya b. Gada,2140,Abbaye,121,B4,,,,1,,,1,1
+251,0402.069a.002,Bava Mesi`a 69a,בבא מציעא דף סט עמוד א,,,,Samaritans,Samaritans+,Pappa[B5?],2518,B5,,,,1,,,,1
+253,0402.074b.001,Bava Mesi`a 74b,בבא מציעא דף עד עמוד ב,,,Rabbanan,anon[BM-18],B0402_20,Pappa[B5?],2518,B5?],,,1,1,,,,1
+254,0402.081a.001,Bava Mesi`a 81a,בבא מציעא דף פא עמוד א,,,Rabbanan,anon[BM-19; alkaline sellers],B0402_21+,Pappa[B5?],2518,B5,,,,1,,,,1
+255,0402.081a.002,Bava Mesi`a 81a,בבא מציעא דף פא עמוד א,,,,anon[BM-20; seller]; anon[BM-21; purchaser],B0402_22; B0402_23,Nahman,2285,B3,,,,1,,,,1
+256,0402.081b.001,Bava Mesi`a 81b,בבא מציעא דף פא עמוד ב,,,Rabbanan,anon[BM-22; 23],B0402_24+,Rava,2582,B4,,,,1,,,,1
+257,0402.083a.001,Bava Mesi`a 83a,בבא מציעא דף פג עמוד א,,,Joseph b. Rava,anon[BM-24],B0402_25,Rava,2582,B4,,,,1,,,,
+258,0402.083a.002,Bava Mesi`a 83a,בבא מציעא דף פג עמוד א,,,Joseph b. Rava,anon[BM-25],B0402_26,Rava,2582,B4,,,,1,,,,
+259,0402.093a.001,Bava Mesi`a 93a,בבא מציעא דף צג עמוד א,,,Abbaye,anon[BM-26; shepher],B0402_27,Rabbah,2581,B3,,,,1,,,,1
+260,0402.093b.001,Bava Mesi`a 93b,בבא מציעא דף צג עמוד ב,,,,Bar Adda Sebola`a,Bar Adda Sebola`a,Pappa[B5?],2518,B5?,,,,1,,,?,1
+261,0402.093b.002,Bava Mesi`a 93b,בבא מציעא דף צג עמוד ב,,,,Aybo[?]; be-Ronia[?],334; _2665,Nahman,2285,B3,,,,1,,,1,1
+262,0402.096b.001,Bava Mesi`a 96b,בבא מציעא דף צו עמוד ב,,,,anon[BM-28],B0402_28,Rava,2582,B4,,,,1,,,,1
+263,0402.096b.002,Bava Mesi`a 96b,בבא מציעא דף צו עמוד ב,,[Kahana; Assi],Kahana[B2?]; Assi[B1?],anon[BM-29],B0402_29,Rab,2578,B1,,,,1,,,,1
+264,0402.097a.002,Bava Mesi`a 97a,בבא מציעא דף צז עמוד א,,,Rabbanan,Maremar b. Hanina[B6?]; be Hoza`e,2199; be Hoza`e,Rava,2582,B4,,,,1,,,1,1
+265,0402.097b.001,Bava Mesi`a 97b,בבא מציעא דף צז עמוד א,,,,anon[BM-Borrower of item],B0402_30,Pappa[B5?],2518,B5,,,,1,,,,1
+266,0402.101a.001,Bava Mesi`a 101a,בבא מציעא דף קא עמוד א,,,,anon[BM-30],B0402_31,Rab,2578,B1,,,,1,,,,
+267,0402.106b.001,Bava Mesi`a 106b,בבא מציעא דף קו עמוד ב,,,Rabbanan,anon[BM-31],B0402_32,Rava,2582,B4,,,,1,,,,1
+268,0402.109a.001,Bava Mesi`a 109a,בבא מציעא דף קט עמוד א,,,,Ronya the planter of Ravina,_2647,Rava,2582,B4,,,,1,,,1,
+269,0402.109b.001,Bava Mesi`a 109b,בבא מציעא דף קט עמוד ב,,,Rava,anon[BM-32; planter],B0402_33,Pappa b. Samuel,2527,B4,,,,1,,,,
+270,0402.116a.001,Bava Mesi`a 116a,בבא מציעא דף קטז עמוד א,,,[Rava?],anon[BM-33],B0402_34,Abbaye,121,B4,,,,1,,,,
+271,0403.005a.001,Bava Batra 5a,בבא בתרא דף ה עמוד א,,Huna; Yose,,Ronya; Ravina[B6/7?],_2647; 2647,Raba,2582,B4,,,,1,,,1,1
+272,0403.006a.001,Bava Batra 6a,בבא בתרא דף ו עמוד א,,,,anon[BB-1; ovda],B0403_1,Joseph[b.Hiyya],1764,B3,,,,1,,,,
+273,0403.008a.001,Bava Batra 8a,בבא בתרא דף ח עמוד א,,,,Rabbanan; anon[BB-2; Tiberians],rabbanan;B0403_2+,Rabbi[L;P1;P4?],1508,[L;P1;P4],,,,1,,1,1,1
+274,0403.009a.001,Bava Batra 9a,בבא בתרא דף ט עמוד א,,,Yemar b. Shelamia objected to Rava; Pappa,anon[BB-3; butchers],B0403_3+,Rava,2582,B4,,,,1,,,,
+275,0403.013b.001,Bava Batra 13b,בבא בתרא דף יג עמוד ב,,,,Rabin b. Hinnena[B3?]; Dimi b. Hinnena[B3?],149; 871,Rava,2582,B4,,,,1,,,1,1
+276,0403.022a.001,Bava Batra 22a,בבא בתרא דף כב עמוד א,,,,anon[BB-4; basket sellers]; anon[BB-5; people of the place],diqula`e[basket sellers?]; people of the place,Ravina[B6/7?],2647,B6/7?,,,,1,,,,1
+277,0403.022a.002,Bava Batra 22a,בבא בתרא דף כב עמוד א,,,,anon[BB-6; ‘amra’e]; anon[BB-7; people of the place],Wool sellers+; people of Pum Nehara+,Kahana [de Pum Nehara][B3; B4],2004,B3; B4,,,,1,,,,1
+278,0403.022a.003,Bava Batra 22a,בבא בתרא דף כב עמוד א,,,Claiming responsibility for Ada b. Abba`s death: Yosef; Dimi; Rava; Abbaye; Nahman b. Isaac,Rab Dimi of Nehardea; Rava; Ada b. Abba,881; 2582; 194,Joseph[b.Hiyya],1764,B3,,,,1,,,1,1
+279,0403.025b.001,Bava Batra 25b,בבא בתרא דף כה עמוד ב,,Kahana,,Pappi Yona`a; anon[BB-8;Sesame grinders],Pappi Yokna`a; B0403_8+,Ashi,571,B6,,,,1,,,?,1
+280,0403.026a.001,Bava Batra 26a,בבא בתרא דף כו עמוד א,,,[see comments; Mar b. Ashi; Maremar],those of the house of Marion b. Rabin; Flax grinders,house of Marion br Rabin+; B0403_9+,Ravina,2647,B6/7?,,,,1,,,1,1
+281,0403.029b.001,Bava Batra 29b,בבא בתרא דף כט עמוד ב,,,,Rami b. Hama and Uqba b. Hama; and an external claimant,2681; 2429; B0403_10,Rava,2582,B4,,,1,1,,,1,1
+282,0403.029b.002; 0403.159b.002,Bava Batra 29b; Bava Batra 159b,בבא בתרא דף כט עמוד ב,,,Rava,generic claimants(2),B0403_11+,Nahman,2285,B3,,,,1,,,,
+283,0403.030a.001; 0403.159b.001,Bava Batra 30a; Bava Batra 159b,בבא בתרא דף ל עמוד א,,,Rava,anon[BB-12;plaintifs(2)],B0403_12+,Nahman,2285,B3,,,,1,,,,
+284,0403.031b.001,Bava Batra 31b,בבא בתרא דף לא עמוד ב,,??,Hamnuna; Menahem b. Yose,anon[BB-13],B0403_99,Nahman,2285,B3,,,,,,,,
+285,0403.033b.001; 0406.032b.001,Bava Batra 33b; Shevu`ot 32b,בבא בתרא דף לג עמוד ב,,,Abba,anon litigant 1;anon litigant 2;Witness,0406_03;0406_04;0406_05,Ammi,495,P4,,,,1,,,,
+286,0403.040b.001,Bava Batra 40b,בבא בתרא דף מ עמוד ב,Pappa,,,anon[BB-16];anon[BB-17; witnesses],B0403_16+; B0403_17+,Rava,2582,B4,,,1,1,,,,1
+287,0403.041a.001,Bava Batra 41a,בבא בתרא דף מא עמוד א,,Judah; Ishmael,,Anan; anon[BB-18; neighbor],2453; B0403_18,Nahman,2285,B3,,,,1,,,1,1
+289,0403.041b.001,Bava Batra 41b,בבא בתרא דף מא עמוד ב,,,Rab,anonymous(2),B0403_54+,Hiyya,1088,P1,,,,1,,,,
+288,0403.041b.002,Bava Batra 41b,בבא בתרא דף מא עמוד ב,,Simeon b. Eleazar,,Kahana[B3; B4]; anon[BB-19; neighbor]; anon[BB-20; witnesses],2004; B0403_19; B0403_20+,Judah[b. Yehezqel],1394,B2,,,,1,,,,
+290,0403.051b.001,Bava Batra 51b,בבא בתרא דף נא עמוד ב,,Eleazar,Uqba b. d. of Rab; Nehemia b. d. of Rab,anonymous[Husband and wife?],B0403_53+,Hisda,1345,B3,,,1,1,,,,
+291,0403.052a.001,Bava Batra 52a,בבא בתרא דף נב עמוד א,,,,[Wife of] Rabbah b. b. Hanah; Rabah b. bar Hanan; Marta etc (3rd party),_2594; 2544; Marta and granddaughters,Rab,2578,B1,,,,1,,,1,1
+292,0403.052a.002,Bava Batra 52a,בבא בתרא דף נב עמוד א,Uqba b. d. of Rab[B?];Nehemia b. d. of Rab[B?],Rava,,anonymous,B0403_107,Pappi,2518,B5,,,?,1,,,,
+293,0403.054a.001,Bava Batra 54a,בבא בתרא דף נד עמוד א,,,,anon[BB-24; Woman]; anon[BB-25; man],B0403_24; B0403_25,Levi OR Mar Uqba,2032/2423,[P1/B2],,,,1,,,,1
+294,0403.054b.001,Bava Batra 54b,בבא בתרא דף נד עמוד ב,,Abaye  and Rab Yoseph ,,anon[BB; one who bought from gentile]; anon[BB; an Israelite who plowed in field],B0403_108; B0403_109,Judah[b. Yehezqel],1394,B2,,,,1,,1,,1
+295,0403.054b.002,Bava Batra 54b,בבא בתרא דף נד עמוד ב,,Samuel; Huna b. Rab,,Huna; another Israelite (Venice; Pesaro; Munich; Hamburg); hahu gavra (Paris; Escorial; Vatican115b),895; B0403_48,Nahman,2285,B3,,,,1,,,1,1
+296,0403.058a.001,Bava Batra 58a,בבא בתרא דף נח עמוד א,,,,anon[BB-28; heirs; 3],B0403_28+,Bena`ah,687,P1,,,,1,,,,1
+297,0403.058a.002,Bava Batra 58a,בבא בתרא דף נח עמוד א,,,,anon[BB-29; heirs; 10],B0403_29+,Bena`ah,687,P1,,,,1,,,,1
+298,0403.059a.001,Bava Batra 59a,בבא בתרא דף נט עמוד א,,Ila`a,,anon[BB-30],B0403_30,Ammi; Abba b. Mamal,495; 47,P3,,,,1,,,,
+299,0403.060a.001,Bava Batra 60a,בבא בתרא דף ס עמוד א,,,,anon[BB-31;Owner of house]; anon[BB-32; people in public domain],B0403_31; B0403_32+,Ammi,495,P4,,,,1,,,?,1
+300,0403.060a.002,Bava Batra 60a,בבא בתרא דף ס עמוד א,,,,anon[BB-33;Owner of tree]; anon[BB-34; people in public domain],B0403_33; B0403_34+,Yannai,1814,P1,,,,1,,,,1
+301,0403.082b.001[m. Kil. 4:9],Bava Batra 82b[m. Kil. 4:9],בבא בתרא דף פב עמוד ב,Abaye  and Rab Yoseph ,,,anon[BB-35; from Salmon],B0403_35,Sages,0,T,1,,,,,,,
+302,0403.082b.002,Bava Batra 82b,בבא בתרא דף פב עמוד ב,Abaye  and Rab Yoseph ,,,anon[BB-36],B0403_36,Judah[b. Yehezqel],1394,B2,,,,1,,,,
+303,0403.088a.001,Bava Batra 88a,בבא בתרא דף פח עמוד א,,,,anon[BB-37]; anon[BB-38]; butcher]; anon[BB-39; thief],B0403_37; B0403_38; B0403_39,Yemar,1804,B6,,,,1,,,,1
+304,0403.088a.002,Bava Batra 88a,בבא בתרא דף פח עמוד א,,,,anon[BB-40]; anon[BB-41]; merchant]; anon[BB-42; customers],B0403_82; B0403_83; B0403_84,Kahana [de Pum Nehara][B3; B4],2004,B3; B4,1,,,1,,,,1
+305,0403.096b.001,Bava Batra 96b,בבא בתרא דף צו עמוד ב,,Rab; Samuel,,anon[ovda],B0403_40,Joseph,1764,B2,,,,1,,,,
+306,0403.100a.001,Bava Batra 100a,בבא בתרא דף ק עמוד א,,,,[owner/purchaser of vineyard],B0403_41,Ishaq b. Ami,1901,B4,,,,1,,,,
+307,0403.106b.001,Bava Batra 106b,בבא בתרא דף קו עמוד ב,,[Quotes Mishnah in following discussion],,Pappa,2518,Abbaye,121,B4,,,,1,,,1,
+308,0403.111a.002,Bava Batra 111a,בבא בתרא דף קיא עמוד א,,[Zekhariah b. Haqatsav (baraita)];,Nahman,anon[ovda],B0403_42,Tabla,21052,B3,,,1,1,,,,
+309,0403.126a.001,Bava Batra 126a,בבא בתרא דף קכו עמוד א,,,[Pappa and Pappi],Firstborn; brother(s); relations of brothers; purchaser,B0403_43; B0403_44+; B0403_45; B0403_79,Rava,2582,B4,,,1,1,,,,1
+310,0403.126b.001,Bava Batra 126b,בבא בתרא דף קכו עמוד ב,,,,Mar Zutra mi-deRishba[?],2166,Ashi,571,B6,,,1,1,,,?,1
+311,0403.126b.002,Bava Batra 126b,בבא בתרא דף קכו עמוד ב,,,,anon[BB; attests that one is firstborn]; another who is a firstborn,B0403_46; B0403_47,Rabba b. bar Hana,2594,B3,,,1,1,,,,1
+312,0403.126b.003,Bava Batra 126b,בבא בתרא דף קכו עמוד ב,,,,anon[BB; attests that one is firstborn]; another who is a firstborn,B0403_104; B0403_105,Haninah,1213,P1?,,,1,1,,,,1
+313,0403.143a.001,Bava Batra 143a,בבא בתרא דף קמג עמוד א,,,,anon[ovda],B0403_50,Samuel,2763,B1,,,,1,,,,
+314,0403.143a.002,Bava Batra 143a,בבא בתרא דף קמג עמוד א,,,,anon[ovda],B0403_52,Yohanan,1570,P2,,,,1,,,,
+315,0403.144a.001,Bava Batra 144a,בבא בתרא דף קמד עמוד א,,,,Safra; brothers ,2398; _2398,Rava,2582,B4,,,,1,,,1,1
+316,0403.151a.001,Bava Batra 151a,בבא בתרא דף קנא עמוד א,,,Huna bryh d-r Yehoshua,Zutra b. Tovya; Mother of; married to Zebid[B3?B5?],1006; _1006; 993,Bibi b. Abbaye,602,B5,,,1,1,,,1,1
+317,0403.151a.002,Bava Batra 151a,בבא בתרא דף קנא עמוד א,,Samuel,,Uqba b. Hama; Rami b. Hama,2429; 2681,Sheshet; Nahman,2938; 2285,B3,,,,1,,,1,1
+318,0403.151a.004,Bava Batra 151a,בבא בתרא דף קנא עמוד א,,,,Amram Hasida,2488,Nahman,2285,B3,,,,1,,,1,1
+319,0403.151a.005,Bava Batra 151a,בבא בתרא דף קנא עמוד א,,Samuel,,Mother of Tobi b. Mattena; Ahadvoi b. Mattena,_1364; 1364;,Nahman,2285,B3,,,,1,,,1,
+320,0403.151a.006,Bava Batra 151a,בבא בתרא דף קנא עמוד ב,,,,Dimi b. Yosef; mother,873; _873,Nahman,2285,B3,,,,1,,,1,1
+321,0403.153a.001,Bava Batra 153a,בבא בתרא דף קנג עמוד א,,,,One who gave in anticipation of death; [grantees],B0403_55; B0403_80+,Huna,895,B2,,,,1,,,,1
+322,0403.153a.002,Bava Batra 153a,בבא בתרא דף קנג עמוד א,,,,anon,Anon[BM-4],Nahman; Yirmiya b. Abba,2285; 1954,B3; B2,,,,1,,,,1
+323,0403.153a.003,Bava Batra 153a,בבא בתרא דף קנג עמוד א,,,Pappa b Hanan Scribe[B4?; B5?],Woman who came before,B0403_73,Rava,2582,B4,,,,1,,,,1
+324,0403.155b.001_,Bava Batra 155b_,בבא בתרא דף קנה עמוד ב,,,,[Saris],B0403_57,Hiyya,1088,P1,,,1,,,,,
+325,0403.155b.002,Bava Batra 155b,בבא בתרא דף קנה עמוד ב,,,,Seller not of age,B0403_13,Rava,2582,B4,,,1,1,,,,
+326,0403.155b.003,Bava Batra 155b,בבא בתרא דף קנה עמוד ב,,,,son younger than 20yrs; relations; buyers,B0403_58; B0403_59; B0403_81+,Rava,2582,B4,,,1,1,,,,
+327,0403.160b.001; 0403.164b.001?,Bava Batra 160b; Bava Batra 164b?,בבא בתרא דף קס עמוד ב,Rami b. Hama; Hisda,,Simeon b. Rabbi ,Bearer of a bound document presented it,B0403_60,Rabbi,1508,T,,,,?,,1,,?
+328,0403.164b.002,Bava Batra 164b,בבא בתרא דף קסד עמוד ב,,,Zonin,Bearer of a bound document presented it,B0403_61,Rabbi,1508,T,,,,?,,1,,
+329,0403.167a.001,Bava Batra 167a,בבא בתרא דף קסז עמוד א,,,,Purchaser of  purchase of landed property; [seller; implied],B0403_07;B0403_08,Abbaye,121,B4,,,,?,,1,,
+330,0403.167a.002,Bava Batra 167a,בבא בתרא דף קסז עמוד א,,,,purchaser of brothers` property; [seller implied],B0403_05;B0403_06,Abbaye,121,B4,,,,,,,,
+331,0403.167a.003,Bava Batra 167a,בבא בתרא דף קסז עמוד א,,,,Rava; Aha b. Ada; bearer of document,2582; 265; B0403_04,Rava,2582,B4,,,,?,,1,1,
+332,0403.167b.001,Bava Batra 167b,בבא בתרא דף קסז עמוד א,,,Abbaye,Yirmiyah b Abba; anonymuswomen(2),1954; B0403_67+,Yirmiyah b Abba,1954,B2,,,,?,,1,1,
+333,0403.168b.001,Bava Batra 168b,בבא בתרא דף קסח עמוד ב,,Safra,Abbaye`s scribe;  Aha b. Manyomi,Landowners in Pumbedita; [Arabs],B0403_68+; B0403_69+,Abbaye,121,B4,,,,?,,,,
+334,0403.169b.001,Bava Batra 169b,בבא בתרא דף קסט עמוד ב,,,,Woman who gave funds; the agent,B0403_70; B0403_71,Nahman,2285,B3,,,,1,,1,,
+335,0403.170a.001,Bava Batra 170a,בבא בתרא דף קע עמוד א,,[complex],,Isaac b. Yosef; Abba,1113; 6,Ishaq Napaha,1885,P3,,,,1,,,1,
+336,0403.171b.001,Bava Batra 171b,בבא בתרא דף קעא עמוד ב,,[complex],,Isaac b. Yosef; Abba,1113; 6,Hanina b. Pappi,22004,P3,,,,1,,1,1,1
+337,0404.027a.001,Sanhedrin 27a,סנהדרין דף כז עמוד א,,Rava,,anon,B0404_11,Pappi,2533,B5,,,,,,1,,
+338,0404.029b.001,Sanhedrin 29b,סנהדרין דף כט עמוד ב,,Asi,,anon,B0404_12,Rab,2578,B1,,,,1,,,,
+339,0404.029b.002,Sanhedrin 29b,סנהדרין דף כט עמוד ב,,,,``Qab Rashu``,qab_rashu,Nahman,2285,B4,,,,1,,,?,1
+340,0404.029b.003,Sanhedrin 29b,סנהדרין דף כט עמוד ב,,,,``Akbera deyatib adinare``,akbara_deyativ_adinare,Ishmael b. Yose ;Hiyya,1986;1088,T;P1,,,,1,,,?,1
+341,0404.031a.001,Sanhedrin 31a,סנהדרין דף לא עמוד א,,,,anon; anon,B0404_01;B0404_02,Ami,495,B?,,,,1,,,,
+342,0404.031a.002,Sanhedrin 31a,סנהדרין דף לא עמוד א,,,,anon (child),B0404_03,Nahman,2285,B4,,,,1,1,,1,
+343,0404.05a.001,Sanhedrin 5a,סנהדרין דף ה עמוד א,,,,Mar Zutra;anon?,2161;B0404_09?,Yosep,1764,B3,,,,,,1,1,?
+344,0404.05a.002,Sanhedrin 5a,סנהדרין דף ה עמוד א,,,,Rabbah bar Hanah; anon?,2600;B0404_10?,Hiyya,1088,P1,,,,,,,1,
+345,0406.030a.001,Shevu`ot 30a,שבועות דף ל עמוד א,,,,Ulla b. Ila`I;[Yosef],2415;1764,Nahman,2285,B3,,,,,,1,1,
+346,0406.030b.001,Shevu`ot 30b,שבועות דף ל עמוד ב,,,,Wife of Huna,_895,Nahman,2285,B3,,,,,,1,1,
+347,0406.030b.002,Shevu`ot 30b,שבועות דף ל עמוד ב,,,,Rab b. Shaba*,2579,Pappa,2518,B5,,,,,,1,1,
+348,0406.030b.003,Shevu`ot 30b,שבועות דף ל עמוד ב,,,,Yemar;Mar Zutra,1804;10131,Amemar,571,B6,,,,,,1,1,
+349,0406.030b.004,Shevu`ot 30b,שבועות דף לא עמוד א,,,,anon; anon,0406_01;0406_02,Raba b. Huna,2596,B3,,,,,,1,?,
+350,0406.032b.001;0403.033b.001,Shevu`ot 32b; Bava Batra 33b,שבועות דף לב עמוד ב,,,Abba,anon litigant 1;anon litigant 2;Witness,0406_03;0406_04;0406_05,Ami,495,P4,,,,1,,,,
+351,0406.047a.001 [0406.048a],Shevu`ot 47a [Shevu`ot 48a],שבועות דף מז עמוד א,Yosef b. Maniomi,,,anon litigant; anon litigant,0406_06;0406_07,Nahman,2285,B3,,,,1,,,,
+352,0406.048b.001,Shevu`ot 48b,שבועות דף מח עמוד ב,,,,tsorba de-rabbanan,sorba_derabbanan,Hamma,1164,B5,,,,,,1,1,1
+353,0408.017a.001,Avodah Zarah 17a,עבודה זרה דף יז עמוד א,,,,Woman admitting to sins/minut,0408_01,Hisda,1345,B3,,,1,,,1,,
+354,0408.022a.001,Avodah Zarah 22a,עבודה זרה דף כב עמוד א,,,Ravina [etiveh],Jewish and gentile mwryq`y,0408_02; 0408_03,Rava,2582,B4,,,,,,,,
+355,0408.022a.002,Avodah Zarah 22a,עבודה זרה דף כב עמוד א,Gabiha mi-be Katil,,Ravina [etiveh],Jewish and gentile planters of orlah,0408_04; 0408_05,,2582,B4,1,,,1,,1,,
+356,0408.030a.001,Avodah Zarah 30a,עבודה זרה דף ל עמוד א,,,,Servant (f) of Hiyya,_1088,Hiyya,1088,P1,1,,,,,,1,1
+357,0408.039a.001,Avodah Zarah 39a,עבודה זרה דף לט עמוד א,,,,Slave of Levi,_2031,Yohanan,1570,P2,1,,,,,,,1
+358,0408.039a.002,Avodah Zarah 39a,עבודה זרה דף לט עמוד א,,,Hanan Hayyta [transition to next story],Huna bar Manyomi; people of the house of [wife of?] Amram Hasida ,923; _2448+,Yosef,1764,B3,1,,,,,,,1
+359,0408.039a.003,Avodah Zarah 39a,עבודה זרה דף לט עמוד א,,Samuel,,Hanan Hayyta; peopleof the house of [wife of] Rabena`a brother of Hiyya b. Aba[B3?],1333; 2657,Matena; Judah me-Hagronia`,2225; 1514,B2; [?],1,,,,,,,1
+360,0408.056b.001,Avodah Zarah 56b,עבודה זרה דף נו עמוד ב,,,Stam discussion,Consumers of wine? Owner?,0408_07,Samuel,2763,B1,1,,,1,,,,1
+361,0408.057a.001,Avodah Zarah 57a,עבודה זרה דף נז עמוד א,,,Asi; Kahana,Owner of wine,0408_08,Rab,2578,B1,1,,,1,,,,
+362,0408.057b.001,Avodah Zarah 57b,עבודה זרה דף נז עמוד ב,,,Huna b. Hinena; Huna b. Nahman,Shopkeeper [owner of wine],0408_09,Raba,1582,B4,1,,,,,,,
+363,0408.058a.001,Avodah Zarah 58a,עבודה זרה דף נח עמוד א,,,,owner of wine?,0408_10,Samuel,2763,B1,1,,,1,,,,
+364,0408.058a.002,Avodah Zarah 58a,עבודה זרה דף נח עמוד א,,,,owner of wine?,0408_11,Yohanan,1570,P2,1,,,1,,,,
+365,0408.060a.001,Avodah Zarah 60a,עבודה זרה דף ס עמוד א,,,,owners/consumers of wine?,0408_12,Yaaqob of Nehar Peqod,1878,B6,1,,,,,,,
+366,0408.062a.001,Avodah Zarah 62a,עבודה זרה דף סב עמוד ב,,,,Owner of a boat(?),0408_13,Hisda,1345,B4,1,,,1,,,,
+367,0408.064a.001,Avodah Zarah 64a,עבודה זרה דף סד עמוד א,Nahman,,,Converts,0408_14+,Abba b Abbuha,2586,B2,1,,1,1,,,,
+368,0408.069a.001,Avodah Zarah 69a,עבודה זרה דף סט עמוד א,Hillel --> Ashi,,,House of Kahana,_2004,Kahana,2004,B2,,1,,,,,,
+369,0408.070a.001,Avodah Zarah 70a,עבודה זרה דף ע עמוד א,,,,,,Samuel,2763,B1,1,,,1,,,,
+370,0408.070b.001,Avodah Zarah 70b,עבודה זרה דף ע עמוד ב,Dimi,,,owners of wine?,0408_15+,Eleazar,467,P3,1,,,1,,1,,
+371,0408.070b.002,Avodah Zarah 70b,עבודה זרה דף ע עמוד ב,Ishaq,,,owner tavern and/or customers,0408_16,Eleazar,467,P3,1,,,,,,,
+372,0408.072a.001,Avodah Zarah 72a,עבודה זרה דף עב עמוד א,,,houses Hisda; Huna,anon?,0408_17,Huna?,895,B2,,,,1,,,,
+373,0408.074b.001,Avodah Zarah 74b,עבודה זרה דף עד עמוד ב,,,Rab,Press owner,0408_18,Hiyya,1088,P1?,1,,,,,,,
+374,0503.010b.001,Hullin 10b,חולין דף י עמוד ב,,,,anon[ovda](multiple?),B0503-01+,Yosef,1764,B3,1,,,,,,,
+375,0503.018a.001,Hullin 18a,חולין דף יח עמוד א,,,,anon(slaughterer),B0503-02,Rava,2582,B4,1,,,,,,,1
+376,0503.039b.001,Hullin 39b,חולין דף לט עמוד ב,,Hanan Hayyta; peopleof the house of [wife of] Rabena`a brother of Hiyya b. Aba,,Arabs;anon(slaughterers),Arabs; B0503-03,Tobi b. Matena; Yosef,1364; 1764,B3,1,,,,,,?,1
+377,0503.043b.001,Hullin 43b,חולין דף מג עמוד ב,,,Abbaye,anon(slaughterer? Ownder of animal?),B0503-04,Rabbah,2581,B3,1,,,,,,,1
+378,0503.043b.003,Hullin 43b,חולין דף מג עמוד ב,,Rab; Samuel,Abba,Sons of Uqba,_21222,Rava,2582,B4,1,,,,,,1,1
+379,0503.044b.001,Hullin 44b,חולין דף מד עמוד ב,,,Kahana; Assi,anon(slaughterer? Ownder of animal?),B0503-05,Rab; Rabbah b b. Hanah,2578; 2594,B1; B3,1,,,,,,,1
+380,0503.047a.001,Hullin 47a,חולין דף מז עמוד א,,Rava,Aha,anon(slaughterer or animal owner),B0503-06,Maremar,2198,B5,1,,,,,,,?
+381,0503.047a.002,Hullin 47a,חולין דף מז עמוד א,,,Huna Mar b. Awiya,anon(slaughterer or animal owner),B0503-07,Ashi,571,B6,1,,,,,,,?
+382,0503.047b.001,Hullin 47b,חולין דף מז עמוד ב,,,Natan and all the greato ones of the generation,anon(slaughterer or animal owner),B0503-08,Hananiah?,Hananiah[T],T,1,,,,,,,1
+383,0503.048b.001,Hullin 48b,חולין דף מח עמוד ב,,,Yirmiyah; Zariqa,anon(slaughterer or animal owner),B0503-09,Ami; Ishaq Napaha,495; 1885,P3,1,,,,,,,?
+384,0503.048b.002,Hullin 48b,חולין דף מח עמוד ב,,,,anon(slaughterer or animal owner),B0503-10,Rabbanan Terofa`e,Rabbanan terofa`e,?,1,,,,,,,?
+385,0503.049b.001,Hullin 49b,חולין דף מט עמוד ב,,Rab,Sheshet,anon(slaughterer or animal owner),B0503-11,Rava,2582,B4,1,,,,,,,?
+386,0503.049b.002,Hullin 49b,חולין דף מט עמוד ב,,Simeon,Nahman b. Yishaq,anon,B0503-12,Rava,2582,B4,,,,,,1,?,1
+387,0503.051a.001,Hullin 51a,חולין דף נא עמוד א,,,Safra; Abbaye; Awira,anon(ovda),B0503-13,Rabbi,1508,T,1,,,,,,?,1
+388,0503.053.001,Hullin 053,חולין דף נג עמוד ב,,,,anon(animal owner),B0503-14,Rab; Samuel,2578; 2763,B1,1,,,,,,,?
+389,0503.056a.001,Hullin 56a,חולין דף נו עמוד א,,Levi,,House of Rab Hana,_1185,Matena,2225,B4,1,,,,,,1,?
+390,0503.056b.001,Hullin 56b,חולין דף נו עמוד ב,,M,,Joshua b. Levi,1544,Eleazar ha-Qappar,485,L?,1,,,,,,1,1
+391,0503.056b.002,Hullin 56b,חולין דף נו עמוד ב,,M; [implicitly; Eleazar ha-qappar?],,Ishaq b.Yosef,1901,Abahu,92,P3,1,,,,,,1,1
+392,0503.057a.001,Hullin 57a,חולין דף נז עמוד א,,,,anon[Hul-99],B0503-16,Rava,2582,B4,1,,,,,,,?
+393,0503.076b.001,Hullin 76b,חולין דף עו עמוד ב,Ulla; Nahman,,,house of R. Ishaq,_1885+,Yohanan,1570,P2,1,,,,,,1,1
+394,0503.077a.001,Hullin 77a,חולין דף עז עמוד א,,,Ada b. Matena; Ravina,anon owner of slaughtered animal,0503_17,Abbaye; Rava,121; 2582,B4,1,,,,,,,?
+395,0503.085b.001,Hullin 85b,חולין דף פה עמוד ב,,,,Hiyya,1088,Rabbi,1508,T,,,,,,1,1,1
+396,0503.095b.001,Hullin 95b,חולין דף צה עמוד ב,,,,Hiyya b Abin,1094,Huna,895,B2,1,,,,,,1,1
+397,0503.095b.002,Hullin 95b,חולין דף צה עמוד ב,,,,Hanina Hoza`a,135,Nahman,2285,B3,1,,,,,,1,1
+398,0503.095b.003,Hullin 95b,חולין דף צה עמוד ב,,,,Natan b. Abbaye/Ami,2341,Hisda,1345,B3,1,,,,,,1,1
+399,0503.097a.001,Hullin 97a,חולין דף צז עמוד א,,,,anon[ovda](multiple?),B0503-18+,Yohanan,1570,P2,1,,,,,,,?
+400,0503.098a.001,Hullin 98a,חולין דף צח עמוד א,,Rabbi,,anon,B0503-19+,Gamaliel b. R,830,L,1,,,,,,,
+401,0503.098a.002,Hullin 98a,חולין דף צח עמוד א,,Rabbi,,anon,B0503-20,Simeon b. Rabbi,2896,L,1,,,,,,,?
+402,0503.098a.003,Hullin 98a,חולין דף צח עמוד א,,,,anon,B0503-21,Hiyya,1088,P1,1,,,,,,,?
+403,0503.099b.001,Hullin 99b,חולין דף צט עמוד ב,,,Judah b. Zavina ,anon,B0503-22,Hanina,1213,P?,1,,,,,,,1
+404,0503.105b.001,Hullin 105b,חולין דף קה עמוד ב,,,,Porters; [Demon],B0503-23; Demon,Ashi,571,B6,,,,,,1,,1
+405,0503.110a.001,Hullin 110a,חולין דף קי עמוד א,,,,Rami b. Tamre/Diqule from Pumbedita,2689,Hisda,1345,B3,1,,,,,,1,1
+406,0503.112b.001,Hullin 112b,חולין דף קיב עמוד ב,,,,Mari b. Rahel,2190,Rava,2582,B3,1,,,,,,1,1
+407,0503.132b.001,Hullin 132b,חולין דף קלב עמוד ב,,,,Landlord[?] of Tabla,_1362,Nahman,2285,B3,1,,,1,,,1,1
+408,0503.134b.001,Hullin 134b,חולין דף קלד עמוד ב,,,,Levi,2032,Landlord[?] of Tabla,2938,B3,1,,,,,,1,1
+409,0503.141a.001,Hullin 141a,חולין דף קמא עמוד ב,,,,Judah,1394,Samuel ,2763,B1,,,,1,,,1,1
+410,0504.003b.001,Bekhorot 3b,בכורות דף ג עמוד ב,,Judah (M),,Woman convert,0504_01,Rava,2582,B4,1,,,,,,,
+411,0504.011a.001,Bekhorot 11a,בכורות דף יא עמוד א,,,,Yuda Nesi`ah,1518,Tarfon,1383,T,1,,,,,,1,
+412,0504.036a.001,Bekhorot 36a,בכורות דף לו עמוד א,,,,Zadoq,2546,Joshua; Gamaliel,10100;829,T,1,,1,,,,1,
+413,0504.036b.001,Bekhorot 36b,בכורות דף לו עמוד ב,,,,Priest,0503_02,Rafram,2690,B7,1,,,,,,1,
+414,0504.036b.002,Bekhorot 36b,בכורות דף לו עמוד ב,,,,anon,0504_03,Ashi,571,B6,1,,,,,,,
+415,0504.042b.001,Bekhorot 42b,בכורות דף מד עמוד ב,,,,Samuel,2578,Father of Samuel,106,B0?,,,,,,1,1,
+416,0504.050b.001;0401.037a.001;,Bekhorot 50b; Bava Qamma 37a; ,בכורות דף נ עמוד ב,,,,Hanan Bisha; one injured,hanan_bisha; 0401_05,Huna,895,B2/P3,,,,1,,,?,1
+417,0505.007b.001,Arakhin 7b,מכות דף ו עמוד ב,,,,foreign language speaker; foreign language speaker,loez_1; loez_2,Raba,2582,B4,,,,,,1,,
+418,0505.023b.001,Arakhin 23b,ערכין דף כג עמוד ב,,,,husband; wife,B0505_husband_1;B0505_husband_2,Josepf b. Raba;Pappa,1781;2518,B5;B5,,,1,,1,,,1
+419,0505.024a.001,Arakhin 24a,ערכין דף כד עמוד א,,,,[borrower?],B0505_Anon_1,Yemar,1804,B6,1,,,,,,,1
+420,0505.029a.001,Arakhin 29a,ערכין דף כט עמוד א,,,,anon,B0505_Anon_2,Yehudah,1394,B3,,,,,1,,,1
+421,0507.013b.001,Keritot 13b,כריתות דף יג עמוד ב,,,,Aha of Husal,305,Ashi,571,B6,,,,,1,,1,
+422,0607.020b.001,Niddah 20b,נדה דף כ עמוד ב,,,Ammi,Woman,0607_01,Eleazar,467,P3,,1,,,,,,1
+423,0607.020b.003,Niddah 20b,נדה דף כ עמוד ב,,,,Yalta,Yalta,Rabba b. b. Hana; Ishaq b Yehuda,2594;1913,B3; B3,,1,,,,,1,
+424,0607.024a.001,Niddah 24a,נדה דף כד עמוד א,,,Hiyya,Women who had miscarried,0607_02,Sons of Hiyya,_1088+,P2,,1,,,,,,
+425,0607.024a.002,Niddah 24a,נדה דף כד עמוד ב,,Rab; Samuel,Huna,woman having discharged a fetus with two spines,0607_16,Yirmiah b. Aba,1954,B2,,1,,,,,,
+426,0607.025a.001,Niddah 25a,נדה דף כה עמוד א,,,,Woman having dischanged sac,0607_03,Samuel,2763,B1,,1,,,,,,
+427,0607.025b.001,Niddah 25b,נדה דף כה עמוד ב,,,,Woman who had discharged a sac,0607_04,Samuel,2763,B1,,1,,,,,,
+428,0607.025b.002,Niddah 25b,נדה דף כה עמוד ב,,,,Woman having given birth,0607_05,Samuel,2763,B1,,1,,,,,,1
+429,0607.036b.001,Niddah 36b,נדה דף לו עמוד ב,,,Assi (Rab),Woman after childbirth,0607_06,Shela b. Abina,2725,B2,,1,,,,,,
+430,0607.042b.001,Niddah 42b,נדה דף מב עמוד ב,,,,Father of new child,0607_07,Raba,2582,B4,1,,,,,,,1
+431,0607.047b.001_,Niddah 47b_,נדה דף מז עמוד ב,,,,people,0607_08+,Hiyya,1088,P1,,,1,,,,,
+432,0607.052a.001,Niddah 52a,נדה דף נב עמוד א,,,,Girl(s) seeking to renounce marriage,0607_09,``fellows`` of Kahana,2004_fellows,B?,,,1,,,,,
+433,0607.052a.002,Niddah 52a,נדה דף נב עמוד א,,,Shemen; Yohanan; Judah Nesiah,Girl(s) seeking to renounce marriage,0607_10,Ishaq; disciples of Hanina,1213; _1885,P3,,,1,,,,,
+434,0607.058a.001,Niddah 58a,נדה דף נח עמוד א,,,,Woman found blood on warp[mashtita?],0607_11,Yannai,1814,P1,,1,,,,,,
+435,0607.066a.001,Niddah 66a,נדה דף סו עמוד א,,,Abdan,Woman bleeding during intercourse,0607_13,Rabbi,1508,T,,1,,,,,,
+436,0607.066a.002,Niddah 66a,נדה דף סו עמוד א,,,Dimi bar Yosef,Woman bleeding during intercourse,0607_14,Samuel,2763,B1,,1,,,,,,
+437,0607.066a.003,Niddah 66a,נדה דף סו עמוד א,,,,Woman who discharges blood after miqveh,0607_15,Yohanan,1570,P1,,,,,,,,
