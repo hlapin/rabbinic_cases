@@ -1,0 +1,599 @@
+Source,Target,Type,Id,sortable,partyname,judgename,judgegen_composite,judgegen,judgegeog,rabb. actor
+B0403_35,0,Directed,1312,0403.082b.001[m. Kil. 4:9],anon[BB-35; from Salmon],Sages[T],T,0,P,N
+6,2225,Directed,1769,0211.026a.001,Abba,Matena,B6,6,B,Y
+6,1394,Directed,1768,0211.026a.001,Abba,Judah b. Yehezqel,B2,2,B,Y
+6,22004,Directed,1377,0403.171b.001,Abba[x],Hanina b. Pappi,P3,3,P,Y
+6,1885,Directed,1375,0403.170a.001,Abba[x],Ishaq Napaha,P3,3,P,Y
+_6,6,Directed,1770,0507.029b.001,Agra FIL of Abba,Abba,Px,X,P,Y
+_867,6,Directed,1739,0302.085b.003,house of Dimi[B4 ] = Avdimi P5x],Abba,Px,X,P,Y
+B0403_30,47,Directed,1305,0403.059a.001,anon[BB-30],Abba b. Mamal,P3,3,P,N
+20990,92,Directed,1730,0302.085a.002,Hamma b. Rabbah b. Abbahu[P3],Abbahu,P3,3,P,Y
+_131,92,Directed,1729,0302.085a.002,(Abimi b. Abahu[P3]x),Abbahu,P3,3,P,Y
+B0302_46,92,Directed,1717,del,Abba[P5],Abbahu,P3,3,P,Y
+1901,92,Directed,1591,0503.056b.002,Ishaq b.Yosef[B4],Abbahu,P3,3,P,Y
+0306_36,92,Directed,1567,0306.088a.001,whox,Abbahu,P3,3,P,N
+0306_28,92,Directed,1554,0306.054b.003,Preparer of Torah scroll,Abbahu,P3,3,P,N
+98,2763,Directed,1384,0402.014a.001,Abuha b. Ihi,Samuel,B1,1,B,X
+2578,106,Directed,1507,0504.042b.001,Samuel,Father of Samuel,B0,0,B,Y
+121,1764,Directed,1804,0303.023a.001,Abbaye,Joseph[b.Hiyya],B3,3,B,Y
+121,2581,Directed,1499,0207.036ba.001,Abbaye,Rabbah,B3,3,B,Y
+B0302_102,121,Directed,1754,0302.109b.001,Anon[Ket43_epitropos of estate],Abbaye,B4,4,B,N
+B0302_57,121,Directed,1745,0302.091b.001,Anon[Ket37_heirs],Abbaye,B4,4,B,N
+B0302_56,121,Directed,1744,0302.091b.001,Anon[Ket36_creditor],Abbaye,B4,4,B,N
+_121,121,Directed,1705,0302.060b.001,Tenant of Abaye,Abbaye,B4,4,B,Y
+0301_34,121,Directed,1656,0301.121b.001,Wife of missing husband,Abbaye,B4,4,B,N
+_2518,121,Directed,1649,0301.106b.001,DIL of Pappa,Abbaye,B4,4,B,Y
+0503_17,121,Directed,1595,0503.077a.001,Anon owner of slaughtered animal,Abbaye,B4,4,B,N
+0306_30+,121,Directed,1557,0306.060b.001,field owners,Abbaye,B4,4,B,N
+B0402_34,121,Directed,1441,0402.116a.001,Anon[BM-33],Abbaye,B4,4,B,N
+2140,121,Directed,1419,0402.069a.001,Menashya b. Gada[B4],Abbaye,B4,4,B,Y
+be_bar_Marion,121,Directed,1391,0402.024b.002,property of be bar Marion,Abbaye,B4,4,B,X
+B0402_8,121,Directed,1390,0402.024b.002,Anonymous finder,Abbaye,B4,4,B,X
+1840,121,Directed,1387,0402.023b.001,Jacob b. Abba[B4],Abbaye,B4,4,B,Y
+B0403_69+,121,Directed,1371,0403.168b.001,[Arabs],Abbaye,B4,4,B,N
+B0403_68+,121,Directed,1370,0403.168b.001,Landowners in Pumbedita,Abbaye,B4,4,B,N
+B0403_06,121,Directed,1364,0403.167a.002,[seller; implied],Abbaye,B4,4,B,N
+B0403_05,121,Directed,1363,0403.167a.002,purchaser of brothers' property;,Abbaye,B4,4,B,N
+B0403_08,121,Directed,1362,0403.167a.001,[seller; implied],Abbaye,B4,4,B,N
+B0403_07,121,Directed,1361,0403.167a.001,Purchaser of  purchase of landed property,Abbaye,B4,4,B,N
+2518,121,Directed,1321,0403.106b.001,Pappa[B5],Abbaye,B4,4,B,Y
+133,2647,Directed,1472,0401.115a.002,Abimi b. Nazi FIL of Ravina,Rabina,B7,7,B,Y
+135,2285,Directed,1599,0503.095b.002,Hanina Hoza'a[B3],Nahman,B3,3,B,Y
+_1952,139,Directed,1478,0401.112a.001,son of father in law of Yirmiya,Abin,P3,3,P,Y
+1952,139,Directed,1477,0401.112a.001,Yirmiyah[P4],Abin,P3,3,P,Y
+149,1570,Directed,1516,0306.005b.002,Rabin b. Hisda,Yohanan,P2,2,P,Y
+149,2582,Directed,1262,0403.013b.001,Rabin b. Hinnena[B3x],Raba,B4,4,B,Y
+194,1764,Directed,1270,0403.022a.003,Ada b. Abba[B4],Joseph[b.Hiyya],B3,3,B,Y
+1094,194,Directed,1882,0201.140a.001,Hiyya b. Abin,Ada b. Ahavah,B2,2,B,N
+_194,194,Directed,1491,0207.004a.001,Host of AbA,Ada b. Ahavah,B2,2,B,Y
+201,571,Directed,1593,del,Ada b. Habu[x],Ashi,B6,6,B,Y
+220,571,Directed,1859,0307.065b.001,Ada Sabba  b. Rab Mari b. Isur,Ashi,B6,6,B,N
+229,1764,Directed,1700,0302.057a.001,Avya,Joseph[b.Hiyya],B3,3,B,Y
+0301_11,246,Directed,1625,0301.046b.001,convert [male],Oshaya b. Hiyya,Px,X,P,N
+265,2582,Directed,1366,0403.167a.003,Aha b. Ada[B3],Raba,B4,4,B,Y
+276,1345,Directed,1809,0303.090a.001,Aha b. Huna,Hisda,B3,3,B,Y
+304,2198,Directed,1514,0101.045b.001,Aha of Difti,Maremar,B6,6,B,Y
+310,495,Directed,1616,0301.045a.001,Aha Sar habirah,Ami,P4,4,P,N
+334,2285,Directed,1430,0402.093b.002,Aybo[x],Nahman,B3,3,B,Y
+B0302_31,343,Directed,1696,0302.054a.003,wife's heirs,Idi b. Abin,B4,4,B,N
+B0302_30,343,Directed,1695,0302.054a.003,wife,Idi b. Abin,B4,4,B,N
+B0302_29,343,Directed,1694,0302.054a.003,Deceased,Idi b. Abin,B4,4,B,N
+0303_06,467,Directed,1798,0303.021b.004,Anon,Eleazar,P3,3,P,N
+0607_01,467,Directed,1773,0607.020b.001,Woman,Eleazar,P3,3,P,N
+1544,485,Directed,1590,0503.056b.001,Joshua b. Levi[P1],Eleazar ha-Qappar,Lx,X,0,Y
+0307_01,495,Directed,1848,0307.008b.001,seller,Ammi,P4,4,P,Y
+_899+,495,Directed,1847,0307.008b.001,Sons of Huna bar Abin,Ammi,P4,4,P,Y
+B0404_02,495,Directed,1826,0404.031a.001,anon,Ammi,P4,4,P,N
+B0404_01,495,Directed,1825,0404.031a.001,anon,Ammi,P4,4,P,N
+sorba_derabbanan_02,495,Directed,1763,0211.017a.001,rabbinic disciple,Ammi,P4,4,P,Y
+B0302_64+,495,Directed,1751,0302.098a.002,Orphans,Ammi,P4,4,P,N
+B0302_63,495,Directed,1750,0302.098a.002,depositary,Ammi,P4,4,P,N
+_2085,495,Directed,1736,0302.085b.001,heirs of Miyyasha b. b. Joshua[P2],Ammi,P4,4,P,Y
+B0302_52,495,Directed,1735,0302.085b.001,Depositor,Ammi,P4,4,P,Y
+B0302_41,495,Directed,1715,0302.080a.002,Anon[Ket30],Ammi,P4,4,P,N
+B0302_8,495,Directed,1669,0302.025b.001,Anon[Ket7 priest],Ammi,P4,4,P,N
+B0302_7,495,Directed,1668,0302.025b.001,Anon[Ket6 witness],Ammi,P4,4,P,N
+0301_27,495,Directed,1645,0301.105a.001,widow,Ami,P4,4,P,N
+0301_26,495,Directed,1644,0301.105a.001,Levir,Ami,P4,4,P,N
+0301_17,495,Directed,1633,0301.065b.003,Wife with no children from husband,Ami,P4,4,P,N
+2977,495,Directed,1617,0301.045a.001,Tanhum b Hiyya of Acco,Ami,P4,4,P,N
+B0503-09,495,Directed,1581,0503.048b.001,anon(slaughterer or animal owner),Ammi,P4,4,P,N
+0306_35,495,Directed,1566,0306.082a.001,[one preparing a divorce],Ammi[alit. Yohanan; Rosh: Yannai],P4,4,P,N
+0306_27,495,Directed,1553,0306.054b.002,Scribe of Torah,Ami,P4,4,P,N
+0306_26,495,Directed,1552,0306.054b.001,buyer of pure goods.,Ami,P4,4,P,N
+0306_21,495,Directed,1545,0306.046b.002,Sold himself to the games,Ami,P4,4,P,N
+0306_19,495,Directed,1543,0306.045a.001,owner of slave,Ami,P4,4,P,N
+0306_18,495,Directed,1542,0306.045a.001,escaped slave,Ami,P4,4,P,N
+723,495,Directed,1517,0306.005b.003,Bar Hadaya,Ami,P4,4,P,Y
+0207_03,495,Directed,1495,0207.007a.002,Buyer of eggs,Ami,Xx,X,X,N
+0207_02,495,Directed,1494,0207.007a.001,Buyer of eggs,Ami,Xx,X,X,N
+_2178,495,Directed,1402,0402.039b.001,brother,Ammi,P4,4,P,Y
+2178,495,Directed,1401,0402.039b.001,Mari b. Isaq,Ammi,P4,4,P,Y
+B0403_32+,495,Directed,1308,0403.060a.001,anon[BB-32; people in public domain],Ammi,P4,4,P,X
+B0403_31,495,Directed,1307,0403.060a.001,anon[BB-31;Owner of house],Ammi,P4,4,P,X
+B0403_30,495,Directed,1306,0403.059a.001,anon[BB-30],Ammi,P4,4,P,N
+0406_05,495,Directed,1283,0403.033b.001; 0406.032b.001,Witness,Ammi,P4,4,P,N
+0406_04,495,Directed,1282,0403.033b.001; 0406.032b.001,Anon litigant 2,Ammi,P4,4,P,N
+0406_03,495,Directed,1281,0403.033b.001; 0406.032b.001,Anon litigant 1,Ammi,P4,4,P,N
+2594,497,Directed,1520,0306.005b.004,Rabbah bar bar Hanah,Eliezer,P3,3,P,Y
+B0302_37,514,Directed,1711,0302.069b.001,Anon[Ke26_brothers],Amemar,B6,6,B,N
+B0302_36,514,Directed,1710,0302.069b.001,Anon[Ket25_widow],Amemar,B6,6,B,N
+0301_10,514,Directed,1624,0301.045b.003,Offspring of unmarried or gentile OR offspring of married and gentile,Amemar,B6,6,B,N
+0303_08,534,Directed,1802,0303.022b.002,Anon,Assi,B6x,6,B,N
+0303_05,534,Directed,1797,0303.021b.003,Anon,Assi,B6x,6,B,N
+535,1570,Directed,1535,0306.0357.001,Relation of Asi,Yohanan,P3,3,P,Y
+535,535,Directed,1534,0306.0357.001,Relation of Asi,Assi,P3,3,P,Y
+723,535,Directed,1518,0306.005b.003,Bar Hadaya,Assi,P3,3,P,Y
+anon_in_rab_settingx,535,Directed,1511,0101.022a.001,anon [in rab settingx],Assi,P3,3,P,Y
+571,2647,Directed,1466,0401.098a.001,Ashi[B6],Rafram,B6,6,B,Y
+10131,571,Directed,1871,0406.030b.003,Mar Zutra,Amemar,B6,6,B,Y
+1804,571,Directed,1870,0406.030b.003,Yemar,Amemar,B6,6,B,Y
+2164,571,Directed,1858,0307.065b.001,Mar Zutra b. Rab Mari b. Isur,Ashi,B6,6,B,N
+B0211_02,571,Directed,1762,0211.010b.001,[borrowers],Ashi,B6,6,B,Y
+2647,571,Directed,1756,0210.026b.001,Ravina,Ashi,B6,6,B,Y
+B0302_55,571,Directed,1741,"0302.086a.001; [Segal, p. 20 BQ 98b]",Anon[Ket_55],Ashi,B6,6,B,X
+B0302_54,571,Directed,1740,"0302.086a.001; [Segal, p. 20 BQ 98b]",Anon[Ket_54],Ashi,B6,6,B,X
+Demon,571,Directed,1607,0503.105b.001,[Demon],Ashi,B6,6,B,N
+B0503-23,571,Directed,1606,0503.105b.001,Porters,Ashi,B6,6,B,N
+B0503-07,571,Directed,1579,0503.047a.002,anon(slaughterer or animal owner),Ashi,B6,6,B,N
+0504_03,571,Directed,1506,0504.036b.002,Anon,Ashi,B6,6,B,N
+B0401_22+,571,Directed,1483,0401.117a.001,gentiles,Ashi,B6,6,B,Y
+B0401_21,571,Directed,1482,0401.117a.001,Anon[BQ-16],Ashi,B6,6,B,Y
+2189,571,Directed,1481,0401.117a.001,Mari b. Pinhas b. Hisda[x],Ashi,B6,6,B,Y
+B0402_16+,571,Directed,1418,0402.067a.002,Anon[BM-17; orphana],Ashi,B6,6,B,N
+2166,571,Directed,1327,0403.126b.001,Mar Zutra mi-deRishba[x],Ashi,B6,6,B,X
+B0403_8+,571,Directed,1272,0403.025b.001,Anon[BB-8;Sesame grinders],Ashi,B6,6,B,X
+Pappi_Yokna'a,571,Directed,1271,0403.025b.001,Pappi Yo[k]na'a,Ashi,B6,6,B,X
+600,1764,Directed,1864,0307.076b.001,Bibi,Joseph[b.Hiyya],B3,3,B,Y
+B0302_51,602,Directed,1734,0302.085a.005,Anon[Ket35_litigant],Bibi b. Abbaye,B5,5,B,N
+B0302_50,602,Directed,1733,0302.085a.005,Anon[Ket34_woman],Bibi b. Abbaye,B5,5,B,N
+0301_20,602,Directed,1637,0301.075b.002,Anon-male,Bibi b. Abbaye,B5,5,B,N
+993,602,Directed,1338,0403.151a.001,Zebid,Bibi b. Abbaye,B5,5,B,Y
+_1006,602,Directed,1337,0403.151a.001,Mother of Zutra b. Tovya,Bibi b. Abbaye,B5,5,B,Y
+1006,602,Directed,1336,0403.151a.001,Zutra b. Tovya[B3x],Bibi b. Abbaye,B5,5,B,Y
+B0403_29+,687,Directed,1304,0403.058a.002,anon[BB-29; heirs; 10],Bena'ah,P1,1,P,N
+B0403_28+,687,Directed,1303,0403.058a.001,anon[BB-28; heirs; 3],Bena'ah,P1,1,P,N
+723,*581,Directed,1519,0306.005b.003,Bar Hadaya,*Ahi,B1,1,B,Y
+0301_31,787,Directed,1650,0301.110a.001,bride,Berona,B2,2,B,N
+B0302_4,828,Directed,1665,0302.010b.001,Anon[Ket4],Gamaliel the Elder,E,0,P,N
+B0302_2,829,Directed,1662,0302.010a.002,Anon[ket2],Gamaliel,Yx,0,P,N
+2546,829,Directed,1503,0504.036a.001,Zadoq,Gamaliel,T,0,P,Y
+B0503-19+,830,Directed,1602,0503.098a.001,Anon,Gamaliel b. R,P0,0,P,N
+871,2582,Directed,1263,0403.013b.001,Dimi b. Hinnena[B3x],Raba,B4,4,B,Y
+873,2285,Directed,1346,0403.151a.006,Dimi b. Yosef[B3],Nahman,B3,3,B,Y
+881,1764,Directed,1268,0403.022a.003,Rab Dimi of Nehardea[4],Joseph[b.Hiyya],B3,3,B,Y
+895,2285,Directed,1301,0403.054b.002,Huna[B2],Nahman,B3,3,B,Y
+0307_12,895,Directed,1852,0307.050a.001,anon husband; anon wife,Huna,B2,2,B,N
+0307_11,895,Directed,1851,0307.050a.001,anon husband; anon wife,Huna,B2,2,B,N
+0303_03,895,Directed,1795,0303.021b.001,Anon,Huna,Bx,X,B,N
+2676,895,Directed,1757,0210.026b.002,Rami b. Abba,Huna,Bx,X,B,Y
+1094,895,Directed,1598,0503.095b.001,Hiyya b Abin[B3],Huna,B2,2,B,Y
+0306_20+,895,Directed,1544,0306.046b.001,Captivesx,Huna,B2,2,B,N
+0306_11,895,Directed,1532,0306.035a.001,Widow,Huna,B2,2,B,N
+1194,895,Directed,1500,0207.040a.001,Hana bar Hanilai,Huna,B2,2,B,Y
+B0401_19,895,Directed,1471,0401.115a.001,unspecified,Huna,Bx,X,B,X
+B0401_05,895,Directed,1448,0401.037a.001;0504.050b.001,Anon[BQ-5],Huna,Bx,X,B,X
+hanan_bisha,895,Directed,1447,0401.037a.001;0504.050b.001,Hanan Bisha,Huna,Bx,X,B,X
+B0402_99,895,Directed,1379,0402.007a.001,anon[BM-99],Huna,B2,2,B,N
+B0402_1,895,Directed,1378,0402.007a.001,Anon[BM-1],Huna,B2,2,B,N
+B0403_80+,895,Directed,1349,0403.153a.001,[grantees],Huna,B2,2,B,N
+B0403_55,895,Directed,1348,0403.153a.001,One who gave in anticipation of death,Huna,B2,2,B,N
+918,2582,Directed,1563,0306.073a.003,Huna b. Yehoshua,Raba,B4,4,B,Y
+B0302_33,918,Directed,1702,0302.060b.002,Anon[Ket23],Huna b. Joshua,B5,5,B,N
+0301_24,918,Directed,1641,0301.101b.001,Anon,Hunah b. Yehoshua,B5,5,B,X
+agardamis_tayya,918,Directed,1464,0401.098a.001,Agardamis Tayy'a,Huna b. Joshua,B5,5,B,X
+B0401_8,918,Directed,1453,0401.059b.001,anon[ovda],Huna b. Joshua,B5,5,B,N
+B0302_5,930,Directed,1664,0302.010b.001,Anon[Ket4],Gamaliel b. R,P0,0,P,N
+B0302_3,930,Directed,1663,0302.010a.003,Anon[Ket3],Gamaliel b. R,P0,0,P,N
+Rabi_b_tamre,1017,Directed,1771,0507.029b.002,Rami b. Tamri FIL of Rami b. Diqule,Zera,P3,3,P,Y
+1088,1508,Directed,1597,0503.085b.001,Hiyya[P1],Rabbi,T,0,P,Y
+akbara_deyativ_adinare,1088,Directed,1823,0404.029b.003,"""Akbera deyatib adinare""",Hiyya,P1,1,P,X
+B0404_10x,1088,Directed,1819,0404.05a.002,anonx,Hiyya,P1,1,P,Y
+2600,1088,Directed,1818,0404.05a.002,Rabbah bar Hanah,Hiyya,P1,1,P,Y
+_1088,1088,Directed,1635,0301.065b.005,Judith wife of Hiyya--disguised,Hiyya,P1,1,P,Y
+B0503-21,1088,Directed,1604,0503.098a.003,anon,Hiyya,P1,1,P,N
+2578,1088,Directed,1406,0402.044b.001,Rab[B1],Hiyya,P1,1,P,Y
+2711,1088,Directed,1385,0402.017a.001,Shabetai b. R. Marinus,Hiyya,P1,1,P,Y
+B0403_57,1088,Directed,1358,0403.155b.001_,[Saris],Hiyya,P1,1,P,N
+0301_23,1088,Directed,1352,0301.97a.01;0403.155b.001; 0607.047b.001,Anon,Hiyya,P1,1,P,N
+B0403_54+,1088,Directed,1291,0403.041b.001,Anonymous(2),Hiyya,P1,1,P,N
+1090,2627,Directed,1752,0302.104b.001,Hiyya Arikha[x],Rabbah b. Shela,B3,3,B,Y
+0301_30,1091,Directed,1648,0301.106a.001,widow,Hiyya b. Abba,P3,3,P,N
+0301_29,1091,Directed,1647,0301.106a.001,Levir,Hiyya b. Abba,P3,3,P,N
+2448,1102,Directed,1811,0206.011a.001,Amram Hasida,Hiyya b. Ashi,B2,2,B,Y
+1113,1570,Directed,1407,0402.048b.001,Hiyya b. Yosef,Yohanan,P2,2,P,Y
+1113,22004,Directed,1376,0403.171b.001,Isaac b. Yosef[B4],Hanina b. Pappi,P3,3,P,Y
+1113,1885,Directed,1374,0403.170a.001,Isaac b. Yosef[B4],Ishaq Napaha,P3,3,P,Y
+sorba_derabbanan_03,1164,Directed,1879,0406.048b.001,tsorba de-rabbanan,Hamma,B5,5,B,Y
+0607_10,1213,Directed,1785,0607.52a.001,Girl(s) seeking to renounce marriage,Ishaq,P3,3,P,N
+B0302_65,1213,Directed,1755,0302.111a.001,Anon[Ket44_levir],Haninah,P1,1,P,N
+B0203_02,1213,Directed,1660,0205.082b.003,anon pregnant woman,Hanina,Px,X,P,N
+B0503-22,1213,Directed,1605,0503.099b.001,anon,Haninah,Px,X,P,N
+B0403_105,1213,Directed,1331,0403.126b.003,another who is a firstborn,Haninah,Px,X,P,N
+B0403_104,1213,Directed,1330,0403.126b.003,"Anon[BB, attests that one is firstborn]",Haninah,Px,X,P,N
+1287,1345,Directed,1766,0211.020a.001,Hanina [Hozaah; Mss],Hisda,B3,3,B,Y
+0301_31,1339,Directed,1651,0301.110a.001,bride,Hananel,B2,2,B,N
+0307_12,1345,Directed,1854,0307.050a.001,anon husband; anon wife,Hisda,B3,3,B,N
+0307_11,1345,Directed,1853,0307.050a.001,anon husband; anon wife,Hisda,B3,3,B,N
+B0303_student,1345,Directed,1810,0303.090a.001,student,Hisda,B3,3,B,Y
+_1954,1345,Directed,1791,0303.007b.001,One banned by  Yirmiah b. Abba,Hisda,B3,3,B,Y
+B0302_18+,1345,Directed,1679,0302.049b.002,Anon[Ket15] (plural),Hisda,B3,3,B,N
+2689,1345,Directed,1608,0503.110a.001,Rami b. Tamre/Diqule[B3] from Pumbedita,Hisda,B3,3,B,Y
+2341,1345,Directed,1600,0503.095b.003,Natan b. Abbaye/Ami[B5x],Hisda,B3,3,B,Y
+B0402_14,1345,Directed,1415,0402.051a.003,Anon[BM-15],Hisda,B3,3,B,N
+B0402_15,1345,Directed,1412,0402.049b.002,anonymus(*),Hisda,B3,3,B,N
+_2178,1345,Directed,1404,0402.039b.001,brother,Hisda,B3,3,B,Y
+2178,1345,Directed,1403,0402.039b.001,Mari b. Isaq,Hisda,B3,3,B,Y
+B0402_99,1345,Directed,1381,0402.007a.001,anon[BM-99],Hisda,B3,3,B,N
+B0402_1,1345,Directed,1380,0402.007a.001,Anon[BM-1],Hisda,B3,3,B,N
+B0403_53+,1345,Directed,1292,0403.051a.001,anonymous[Husband and wifex],Hisda,B3,3,B,N
+1364,1764,Directed,1496,0207.012b.001,Tobi bar Nehemiah [= b. Matenax],Joseph[b.Hiyya],B3,3,B,Y
+1364,2285,Directed,1345,0403.151a.005,Ahadvoi b. Mattena[B3],Nahman,B3,3,B,Y
+B0503-03,1364,Directed,1571,0503.039b.001,anon(slaughterers),Tobi b. Matena,B3,3,B,X
+Arabs,1364,Directed,1570,0503.039b.001,Arabs,Tobi b. Matena,B3,3,B,X
+1508,1383,Directed,1502,0504.011a.001,Yuda Nesi'ah,Tarfon,T,0,P,Y
+0306_10,1388,Directed,1531,0306.033a.001,[wife],Yoshia de-min Usha,P2,2,P,N
+0306_09,1388,Directed,1530,0306.033a.001,husband,Yoshia de-min Usha,P2,2,P,N
+1394,2285,Directed,1862,0307.070a.001,Judah,Nahman,B3,3,B,N
+1394,2763,Directed,1612,0503.141a.001,Judah[B2],Samuel,B1,1,B,Y
+B0505_Anon_2,1394,Directed,1840,0505.029a.001,anon,Judah,B3,3,B,N
+0202_03,1394,Directed,1832,0202.012a.001,anon,Judah b. Yehezqel,B3,3,B,N
+0202_02,1394,Directed,1830,0202.007b.001,anon,Judah b. Yehezqel,B3,3,B,N
+0303_13,1394,Directed,1806,0303.050b.001,Anon woman,Judah b. Yehezqel,B2,2,B,X
+B0302_40,1394,Directed,1714,0302.080a.001,Anon[Ket29],Judah b. Yehezqel,B2,2,B,N
+B0302_17+,1394,Directed,1678,0302.049b.001,Anon[Ket14] (plural),Judah b. Yehezqel,B2,2,B,N
+0301_05,1394,Directed,1618,0301.045a.002,Child of gentile man,Judah b. Yehezqel,B2,2,B,N
+B0402_5,1394,Directed,1389,0402.024b.001,Anon[BM-6],Judah b. Yehezqel,B2,2,B,N
+B0403_36,1394,Directed,1311,0403.082b.002,anon[BB-36],Judah b. Yehezqel,B2,2,B,N
+B0403_109,1394,Directed,1300,0403.054b.001,"Anon[BB, an Israelite who plowed in field]",Judah b. Yehezqel,B2,2,B,N
+B0403_108,1394,Directed,1299,0403.054b.001,"Anon[BB, one who bought from gentile]",Judah b. Yehezqel,B2,2,B,N
+B0403_20+,1394,Directed,1290,0403.041a.002,anon[BB-20; witnesses],Judah b. Yehezqel,B2,2,B,N
+B0403_19,1394,Directed,1289,0403.041a.002,anon[BB-19; neighbor],Judah b. Yehezqel,B2,2,B,N
+2004,1394,Directed,1288,0403.041a.002,Kahana[B3; B4],Judah b. Yehezqel,B2,2,B,N
+1464,2198,Directed,1512,0101.045b.001,Yehuda bar Maremar,Maremar,B6,6,B,Y
+0303_11,1508,Directed,1808,0303.50b.002,Anon,Rabbi,L,X,P,N
+0303_10,1508,Directed,1807,0303.50b.002,Anon,Rabbi,L,X,P,N
+0303_01,1508,Directed,1793,0303.020b.001,Anon,Rabbi,L,X,P,N
+0607_13,1508,Directed,1788,0607.066a.001,Woman bleeding during intercourse,Rabbi,T,X,P,N
+sorba_derabbanan_02,1508,Directed,1764,0211.017a.001,rabbinic disciple,Yudah Nesiah,Px,X,P,Y
+B0302_16,1508,Directed,1675,0302.027b.003,Anon[Ket13],Joshua b. Levi OR Rabbi,P1; L,X,P,N
+B0302_6,1508,Directed,1666,0302.010b.002,Anon[Ket5],Rabbi,L,X,P,N
+B0203_01,1508,Directed,1659,0205.082b.002,anon pregnant woman,Rabbi,Px,X,P,N
+0301_28,1508,Directed,1646,0301.105b.001,minor widow,Judah Patriarch,L,X,P,N
+B0503-13,1508,Directed,1586,0503.051a.001,anon(ovda),Rabbi,T,0,P,X
+B0401_14,1508,Directed,1461,0401.090b.001,Anon[BQ-10],Judah Patriarch,Lx,X,P,N
+B0403_61,1508,Directed,1360,0403.164b.002,Bearer of a bound document presented it,Rabbi,T,0,P,N
+B0403_60,1508,Directed,1359,0403.160b.001; 0403.164b.001x,Bearer of a bound document presented it,Rabbi,T,X,P,N
+B0403_2+_,1508,Directed,1260,0403.008a.001,anon[BB-2; Tiberians],Rabbi,Px,X,P,Y
+rabbanan,1508,Directed,1259,0403.008a.001,Rabbanan,Rabbi,Px,X,P,Y
+B0302_10,1544,Directed,1671,0302.025b.002,Anon[Ket9 priest],Joshua b. Levi,P1,1,P,N
+B0302_9,1544,Directed,1670,0302.025b.002,Anon[Ket8 witness],Joshua b. Levi,P1,1,P,N
+0306_05,1544,Directed,1526,0306.018b.001,[wife],Joshua b. Levi,P1,1,P,N
+0306_04,1544,Directed,1525,0306.018b.001,agents,Joshua b. Levi,P1,1,P,N
+0306_03,1544,Directed,1524,0306.018b.001,Husband,Joshua b. Levi,P1,1,P,N
+2839,1544,Directed,1515,0306.005b.001,Simeon b. Abba,Joshua b. Levi,P1,1,P,Y
+pair_of_rabbis,1544,Directed,1510,0101.009a.001,Pair of sages [or: Zogax],Joshua b. Levi,P1,1,P,Y
+kenishta_de_ma'on,1570,Directed,1881,0201.139a.001,kenishta de Ma'on,Yohanan,P1,1,P,N
+Beth_Sheanites,1570,Directed,1843,0203.050b.001,Beth-Sheanites,Yohanan,P2,2,P,N
+2409,1570,Directed,1801,0303.022b.001,Ulla,Yohanan,P2,2,P,Y
+0303_07,1570,Directed,1799,0303.021b.005,Anon,Yohanan,P2,2,P,N
+0607_15,1570,Directed,1790,0607.066a.003,Woman who discharges blood after miqveh,Yohanan,P1,1,P,N
+B0302_58+,1570,Directed,1721,0302.094b.001,Anon[Ket_xx_orphans],Yohanan,P2,2,P,Y
+_1570,1570,Directed,1690,0302.052b.001,Relations of Yohanan[P2],Yohanan,P2,2,P,Y
+0301_16,1570,Directed,1632,0301.065b.002,Wife with no children from husband,Yohanan,P2,2,P,N
+0301_12,1570,Directed,1628,0301.064b.002,mother of newborns,Yohanan,P2,2,P,N
+B0503-18+,1570,Directed,1601,0503.097a.001,anon[ovda](multiplex),Yohanan,P2,2,P,N
+_1885+,1570,Directed,1594,0503.076b.001,house of R. Ishaq,Yohanan,P2,2,P,Y
+B0401_17,1570,Directed,1467,0401.099b.001,Anon[BQ-11],Yohanan,P2,2,P,N
+B0402_10,1570,Directed,1408,0402.048b.001,Anon[BM-11],Yohanan,P2,2,P,Y
+B0403_52,1570,Directed,1333,0403.143a.002,anon[ovda],Yohanan,P2,2,P,N
+0301_08,1663,Directed,1621,0301.045b.001,offspring of married and gentile,Yose br Abin,P4x P5x,X,P,N
+0301_07,1663,Directed,1620,0301.045b.001,Offspring of unmarried and gentile,Yose br Abin,P4x P5x,X,P,N
+0301_36,1684,Directed,1623,0301.045b.002,offspring of married and gentile,Yose b. Zabida,Px,X,P,N
+0301_09,1684,Directed,1622,0301.045b.002,Offspring of unmarried and gentile,Yose b. Zabida,Px,X,P,N
+1764,2285,Directed,1867,0406.030a.001,[Yosef],Nahman,B3,3,B,Y
+_194,1764,Directed,1863,0307.076b.001,Host of Ada b.Ahaba,Joseph[b.Hiyya],B3,3,B,Y
+people_of_qaquna,1764,Directed,1834,0202.060a,people of  Qaquna,Joseph[b.Hiyya],B3,3,B,N
+B0404_09x,1764,Directed,1817,0404.05a.001,anonx,Joseph[b.Hiyya],B3,3,B,Y
+2161,1764,Directed,1816,0404.05a.001,Mar Zutra,Joseph[b.Hiyya],B3,3,B,Y
+B0302_60,1764,Directed,1747,0302.094b.002,Anon[Ket39_creditor],Joseph[b.Hiyya],B3,3,B,N
+B0302_59,1764,Directed,1746,0302.094b.002,Anon[Ket38_creditor],Joseph[b.Hiyya],B3,3,B,N
+_1776,1764,Directed,1709,0302.065a.001,Wife of Yosef b. Menashia,Joseph[b.Hiyya],B3,3,B,Y
+_2681,1764,Directed,1699,0302.057a.001,Sister of Rami b. Hamma,Joseph[b.Hiyya],B3,3,B,Y
+B0302_23+,1764,Directed,1685,0302.050b.005,Anon[Ket19] (and orphans),Joseph[b.Hiyya],B3,3,B,N
+B0302_2+,1764,Directed,1667,0302.013a.001,Anon[betrothed man and woman](2),Joseph[b.Hiyya],B3,3,B,N
+0301_34,1764,Directed,1657,0301.121b.001,Wife of missing husband,Joseph[b.Hiyya],B3,3,B,N
+B0503-03,1764,Directed,1573,0503.039b.001,anon(slaughterers),Joseph[b.Hiyya],B3,3,B,X
+Arabs,1764,Directed,1572,0503.039b.001,Arabs,Joseph[b.Hiyya],B3,3,B,X
+B0503-01+,1764,Directed,1568,0503.010b.001,anon[ovda](multiplex),Joseph[b.Hiyya],B3,3,B,N
+22946,1764,Directed,1395,0402.029b.001,Rahava,Joseph[b.Hiyya],B3,3,B,X
+B0403_40,1764,Directed,1319,0403.096b.001,anon[ovda],Joseph[b.Hiyya],B2,2,B,N
+2582,1764,Directed,1269,0403.022a.003,Rava[B4],Joseph[b.Hiyya],B3,3,B,Y
+B0403_1,1764,Directed,1258,0403.006a.001,Anon[BB-1; ovda],Joseph[b.Hiyya],B3,3,B,N
+0307_10,1776,Directed,1865,0307.079b.001,Woman who betrothed herself and her father betrothed,Yosef b. Menashia of Dewil,B2,2,B,N
+B0505_wife_2,1781,Directed,1836,0505.023b.001,wife,Josepf b. Rab,B5,5,B,N
+B0505_husband_1,1781,Directed,1835,0505.023b.001,husband,Josepf b. Rab,B5,5,B,N
+B0505_Anon_1,1804,Directed,1839,0505.024a.001,[borrowerx],Yemar,B6,6,B,N
+B0403_39,1804,Directed,1315,0403.088a.001,anon[BB-39; thief],Yemar,B6,6,B,N
+B0403_38,1804,Directed,1314,0403.088a.001,anon[BB-38; butcher],Yemar,B6,6,B,N
+B0403_37_,1804,Directed,1313,0403.088a.001,anon[BB-37],Yemar,B6,6,B,N
+_1814,1814,Directed,1800,0303.022a.001,grandson of Yannai,Yannai,P1,1,P,Y
+0607_11,1814,Directed,1787,0607.058a.001,Woman found blood on warp[mashtitax],Yannai,P1,1,P,N
+B0403_34+,1814,Directed,1310,0403.060a.002,anon[BB-34; people in public domain],Yannai,P1,1,P,N
+B0403_33,1814,Directed,1309,0403.060a.002,anon[BB-33;Owner of tree],Yannai,P1,1,P,N
+B0302_46,1885,Directed,1718,del,Abba[P5],Ishaq Napaha,P3,3,P,Y
+B0503-09,1885,Directed,1582,0503.048b.001,anon(slaughterer or animal owner),Ishaq Napaha,P3,3,P,N
+B0403_41,1901,Directed,1320,0403.100a.001,[owner/purchaser of vineyard],Ishaq b. Ammi,B4,4,B,N
+1903,2478,Directed,1654,0301.113b.001,Ishaq b. Bisana,Pedat,P4,4,P,Y
+Yalta,1913,Directed,1774,0607.020b.003,Yalta,Ishaq b Yehuda,B3,3,B,Y
+0607_16,1954,Directed,1777,0607.024a.002,woman having discharged a fetus with two spines,Yirmiah b. Abba,B2,2,B,N
+_2769,1954,Directed,1460,0401.088a.001,Mother of Samuel b. Abba of Hagronya[xx],Yirmiah b. Abba,B2,2,B,Y
+B0403_67+,1954,Directed,1369,0403.167b.001,anonymuswomen(2),Yirmiah b. Abba,B2,2,B,Y
+Anon[BM-4],1954,Directed,1350,0403.153a.002,Anon,Yirmiah b. Abba,B2,2,B,N
+akbara_deyativ_adinare,1986,Directed,1824,0404.029b.003,"""Akbera deyatib adinare""",Ishmael b. Yose,T,0,P,X
+2004,2578,Directed,1409,0402.049a.002,Kahana[B2],Rab,B1,1,B,Y
+0306_06,2004,Directed,1527,0306.019a.001,Who exactlyx,Kahana,Bx,X,B,N
+B0403_84,2004,Directed,1318,0403.088a.002,anon[BB-42; customers],Kahana,Bx,X,B,N
+B0403_83,2004,Directed,1317,0403.088a.002,anon[BB-41]; merchant],Kahana,Bx,X,B,N
+B0403_82,2004,Directed,1316,0403.088a.002,anon[BB-40],Kahana,Bx,X,B,N
+people_of_Pum_Nehara+,2004,Directed,1267,0403.022a.002,anon[BB-7; people of the place],Kahana,Bx,X,B,N
+Wool_sellers+,2004,Directed,1266,0403.022a.002,anon[BB-6; ‘amra’e],Kahana,Bx,X,B,N
+2032,2938,Directed,1611,0503.134b.001,Levi[x],Sheshet,B3,3,B,Y
+B0302_27,2032,Directed,1689,0302.052a.001,[anon-heirs],Levi,B3,3,B,N
+B0302_26,2032,Directed,1688,0302.052a.001,[anon-widow],Levi,B3,3,B,N
+2156,2198,Directed,1513,0101.045b.001,Mar bar Rav Ashi,Maremar,B6,6,B,Y
+0301_19,2156,Directed,1636,0301.075b.001,Anon-male,Mar bar Rav Ashi,B7,7,B,N
+B0302_35,2161,Directed,1706,0302.063b.001,Anon[Ket27],Mar Zutra,B6,6,B,N
+2190,2582,Directed,1609,0503.112b.001,Mari b. Rahel[B4],Raba,B3,3,B,Y
+B0503-06,2198,Directed,1578,0503.047a.001,anon(slaughterer or animal owner),Maremar,B5,5,B,N
+2199,2582,Directed,1435,0402.097a.002,Maremar b. Hanina[B6x],Raba,B4,4,B,Y
+2225,2761,Directed,1812,0206.011b.001,Matena,Samuel,B1,1,B,Y
+_1185,2225,Directed,1589,0503.056a.001,House of Rab Hana[x],Matena,B6,6,B,Y
+_1781,2277,Directed,1708,0302.065a.001,Wife of Yosef b. Rava,Nehemiah b. Yosef,B5,5,B,Y
+0406_07,2285,Directed,1878,0406.047b.001,Anon litigant,Nahman,B3,3,B,N
+0406_06,2285,Directed,1877,0406.047b.001,Anon litigant,Nahman,B3,3,B,N
+_895,2285,Directed,1868,0406.030b.001,Wife of Huna,Nahman,B3,3,B,Y
+2415,2285,Directed,1866,0406.030a.001,Ulla b. Ila'I,Nahman,B3,3,B,Y
+0307_9,2285,Directed,1861,0307.070a.001,man buying meat,Nahman,B3,3,B,N
+0202_04,2285,Directed,1833,0202.025a.001,a woman,Nahman,B3,3,B,N
+be_resh_galuta,2285,Directed,1831,0202.011b.001,be-resh-galuta,Nahman,B3,3,B,X
+B0404_03,2285,Directed,1827,0404.031a.002,anon (child),Nahman,B3,3,B,N
+qab_rashu,2285,Directed,1822,0404.029b.002,"""Qab Rashu""",Nahman,B3,3,B,X
+rabbanan_de_be_resh_galuta,2285,Directed,1815,0206.031a.001,rabbanan of resh galuta,Nahman,B3,3,B,Y
+resh_galuta,2285,Directed,1814,0206.031a.001,resh galuta,Nahman,B4,4,B,Y
+B0206_01,2285,Directed,1813,0206.031a.001,woman;,Nahman,B4,4,B,Y
+2364,2285,Directed,1803,0303.022b.003,Sehora,Nahman,B3,3,B,Y
+sorba_derabbanan_01,2285,Directed,1760,0211.016b.001,rabbinic disciple,Nahman,B3,3,B,Y
+B0211_01,2285,Directed,1759,0211.016b.001,Woman,Nahman,B4,4,B,Y
+_770,2285,Directed,1742,0302.091a.001,heirs of wives of bar Sarsur,Nahman,B3,3,B,X
+_1344,2285,Directed,1738,0302.085b.002,heirs of Hasa[B3],Nahman,B3,3,B,Y
+B0302_53,2285,Directed,1737,0302.085b.002,Depositor,Nahman,B3,3,B,Y
+B0302_48,2285,Directed,1731,0302.085a.003,Anon[Ket32_woman],Nahman,B3,3,B,N
+B0302_45+,2285,Directed,1726,0302.084b.001,creditors,Nahman,B4,4,B,N
+B0302_44+,2285,Directed,1725,0302.084b.001,Orphans,Nahman,B4,4,B,N
+B0302_43,2285,Directed,1724,0302.084b.001,Herdsman,Nahman,B4,4,B,N
+B0302_39,2285,Directed,1713,0302.078b.001,daughter,Nahman,B4,4,B,N
+B0302_38,2285,Directed,1712,0302.078b.001,widow,Nahman,B4,4,B,N
+B0302_34,2285,Directed,1704,0302.060b.003,Anon[Ket24_old woman],Nahman,B3,3,B,N
+B0302_28,2285,Directed,1691,0302.054a.001,anon[Ket21-widow],Nahman,B3,3,B,N
+B0302_1,2285,Directed,1661,0302.010a.001,Anon[ket1],Nahman,B3,3,B,N
+0301_18,2285,Directed,1634,0301.065b.004,Wife,Nahman,B3,3,B,N
+_1362,2285,Directed,1610,0503.132b.001,Landlord[x] of Tabla[B3],Nahman,B3,3,B,Y
+0306_25,2285,Directed,1551,0306.052b.001,relations of orphans,Nahman,B3,3,B,X
+Amram_Sabaa,2285,Directed,1550,0306.052b.001,Amram Saba'a,Nahman,B3,3,B,X
+0306_24,2285,Directed,1549,0306.052a.002,orphans,Nahman,B3,3,B,Y
+2423,2285,Directed,1548,0306.052a.002,Rabbana Uqba,Nahman,B3,3,B,Y
+0306_23+,2285,Directed,1547,0306.052a.001,Relations of orphans,Nahman,B3,3,B,N
+0306_22,2285,Directed,1546,0306.052a.001,caregiverx,Nahman,B3,3,B,N
+0306_15,2285,Directed,1539,0306.039b.001,dying owner,Nahman,B3,3,B,N
+0306_14,2285,Directed,1537,0306.039b.001,Slave woman,Nahman,B3,3,B,N
+0306_02+,2285,Directed,1523,0306.014a.001,gardeners (others),Nahman,B3,3,B,N
+0306_01,2285,Directed,1522,0306.014a.001,Gardeners (1),Nahman,B3,3,B,N
+B0401_22,2285,Directed,1475,0401.116b.001,Anon[BQ-15; thief],Nahman,B3,3,B,X
+B0401_36,2285,Directed,1474,0401.116b.001,Anon[BQ-14],Nahman,B3,3,B,X
+B0401_16+,2285,Directed,1463,0401.096b.001,anon[BM-106; owners],Nahman,B3,3,B,N
+B0401_15,2285,Directed,1462,0401.096b.001,anon[BM-105;  thief];,Nahman,B3,3,B,N
+B0401_7,2285,Directed,1450,0401.058b.001,Anon[BQ-7],Nahman,B3,3,B,N
+B0401_6,2285,Directed,1449,0401.058b.001,Anon[BQ-6],Nahman,B3,3,B,N
+_2665,2285,Directed,1431,0402.093b.002,be-Ronia[x],Nahman,B3,3,B,Y
+B0402_23,2285,Directed,1423,0402.081a.002,Anon[BM-21; purchaser],Nahman,B3,3,B,N
+B0402_22,2285,Directed,1422,0402.081a.002,Anon[BM-20; seller],Nahman,B3,3,B,N
+_Resh_Galuta,2285,Directed,1416,0402.066a.001,house of the exilarch,Nahman,B3,3,B,X
+_2681,2285,Directed,1413,0402.051a.001,landlord[x] of Rami b. Hama[B4],Nahman,B3,3,B,Y
+B0402_6,2285,Directed,1398,0402.035a.001,Anon[BM-7],Nahman,B3,3,B,N
+B0403_71,2285,Directed,1373,0403.169b.001,the agent,Nahman,B3,3,B,N
+B0403_70,2285,Directed,1372,0403.169b.001,Woman who gave funds,Nahman,B3,3,B,N
+Anon[BM-4],2285,Directed,1351,0403.153a.002,Anon,Nahman,B3,3,B,N
+_873,2285,Directed,1347,0403.151a.006,mother of Dimi b. Yosef,Nahman,B3,3,B,Y
+_1364,2285,Directed,1344,0403.151a.005,Mother of Tobi b. Mattena[B3],Nahman,B3,3,B,Y
+2448,2285,Directed,1343,0403.151a.004,Amram Hasida[B3x],Nahman,B3,3,B,Y
+2681,2285,Directed,1340,0403.151a.002,Rami b. Hama[B4],Nahman,B3,3,B,Y
+2429,2285,Directed,1339,0403.151a.002,Uqba b. Hama[B4],Nahman,B4,4,B,Y
+B0403_48,2285,Directed,1302,0403.054b.002,another Israelite,Nahman,B3,3,B,Y
+B0403_18,2285,Directed,1287,0403.041a.001,anon[BB-18; neighbor],Nahman,B3,3,B,Y
+2453,2285,Directed,1286,0403.041a.001,Anan[B2],Nahman,B3,3,B,Y
+B0403_99,2285,Directed,1280,0403.031b.001,anon[BB-13],Nahman,B3,3,B,N
+B0403_12+,2285,Directed,1279,0403.030a.001; 0403.159b.001,Anon[BB-12;plaintifs(2)],Nahman,B3,3,B,N
+B0403_11+,2285,Directed,1278,0403.029b.002; 0403.159b.002,generic claimants(2),Nahman,B3,3,B,N
+2341,2582,Directed,1767,0211.020a.002,Natan b. Ami,Raba,B4,4,B,Y
+2398,2596,Directed,1397,0402.031b.001,Safra[B3],Rabba b. Huna,B3,3,B,Y
+2398,2582,Directed,1334,0403.144a.001,Safra[B3],Raba,B4,4,B,Y
+2429,2938,Directed,1341,0403.151a.002,Uqba b. Hama[B4],Sheshet,B3,3,B,Y
+2429,2582,Directed,1276,0403.029b.001,Uqba b. Hama[B4],Raba,B4,4,B,Y
+_770,2445,Directed,1743,0302.091a.001,heirs of wives of bar Sarsur,Amram,B2,2,B,X
+2518,2582,Directed,1562,0306.073a.003,Pappa,Raba,B4,4,B,Y
+2579,2518,Directed,1869,0406.030b.002,Rab b. Shaba*,Pappa,B5,5,B,Y
+zibud,2518,Directed,1846,0203.113b.001,Zibud,Pappa,B5,5,B,X
+tobiah,2518,Directed,1845,0203.113b.001,Tobiah,Pappa,B5,5,B,X
+B0505_wife_2,2518,Directed,1838,0505.023b.001,wife,Pappa,B5,5,B,N
+B0505_husband_1,2518,Directed,1837,0505.023b.001,husband,Pappa,B5,5,B,N
+2676,2518,Directed,1758,0210.026b.002,Rami b. Abba,Pappa,B5,5,B,Y
+B0302_33,2518,Directed,1703,0302.060b.002,Anon[Ket23],Pappa,B5,5,B,N
+0301_24,2518,Directed,1642,0301.101b.001,Anon,Pappa,B5,5,B,X
+0301_22,2518,Directed,1639,0301.91b.001,Anon,Pappa,B5,5,B,N
+0306_29,2518,Directed,1556,0306.058b.001,landowners,Pappa,B5,5,B,X
+Giddal_b_Re'ila'I,2518,Directed,1555,0306.058b.001,Giddal b. R/De'ila'i,Pappa,B5,5,B,X
+0306_17,2518,Directed,1541,0306.040a.002,[Yosef b. Raba on behalf of slavex],Pappa,B5,5,B,N
+0207_01,2518,Directed,1493,0207.004a.002,Anon,Pappa,B5,5,B,Y
+_2518,2518,Directed,1492,0207.004a.002,Host of Pappa,Pappa,B5,5,B,Y
+agardamis_tayya,2518,Directed,1465,0401.098a.001,Agardamis Tayy'a,Pappa,B5,5,B,X
+B0401_9,2518,Directed,1455,0401.073a.001,Anon[BQ-8],Pappa,B5,5,B,N
+B0401_8,2518,Directed,1454,0401.059b.001,anon[ovda],Pappa,B5,5,B,N
+B0402_30,2518,Directed,1434,0402.097b.001,Anon[BM-Borrower of item],Pappa,B5,5,B,N
+Bar_Adda_Sebola'a,2518,Directed,1429,0402.093b.001,Bar Adda Sebola'a,Pappa,B5,5,B,X
+B0402_21+,2518,Directed,1424,0402.081a.001,Anon[BM-19; alkaline sellers],Pappa,B5,5,B,N
+B0402_20,2518,Directed,1421,0402.074b.001,Anon[BM-18],Pappa,B5,5,B,N
+Samaritans+,2518,Directed,1420,0402.069.002,Samaritans[!],Pappa,B5,5,B,N
+B0401_11,2527,Directed,1457,0401.084a.001,child,Pappa b. Samuel,B4,4,B,N
+B0401_10,2527,Directed,1456,0401.084a.001,ass driver,Pappa b. Samuel,B4,4,B,N
+B0402_33,2527,Directed,1440,0402.109b.001,Anon[BM-32; planter],Pappa b. Samuel,B4,4,B,N
+B0404_11,2533,Directed,1820,0404.027a.001,anon,Pappi,B5,5,B,N
+B0403_107,2533,Directed,1293,0403.052a.002,anonymous,Pappi,B5,5,B,N
+2546,10100,Directed,1504,0504.036a.001,Zadoq,Joshua,T,0,P,Y
+0307_03,2578,Directed,1850,0307.045b.001,betrothed minor,Rab,B1,1,B,N
+0202_01,2578,Directed,1829,0202.006a.001,anon,Rab,B1,1,B,N
+B0404_12,2578,Directed,1821,0404.029b.001,anon,Rab,B1,1,B,N
+0303_02,2578,Directed,1794,0303.020b.002,Anon,Rab,B1,1,B,N
+0301_03,2578,Directed,1615,0301.039b.001,Yebamahx,Rab,B1,1,B,N
+0301_02,2578,Directed,1614,0301.039b.001,Yabam,Rab,B1,1,B,N
+B0503-14,2578,Directed,1587,0503.053.001,anon(animal owner),Rab,B1,1,B,N
+B0503-05,2578,Directed,1576,0503.044b.001,anon(slaughtererx Owner of animalx),Rab,B1,1,B,N
+0306_13,2578,Directed,1536,0306.037b.001,creditors,Rab,B2,2,B,N
+B0401_35,2578,Directed,1480,0401.117a.002,Anon[BQ-18],Rab,B1,1,B,N
+B0401_25,2578,Directed,1479,0401.117a.002,Anon[BQ-17; owner],Rab,B1,1,B,N
+B0401_18,2578,Directed,1468,0401.099b.002,Anon[BQ-11;hagrama[x]],Rab,B1,1,B,N
+B0402_31,2578,Directed,1437,0402.101a.001,Anon[BM-30],Rab,B1,1,B,N
+B0402_29,2578,Directed,1433,0402.096b.002,Anon[BM-29],Rab,B1,1,B,N
+B0402_7+,2578,Directed,1399,0402.036a.001,Anon[BM-8; gardeners],Rab,B1,1,B,N
+B0402_4,2578,Directed,1388,0402.023b.002,Anon[BM-5],Rab,B1,1,B,X
+Marta_and_granddaughters,2578,Directed,1296,0403.052a.001,Marta etc (3rd party),Rab,B1,1,B,Y
+2594,2578,Directed,1295,0403.052a.001,Rabah b. bar Hanan[B3],Rab,B1,1,B,N
+_2594,2578,Directed,1294,0403.052a.001,[Wife of] Rabbah b. b. Hanah[B3],Rab,B1,1,B,N
+B0503-04,2581,Directed,1574,0503.043b.001,anon(slaughtererx Ownder of animalx),Rabbah,B3,3,B,N
+0306_07,2581,Directed,1528,0306.027a.001,finderx,Rabbah,B3,3,B,N
+B0401_31,2581,Directed,1490,0401.117b.003,ass owner,Rabbah,B3,3,B,N
+B0401_30,2581,Directed,1489,0401.117b.003,Ferry rider,Rabbah,B3,3,B,N
+B0401_28,2581,Directed,1486,0401.117b.001,depositary; thief; depositors,Rabbah,B3,3,B,N
+B0401_27,2581,Directed,1485,0401.117b.001,depositary; thief; depositors,Rabbah,B3,3,B,N
+B0401_26,2581,Directed,1484,0401.117b.001,depositary; thief; depositors,Rabbah,B3,3,B,N
+B0401_4,2581,Directed,1445,0401.027b.002,Anon[BQ-4],Raba*,Bx,X,B,N
+B0402_27,2581,Directed,1428,0402.093a.001,Anon[BM-26; shepher],Rabbah,B3,3,B,N
+B0402_100+,2581,Directed,1386,0402.018b.001,Parties to a divorce,Rabbah,B3,3,B,N
+0201_01,2582,Directed,1880,0201.134a.001,Father of new baby,Raba,B4,4,B,N
+0307_06,2582,Directed,1857,0307.052b.003,brewer,Raba,B4,4,B,N
+0307_05,2582,Directed,1856,0307.052b.002,tenant farmer,Raba,B4,4,B,N
+0307_04,2582,Directed,1855,0307.052b.001,man who tossed coins,Raba,B4,4,B,N
+0303_09,2582,Directed,1805,0303.025a.001,Anon woman,Raba,B4,4,B,N
+0607_07,2582,Directed,1782,0607.042c.001,Father of new child,Raba,B4,4,B,N
+B0302_62+,2582,Directed,1749,0302.098a.001,Anon[Ket41_heirs],Raba,B4,4,B,N
+B0302_61,2582,Directed,1748,0302.098a.001,Anon[Ket40_widow],Raba,B4,4,B,N
+B0302_49,2582,Directed,1732,0302.085a.004,Anon[Ket33_woman],Raba,B4,4,B,N
+B0302_42,2582,Directed,1716,0302.080b.001,Anon[Ket31_wife],Raba,B4,4,B,N
+_121,2582,Directed,1707,0302.065a.001,Wife of Abbaye[B4],Raba,B4,4,B,Y
+B0302_25,2582,Directed,1687,0302.051a.001,anon[Ket21-orphan],Raba,B4,4,B,N
+B0302_24,2582,Directed,1686,0302.051a.001,anon[Ket20-orphan],Raba,B4,4,B,N
+B0302_19+,2582,Directed,1680,0302.049b.003,Anon[Ket16] (plural),Raba,B4,4,B,N
+B0302_15,2582,Directed,1677,0302.027b.002,anon[Ket-100; woman],Raba,B4,4,B,N
+B0302_14,2582,Directed,1676,0302.027b.002,Anon[Ket-99; betrothed man],Raba,B4,4,B,N
+B0302_13,2582,Directed,1674,0302.027b.001,Anon[Ket12],Raba,B4,4,B,N
+B0404_08,2582,Directed,1658,0203.025b;0205.082b.001;0404.074a.001,Anon,Raba*,B4,4,B,N
+0301_33,2582,Directed,1653,0301.112a.001,widow,Raba,B4,4,B,N
+0301_32,2582,Directed,1652,0301.112a.001,Levir,Raba,B4,4,B,N
+0301_06,2582,Directed,1619,0301.045a.003,Child of gentile man,Raba,B4,4,B,N
+0503_17,2582,Directed,1596,0503.077a.001,Anon owner of slaughtered animal,Raba,B4,4,B,N
+B0503-16,2582,Directed,1592,0503.057a.001,anon[Hul-99],Raba,B4,4,B,N
+B0503-12,2582,Directed,1585,0503.049b.002,anon,Raba,B4,4,B,X
+B0503-11,2582,Directed,1584,0503.049b.001,anon(slaughterer or animal owner),Raba,B4,4,B,N
+_21222,2582,Directed,1575,0503.043b.003,Sons of Uqba[Bx],Raba,B4,4,B,Y
+B0503-02,2582,Directed,1569,0503.018a.001,anon(slaughterer),Raba,B4,4,B,N
+0306_33,2582,Directed,1564,0306.077a.003,dying man,Raba,B4,4,B,N
+0306_32,2582,Directed,1559,0306.073a.001,[purchaser of land],Raba,B4,4,B,N
+0306_31,2582,Directed,1558,0306.073a.001,Seller of land,Raba,B4,4,B,N
+0306_08,2582,Directed,1529,0306.029b.001,Agent of husband,Raba,B4,4,B,N
+0504_01,2582,Directed,1501,0504.003b.001,Woman convert,Raba,B4,4,B,N
+0207_05,2582,Directed,1498,0207.27b.001,Owner of firstling,Raba,B4,4,B,N
+_2602,2582,Directed,1497,0207.012b.002,Host of Raba b. Hanan,Raba,B4,4,B,Y
+B0401_30,2582,Directed,1488,0401.117b.002,Depositary,Raba,B4,4,B,X
+B0401_29,2582,Directed,1487,0401.117b.002,Depositary; thief,Raba,B4,4,B,X
+B0401_13,2582,Directed,1459,0401.084a.002,Anon[BQ-104; a child],Raba,B4,4,B,N
+B0401_12,2582,Directed,1458,0401.084a.002,Anon[BQ-103;ass driver],Raba,B4,4,B,N
+B0401_4,2582,Directed,1446,0401.027b.002,Anon[BQ-4],Rabba*,Bx,X,B,N
+B0402_32,2582,Directed,1438,0402.106b.001,Anon[BM-31],Raba,B4,4,B,N
+be_Hoza'e,2582,Directed,1436,0402.097a.002,be Hoza'e,Raba,B4,4,B,Y
+B0402_28,2582,Directed,1432,0402.096b.001,Anon[BM-28],Raba,B4,4,B,N
+B0402_26,2582,Directed,1427,0402.083a.002,Anon[BM-25],Raba,B4,4,B,N
+B0402_25,2582,Directed,1426,0402.083a.001,Anon[BM-24],Raba,B4,4,B,N
+B0402_24+,2582,Directed,1425,0402.081b.001,Anon[BM-22; 23],Raba,B4,4,B,N
+B0402_13,2582,Directed,1414,0402.051a.002,Anon[BM-14],Raba,B4,4,B,N
+1351/2784,2582,Directed,1411,0402.049b.001,Tavot[B5x]; Samuel b. Zutra[B5],Raba,B4,4,B,Y
+B0402_11,2582,Directed,1410,0402.049a.003,Anon[BM-12],Raba,B4,4,B,N
+B0402_12,2582,Directed,1405,0402.042a.001,Anon[BM-depositary],Raba,B4,4,B,N
+B0403_04,2582,Directed,1367,0403.167a.003,bearer of document,Raba,B4,4,B,Y
+B0403_81+,2582,Directed,1357,0403.155b.003,son <20yrs; relations; buyers,Raba,B4,4,B,N
+B0403_59,2582,Directed,1356,0403.155b.003,son <20yrs; relations; buyers,Raba,B4,4,B,N
+B0403_58,2582,Directed,1355,0403.155b.003,son <20yrs; relations; buyers,Raba,B4,4,B,N
+B0403_13,2582,Directed,1354,0403.155b.002,Seller not of age,Raba,B4,4,B,N
+B0403_73,2582,Directed,1353,0403.153a.003,ההיא דאתאי לקמיה ד; anon(1),Raba,B4,4,B,N
+_2398,2582,Directed,1335,0403.144a.001,brothers of Safra,Raba,B4,4,B,Y
+B0403_79,2582,Directed,1326,0403.126a.001,relations of brothers,Raba,B4,4,B,N
+B0403_45,2582,Directed,1325,0403.126a.001,purchasers,Raba,B4,4,B,N
+B0403_44+,2582,Directed,1324,0403.126a.001,brother(s),Raba,B4,4,B,N
+B0403_43,2582,Directed,1323,0403.126a.001,Firstborn,Raba,B4,4,B,N
+B0403_17+,2582,Directed,1285,0403.040b.001,anon[BB-17; witnesses],Raba,B4,4,B,N
+B0403_16+,2582,Directed,1284,0403.040b.001,anon[BB-16],Raba,B4,4,B,N
+B0403_10,2582,Directed,1277,0403.029b.001,an external claimant,Raba,B4,4,B,Y
+2681,2582,Directed,1275,0403.029b.001,Rami b. Hama[B4],Raba,B4,4,B,Y
+B0403_3+,2582,Directed,1261,0403.009a.001,Anon[BB-3; butchers],Raba,B4,4,B,N
+2647,2582,Directed,1257,0403.005a.001,Ravina,Raba,B4,4,B,Y
+_2647,2582,Directed,1256,0403.005a.001,Ronya,Raba,B4,4,B,Y
+Yalta,2594,Directed,1775,0607.020b.003,Yalta,Rabbab b. b. Hana,B3,3,B,Y
+B0503-05,2594,Directed,1577,0503.044b.001,anon(slaughtererx Owner of animalx),Rabbah b b. Hana,B3,3,B,N
+B0403_47,2594,Directed,1329,0403.126b.002,another who is a firstborn,Rabbah b. b. Hana,B3,3,B,N
+B0403_46,2594,Directed,1328,0403.126b.002,"Anon[BB, attests that one is firstborn];",Rabbah b. b. Hana,B3,3,B,N
+0406_02,2596,Directed,1873,0406.030b.004,Anon,Raba b. Huna,B3,3,B,X
+0406_01,2596,Directed,1872,0406.030b.004,Anon,Raba b. Huna,B3,3,B,X
+0303_04,2596,Directed,1796,0303.021b.002,Anon,Rabbah b. Huna,B4,4,B,N
+0306_12,2596,Directed,1533,0306.035a.002,Widow,Rabbah b. Rab Huna,B3,3,B,N
+Issur,2596,Directed,1396,0402.031b.001,Issur,Rabba b. Huna,B3,3,B,Y
+_2518,2596,Directed,1394,0402.028b.001,Father of R. Pappa[P5],Rabba b. Huna,B3,3,B,Y
+0301_25,2598,Directed,1643,0301.104a.001,Anon,Rabbah b. Hiyya Qeṭosfa'a,B2,2,B,X
+_1090,2627,Directed,1753,0302.104b.001,MIL of Hiyya Arikha+,Rabbah b. Shela,B3,3,B,Y
+0301_21,2639,Directed,1638,0301.080b.001,Woman gave birth after twelve,Rabbah Tosfa'ah,B7,7,B,N
+daugher_in_law_of_house_of_Eliashib,2647,Directed,1693,0302.054a.002,daughter in law of house house of Eliashib,Rabina,B7,7,B,X
+house_of_Eliashib,2647,Directed,1692,0302.054a.002,House of Eliashib,Rabina,B7,7,B,X
+0301_01,2647,Directed,1613,0301.037a.001,Anon relatives of betrothed,Rafram,B7,7,B,N
+0306_32,2647,Directed,1561,0306.073a.001,[purchaser of land],Rabina,B7,7,B,N
+0306_31,2647,Directed,1560,0306.073a.001,Seller of land,Rabina,B7,7,B,N
+0306_16+,2647,Directed,1540,0306.040a.001,Slaves,Rabina,B7,7,B,N
+B0401_20,2647,Directed,1473,0401.115a.002,Anon[BQ-thief],Rabina,B7,7,B,Y
+B0402_18,2647,Directed,1417,0402.067a.001,anon[ovda],Rabina,B7,7,B,N
+B0403_9+,2647,Directed,1274,0403.026a.001,Flax grinders,Rabina,B7,7,B,Y
+house_of_Marion_br_Rabin+,2647,Directed,1273,0403.026a.001,those of the house of Marion b. Rabin,Rabina,B7,7,B,Y
+people_of_the_place,2647,Directed,1265,0403.022a.001,anon[BB-5; people of the place],Rabina,B7,7,B,N
+diqula'e,2647,Directed,1264,0403.022a.001,anon[BB-4; basket sellers],Rabina,B7,7,B,N
+2681,2938,Directed,1342,0403.151a.002,Rami b. Hama[B4],Sheshet,B3,3,B,Y
+0503_02,2690,Directed,1505,0504.036b.001,Priest,Rafram,B6,6,B,Y
+0607_06,2725,Directed,1781,0607.036b.001,Woman after childbirth,Shela b. Abina,B2,2,B,N
+blind_student,2763,Directed,1860,0307.066a.001,Blind student[x],Samuel,B1,1,B,Y
+0203_01,2763,Directed,1842,0203.040a.001,Anon,Samuel,B1,1,B,N
+0607_14,2763,Directed,1789,0607.066a.002,Woman bleeding during intercourse,Samuel,B1,1,B,N
+0607_05,2763,Directed,1780,0607.025b.002,Woman having given birth,Samuel,B1,1,B,N
+0607_04,2763,Directed,1779,0607.025b.001,Woman who had discharged a sac,Samuel,B1,1,B,N
+0607_03,2763,Directed,1778,0607.025a.001,Woman having dischanged sac,Samuel,B1,1,B,N
+B0302_66,2763,Directed,1701,0302.60a.001,Anon[Ket22],Samuel,B1,1,B,N
+_2658,2763,Directed,1684,0302.050b.004,Benai bro of Hiyya b. Abba,Samuel,B1,1,B,Y
+B0302_22,2763,Directed,1683,0302.050b.004,Orphans,Samuel,B1,1,B,Y
+B0503-14,2763,Directed,1588,0503.053.001,anon(animal owner),Samuel,B1,1,B,N
+B0401_3,2763,Directed,1444,0401.027b.001,Anon[BQ-3],Samuel,B1,1,B,N
+B0403_50,2763,Directed,1332,0403.143a.001,anon[ovda],Samuel,B1,1,B,N
+0301_13,2852,Directed,1629,0301.064b.001,Fourth sister having given birth,Simeon b. Gamaliel,T,0,P,N
+B0302_58+,2879,Directed,1723,0302.094b.001,Anon[Ket_xx_orphans],Resh Laqish,P2,2,P,Y
+_1570,2879,Directed,1698,0302.054b.001,Relations of Yohanan[P2],Resh Laqish,P2,2,P,Y
+B0302_12,2879,Directed,1673,0302.025b.003,Anon[Ket11 priest],Resh Laqish,P2,2,P,N
+B0302_11,2879,Directed,1672,0302.025b.003,Anon[Ket10 witness],Resh Laqish,P2,2,P,N
+B0503-20,2896,Directed,1603,0503.098a.002,anon,Simeon b. Rabbi,L,0,P,N
+B0402_8,2938,Directed,1400,0402.038b.001,Anon[BM-9],Sheshet,B3,3,B,N
+anon_or_be_resh_galuta,10125,Directed,1844,0203.076b.001,anonx [be resh galutax],Levi,Bx,X,B,N
+B0302_20,20347,Directed,1681,0302.050b.001,anon[Ket17ovda],Judges of Nehardea,x,X,X,N
+B0401_1,20347,Directed,1442,0401.012a.001,Anon[BQ-1],Judges of Nehardea,BX,X,B,N
+B0402_4,20348,Directed,1383,0402.016a.001,victim of theft,Pumbedita,x,X,X,N
+B0402_3,20348,Directed,1382,0402.016a.001,Buyer,Pumbedita,x,X,X,N
+B0302_21,21004,Directed,1682,0302.050b.002,anon[Ket18ovda],Hana b. Bizana,B3,3,B,N
+B0401_2,21004,Directed,1443,0401.012a.002,Anon[BQ-2],Hana b. Bizana,B3,3,B,N
+B0403_42,21052,Directed,1322,0403.111a.002,anon[ovda],Tabla,B3,3,B,N
+B0302_46,22004,Directed,1719,del,Abba[P5],Hanina b. Pappi,P3,3,P,Y
+0306_34,99999,Directed,1565,0306.078b.001,divorcee/levirate widow,Anonymous,X,X,X,N
+B0401_7,_Resh galuta,Directed,1452,0401.058b.001,Anon[BQ-7],Resh Galuta,B3,3,B,N
+B0401_6,_Resh galuta,Directed,1451,0401.058b.001,Anon[BQ-6],Resh Galuta,B3,3,B,N
+0607_02,_1088+,Directed,1776,0607.024a.001,Women who had miscarried,Sons of Hiyya,P2,2,P,N
+0607_10,_1885,Directed,1786,0607.52a.001,Girl(s) seeking to renounce marriage,disciples of Hanina,P3,3,P,N
+0301_11,oshaya_b_r,Directed,1627,0301.046b.001,convert [male],Oshaya b. Rabbi,Px,X,B,N
+0301_11,hiyya_b_r,Directed,1626,0301.046b.001,convert [male],Hiyya b. Rabbi,Px,X,P,N
+0301_14,be_midrasha,Directed,1630,0301.065b.001,Wife,be-midrasha,X,X,X,N
+0301_15,be_midrasha,Directed,1631,0301.065b.001,husband,be-midrasha,X,X,X,N
+0607_09,2004_fellows,Directed,1784,0607.052a.001,Girl(s) seeking to renounce marriage,fellows of Kahana,Bx,X,B,N
+B0403_25,2032/2423,Directed,1298,0403.054a.001,"anon[BB-25, man]",Lev OR Mar Uqba,xx,X,X,N
+B0403_24,2032/2423,Directed,1297,0403.054a.001,"anon[BB-24, Woman]",Lev OR Mar Uqba,xx,X,X,N
+B0503-08,Hananiah_T,Directed,1580,0503.047b.001,anon(slaughterer or animal owner),Hananiah,T,0,P,N
+B0503-10,Rabbanan terofa'e,Directed,1583,0503.048b.002,anon(slaughterer or animal owner),Rabbanan Terofa'e,x,X,X,N
+sorba_derabbanan_02,be_midrasha,Directed,1765,0211.017a.001,rabbinic disciple,be-midrasha,Bx,X,B,Y

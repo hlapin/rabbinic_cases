@@ -1,0 +1,605 @@
+Id,Label,is_rabbi,gen_composite,geog,gen,satspemodularity,componentnumber,modularity_class
+0,Sages[T],is_rabbi,T,P,0,99999,0,0
+6,Abba[P5x],is_rabbi,Px,P,X,5,1,50
+47,Abba[P3] b. Mamal,is_rabbi,P3,P,3,99999,1,10
+92,Abbahu,is_rabbi,P3,P,3,6,1,50
+98,Abuha b. Ihi,is_rabbi,B1,B,1,99999,1,50
+106,Father of Samuel,is_rabbi,B0,B,0,99999,1,36
+121,Abbaye[B4],is_rabbi,B4,B,4,1,1,45
+133,Abimi b. Nazi FIL of Ravina,is_rabbi,Bx,B,X,99999,1,35
+135,Hanina Hoza'a[B3],is_rabbi,B3,B,3,99999,1,30
+139,Abin[P3x],is_rabbi,P3,P,3,6,2,1
+149,Rabin b. Hinnena[B3x],is_rabbi,B4,B,4,99999,1,43
+194,Ada b. Ahavah,is_rabbi,Bx,B,X,5,1,45
+201,Ada b. Habu[x],is_rabbi,Bx,B,X,99999,1,7
+220,Ada Sabba  b. Rab Mari b. Isur,is_rabbi,B5,B,5,99999,1,7
+229,Avya,is_rabbi,P2,P,2,99999,1,45
+246,Oshaya b. Hiyya,is_rabbi,Px,P,X,99999,3,2
+265,Aha b. Ada[B3],is_rabbi,B3,B,3,99999,1,35
+276,Aha b. Huna,is_rabbi,B4,B,4,99999,1,14
+304,Aha of Difti,is_rabbi,B7,B,7,99999,4,28
+310,Aha Sar habirah,is_rabbi,Px,P,X,99999,1,10
+334,Aybo[x],is_rabbi,Bx,B,X,99999,1,30
+343,Idi b. Avin[B4],is_rabbi,B4,B,4,0,5,3
+467,Eleazar,is_rabbi,P3,P,3,6,6,4
+485,Eleazar ha-Qappar[Lx],is_rabbi,P0,P,0,99999,7,23
+495,Ammi,is_rabbi,P4,P,4,6,1,10
+497,Eliezer,is_rabbi,P5,P,5,99999,1,36
+514,Amemar,is_rabbi,B6,B,6,0,8,5
+534,Assi,is_rabbi,B6,B,6,0,9,6
+535,Assi,is_rabbi,P3,P,3,2,1,10
+571,Ashi[B6],is_rabbi,B6,B,6,6,1,7
+600,Bibi,is_rabbi,P3,P,3,99999,1,45
+602,Bibi b. Abbaye[B5],is_rabbi,B5,B,5,6,10,8
+687,Bena'ah[P1],is_rabbi,P1,P,1,99999,11,9
+723,Bar Hadaya,is_rabbi,Bx,B,X,99999,1,10
+787,Berona,is_rabbi,B2,B,2,99999,12,21
+828,Gamaliel the Elder[E],is_rabbi,T,P,0,99999,13,11
+829,Gamaliel,is_rabbi,T,P,0,99999,14,12
+830,Gamaliel b. R[L],is_rabbi,P0,P,0,99999,15,13
+871,Dimi b. Hinnena,is_rabbi,B3,B,3,99999,1,35
+873,Dimi b. Yosef[B3],is_rabbi,B3,B,3,99999,1,30
+881,Rab Dimi of Nehardea[4],is_rabbi,B4,B,4,99999,1,45
+895,Huna,is_rabbi,Bx,B,X,0,1,14
+918,Huna b. Joshua[B5],is_rabbi,B5,B,5,99999,1,32
+930,Gamaliel b. R[L],is_rabbi,P0,P,0,99999,16,15
+993,Zebid,is_rabbi,B5,B,5,0,10,8
+1006,Zutra b. Tovya[B3x],is_rabbi,B3,B,3,99999,10,8
+1017,Zera,is_rabbi,P3,P,3,3,17,16
+1088,Hiyya[P1],is_rabbi,P1,P,1,5,1,17
+1090,Hiyya Arikha[x],is_rabbi,Bx,B,X,99999,18,38
+1091,Hiyya b. Abba,is_rabbi,P3,P,3,6,19,18
+1094,Hiyya b Abin[B3],is_rabbi,B3,B,3,0,1,45
+1102,Hiyya b. Ashi,is_rabbi,B2,B,2,3,1,30
+1113,Isaac b. Yosef[B4],is_rabbi,B4,B,4,5,1,50
+1164,Hamma,is_rabbi,B5,B,5,99999,20,19
+1194,Hana bar Hanilai,is_rabbi,B3,B,3,99999,1,14
+1213,Haninah,is_rabbi,Px,P,X,99999,21,20
+1287,Hanina [Hozaah; Mss],is_rabbi,P3,P,3,99999,1,14
+1339,Hananel,is_rabbi,B2,B,2,5,12,21
+1345,Hisda[B3],is_rabbi,B3,B,3,0,1,14
+1364,Tobi b. Matena[B3],is_rabbi,B3,B,3,99999,1,45
+1383,Tarfon,is_rabbi,T,P,0,1,1,17
+1388,Yoshia de-min Usha,is_rabbi,P2,P,2,99999,22,22
+1394,Judah[b. Yehezqel][B2],is_rabbi,B2,B,2,0,1,50
+1464,Yehuda bar Maremar,is_rabbi,Bx,B,X,99999,4,28
+1508,"Rabbi[L,P1,P4x]",is_rabbi,Px,P,X,6,1,17
+1544,Joshua b. Levi,is_rabbi,P1,P,1,6,7,23
+1570,Yohanan[P2],is_rabbi,P2,P,2,6,1,43
+1663,Yose br Abin,is_rabbi,Px,P,X,99999,23,24
+1684,Yose b. Zabida,is_rabbi,P4,P,4,99999,24,25
+1764,Joseph[b.Hiyya],is_rabbi,B3,B,3,0,1,45
+1776,Yosef b. Menashia of Dewil,is_rabbi,B2,B,2,99999,25,26
+1781,Josepf b. Raba,is_rabbi,Bx,B,X,99999,1,32
+1804,Yemar[B6],is_rabbi,B6,B,6,99999,1,7
+1814,Yannai[P1],is_rabbi,P1,P,1,6,26,27
+1840,Jacob b. Abba[B4],is_rabbi,B4,B,4,99999,1,45
+1885,Ishaq Napaha[P3],is_rabbi,P3,P,3,0,1,50
+1901,Ishaq b. Ami[B4],is_rabbi,B4,B,4,99999,1,50
+1903,Ishaq b. Bisana,is_rabbi,P3,P,3,99999,27,31
+1913,Ishaq b Yehuda,is_rabbi,B3,B,3,99999,1,36
+1952,Yirmiyah[P4],is_rabbi,P4,P,4,6,2,1
+1954,Yirmiya b. Abba[B2],is_rabbi,B2,B,2,5,1,30
+1986,Ishmael b. Yose,is_rabbi,T,P,0,5,1,17
+2004,"Kahana [de Pum Nehara][B3, B4]",is_rabbi,Bx,B,X,5,1,36
+2032,Levi,is_rabbi,Px,P,X,3,1,45
+2140,Menashya b. Gada[B4],is_rabbi,B4,B,4,99999,1,45
+2156,Mar bar Rav Ashi,is_rabbi,B7,B,7,99999,4,28
+2161,Mar Zutra[B6],is_rabbi,B6,B,6,0,1,45
+2164,Mar Zutra b. Rab Mari b. Isur,is_rabbi,B7,B,7,99999,1,7
+2166,Mar Zutra mi-deRishba[x],is_rabbi,Bx,B,X,99999,1,7
+2178,Mari b. Isaq,is_rabbi,Bx,B,X,99999,1,14
+2189,Mari b. Pinhas b. Hisda[x],is_rabbi,B4,B,4,99999,1,7
+2190,Mari b. Rahel[B4],is_rabbi,B4,B,4,99999,1,35
+2198,Maremar,is_rabbi,B6,B,6,99999,4,28
+2199,Maremar b. Hanina[B6x],is_rabbi,Bx,B,X,99999,1,35
+2225,Matena[B4],is_rabbi,B4,B,4,3,1,50
+2277,Nehemiah b. Yosef[B5],is_rabbi,B5,B,5,99999,28,29
+2285,Nahman,is_rabbi,B3,B,3,0,1,30
+2341,Natan b. Abbaye/Ami[B5x],is_rabbi,Bx,B,X,99999,1,14
+2364,Sehora,is_rabbi,B3,B,3,0,1,30
+2398,Safra[B3],is_rabbi,B3,B,3,5,1,45
+2409,Ulla,is_rabbi,B3,B,3,6,1,43
+2415,Ulla b. Ila'I,is_rabbi,B3,B,3,99999,1,30
+2423,Rabbana Uqba,is_rabbi,B2,B,2,3,1,30
+2429,Uqba b. Hama[B4],is_rabbi,B4,B,4,99999,1,45
+2445,Amram,is_rabbi,B2,B,2,0,1,30
+2448,Amram Hasida,is_rabbi,B3,B,3,99999,1,30
+2453,Anan[B2],is_rabbi,B2,B,2,99999,1,30
+2478,Pedat,is_rabbi,P4,P,4,6,27,31
+2518,Pappa,is_rabbi,B5,B,5,0,1,32
+2527,Pappa b. Samuel[B4],is_rabbi,B4,B,4,99999,29,33
+2533,Pappi,is_rabbi,B5,B,5,99999,30,34
+2546,Zadoq,is_rabbi,Px,P,X,99999,14,12
+2578,Rab[B1],is_rabbi,B1,B,1,5,1,36
+2579,Rab b. Shaba*,is_rabbi,B5,B,5,99999,1,32
+2581,Rabbah[B3],is_rabbi,B3,B,3,0,1,35
+2582,Raba,is_rabbi,B4,B,4,0,1,35
+2594,Rabba b. bar Hana[B3],is_rabbi,B3,B,3,6,1,36
+2596,Rabba b. Huna[B3],is_rabbi,B3,B,3,99999,1,45
+2598,Rabbah b. Hiyya Qeṭosfa'a,is_rabbi,B2,B,2,99999,31,37
+2600,Rabbah bar Hanah,is_rabbi,B1,B,1,99999,1,17
+2627,Rabbah b. Shela[B2x],is_rabbi,B4,B,4,3,18,38
+2639,Rabbah Tosfa'ah,is_rabbi,B7,B,7,99999,32,39
+2647,Ravina[B5/7],is_rabbi,B7,B,7,0,1,35
+2676,Rami b. Abba,is_rabbi,B3,B,3,0,1,32
+2681,Rami b. Hama[B4],is_rabbi,B4,B,4,99999,1,45
+2689,Rami b. Tamre/Diqule[B3] from Pumbedita,is_rabbi,B3,B,3,99999,1,14
+2690,Rafram[B6x],is_rabbi,B6,B,6,99999,33,40
+2711,Shabetai b. R. Marinus,is_rabbi,P2,P,2,99999,1,17
+2725,Shela b. Abina,is_rabbi,B1,B,1,5,34,41
+2761,Samuel,is_rabbi,P4,P,4,99999,1,50
+2763,Samuel[B1],is_rabbi,B1,B,1,3,1,50
+2839,Simeon b. Abba,is_rabbi,P3,P,3,6,7,23
+2852,Simeon b. Gamaliel,is_rabbi,T,P,0,6,35,42
+2879,Resh Laqish[P2],is_rabbi,P2,P,2,6,1,43
+2896,Simeon b. Rabbi[L],is_rabbi,P0,P,0,99999,36,44
+2938,Sheshet[B3],is_rabbi,B3,B,3,0,1,45
+2977,Tanhum b Hiyya of Acco,is_rabbi,Px,P,X,99999,1,10
+10100,Joshua,is_rabbi,Px,P,X,99999,14,12
+10125,Levi,is_rabbi,xx,X,X,99999,37,46
+10131,Mar Zutra,is_rabbi,B6,B,6,99999,1,7
+20347,Judges of Nehardea,is_rabbi,Bx,B,X,99999,38,47
+20348,[Pumbedita],is_rabbi,Bx,B,X,99999,1,36
+20990,Hamma b. Rabbah b. Abbahu[P3],is_rabbi,B3,B,3,99999,1,50
+21004,Hana b. Bizana[B3],is_rabbi,B3,B,3,99999,39,48
+21052,Tabla[B3],is_rabbi,B3,B,3,99999,40,49
+22004,Hanina b. Pappi[P3],is_rabbi,P3,P,3,99999,1,50
+22946,Rahava,is_rabbi,B3,B,3,99999,1,45
+99999,Anon,is_rabbi,xx,X,X,99999,41,51
+_Resh galuta,Resh Galuta,is_rabbi,Bx,B,X,99999,1,30
+_1006,Mother of Zutra b. Tovya,is_relation,_B3,B,3,,10,8
+_1088,Judith wife of Hiyya--disguised,is_relation,_B1,B,1,,1,17
+_1088+,Sons of Hiyya,is_relation,_B1,B,1,,42,52
+_1090,MIL of Hiyya Arikha+,is_relation,_Bx,B,X,,18,38
+_1185,House of Rab Hana[x],is_relation,_B3,B,3,,1,50
+_121,Tenant of Abaye,is_relation,_B4,B,4,,1,45
+_131,(Abimi b. Abahu[P3]x),is_relation,_P4,P,4,,1,50
+_1344,heirs of Hasa[B3],is_relation,_B3,B,3,,1,30
+_1362,Landlord[x] of Tabla[B3],is_relation,_B3,B,3,,1,30
+_1364,Mother of Tobi b. Mattena[B3],is_relation,_B3,B,3,,1,30
+_1570,Relations of Yohanan[P2],is_relation,_P2,P,2,,1,43
+_1776,Wife of Yosef b. Menashia,is_relation,_B2,B,2,,1,45
+_1781,Wife of Yosef b. Raba,is_relation,_B5,B,5,,28,29
+_1814,grandson of Yannai,is_relation,_P1,P,1,,26,27
+_1885,disciples of Hanina,is_relation,_P3,P,3,,21,20
+_1885+,house of R. Ishaq,is_relation,_P3,P,3,,1,43
+_194,Host of AbA,is_relation,_Bx,B,X,,1,45
+_1952,son of father in law of Yirmiya,is_relation,_P3,P,3,,2,1
+_1954,One banned by  Yirmiah b. Abba,is_relation,_P4,P,4,,1,14
+_2085,heirs of Miyyasha b. b. Joshua[P2],is_relation,_P2,P,2,,1,10
+_21222,Sons of Uqba[Bx],is_relation,_B2,B,2,,1,35
+_2178,brother of Mari b. Isaq,is_relation,_Bx,B,X,,1,14
+_2398,brothers of Safra,is_relation,_B3,B,3,,1,35
+_2518,Father of R. Pappa[P5],is_relation,_B5,B,5,,1,45
+_2594,[Wife of] Rabbah b. b. Hanah[B3],is_relation,_B3,B,3,,1,36
+_2602,Host of Raba b. Hanan,is_relation,_Bx,B,X,,1,35
+_2647,Ronya,is_relation,_B4,B,4,,1,35
+_2658,Benai bro of Hiyya b. Abba,is_relation,_B2,B,2,,1,50
+_2665,be-Ronia[x],is_relation,_Bx,B,X,,1,30
+_2681,landlord[x] of Rami b. Hama[B4],is_relation,_B4,B,4,,1,45
+_2769,Mother of Samuel b. Abba of Hagronya[xx],is_relation,_Bx,B,X,,1,30
+_6,Agra FIL of Abba,is_relation,_Px,P,X,,1,50
+_770,heirs of wives of bar Sarsur,is_relation,_Bx,B,X,,1,30
+_867,house of Dimi[B4 ] = Avdimi P5x],is_relation,_B4,B,4,,1,50
+_873,mother of Dimi b. Yosef,is_relation,_B3,B,3,,1,30
+_895,Wife of Huna,is_relation,_Bx,B,X,,1,30
+_899+,Sons of Huna bar Abin,is_relation,_P4,P,4,,1,10
+_Resh_Galuta,house of the exilarch,is_relation,Bx,B,X,,1,30
+*581,*Ahi,is_rabbi,B6,B,6,99999,1,10
+0201_01,Father of new baby,no_data,xx,X,X,,1,35
+0202_01,anon,no_data,xx,X,X,,1,36
+0202_02,anon,no_data,xx,X,X,,1,50
+0202_03,anon,no_data,xx,X,X,,1,50
+0202_04,a woman,no_data,xx,X,X,,1,30
+0203_01,Anon,no_data,xx,X,X,,1,50
+0207_01,Anon,no_data,xx,X,X,,1,32
+0207_02,Buyer of eggs,no_data,xx,X,X,,1,10
+0207_03,Buyer of eggs,no_data,xx,X,X,,1,10
+0207_05,Owner of firstling,no_data,xx,X,X,,1,35
+0301_01,Anon relatives of betrothed,no_data,xx,X,X,,1,35
+0301_02,Yabam,no_data,xx,X,X,,1,36
+0301_03,Yebamah,no_data,xx,X,X,,1,36
+0301_05,Child of gentile man,no_data,xx,X,X,,1,50
+0301_06,Child of gentile man,no_data,xx,X,X,,1,35
+0301_07,Offspring of unmarried and gentile,no_data,xx,X,X,,23,24
+0301_08,offspring of married and gentile,no_data,xx,X,X,,23,24
+0301_09,Offspring of unmarried and gentile,no_data,xx,X,X,,24,25
+0301_10,Offspring of unmarried or gentile OR offspring of married and gentile,no_data,xx,X,X,,8,5
+0301_11,convert [male],no_data,xx,X,X,,3,2
+0301_12,mother of newborns,no_data,xx,X,X,,1,43
+0301_13,Fourth sister having given birth,no_data,xx,X,X,,35,42
+0301_14,Wife,no_data,xx,X,X,,1,17
+0301_15,husband,no_data,xx,X,X,,1,17
+0301_16,Wife with no children from husband,no_data,xx,X,X,,1,43
+0301_17,Wife with no children from husband,no_data,xx,X,X,,1,10
+0301_18,Wife,no_data,xx,X,X,,1,30
+0301_19,Anon-male,no_data,xx,X,X,,4,28
+0301_20,Anon-male,no_data,xx,X,X,,10,8
+0301_21,Woman gave birth after twelve,no_data,xx,X,X,,32,39
+0301_22,Anon,no_data,xx,X,X,,1,32
+0301_23,Anon,no_data,xx,X,X,,1,17
+0301_24,Anon,no_data,xx,X,X,,1,32
+0301_25,Anon,no_data,xx,X,X,,31,37
+0301_26,Levir,no_data,xx,X,X,,1,10
+0301_27,widow,no_data,xx,X,X,,1,10
+0301_28,minor widow,no_data,xx,X,X,,1,17
+0301_29,Levir,no_data,xx,X,X,,19,18
+0301_30,widow,no_data,xx,X,X,,19,18
+0301_31,bride,no_data,xx,X,X,,12,21
+0301_32,Levir,no_data,xx,X,X,,1,35
+0301_33,widow,no_data,xx,X,X,,1,35
+0301_34,Wife of missing husband,no_data,xx,X,X,,1,45
+0301_36,offspring of married and gentile,no_data,xx,X,X,,24,25
+0303_01,Anon,no_data,xx,X,X,,1,17
+0303_02,Anon,no_data,xx,X,X,,1,36
+0303_03,Anon,no_data,xx,X,X,,1,14
+0303_04,Anon,no_data,xx,X,X,,1,45
+0303_05,Anon,no_data,xx,X,X,,9,6
+0303_06,Anon,no_data,xx,X,X,,6,4
+0303_07,Anon,no_data,xx,X,X,,1,43
+0303_08,Anon,no_data,xx,X,X,,9,6
+0303_09,Anon woman,no_data,xx,X,X,,1,35
+0303_10,Anon,no_data,xx,X,X,,1,17
+0303_11,Anon,no_data,xx,X,X,,1,17
+0303_13,Anon woman,no_data,xx,X,X,,1,50
+0306_01,Gardeners (1),no_data,xx,X,X,,1,30
+0306_02+,gardeners (others),no_data,xx,X,X,,1,30
+0306_03,Husband,no_data,xx,X,X,,7,23
+0306_04,agents,no_data,xx,X,X,,7,23
+0306_05,[wife],no_data,xx,X,X,,7,23
+0306_06,Who exactlyx,no_data,xx,X,X,,1,36
+0306_07,finderx,no_data,xx,X,X,,1,35
+0306_08,Agent of husband,no_data,xx,X,X,,1,35
+0306_09,husband,no_data,xx,X,X,,22,22
+0306_10,[wife],no_data,xx,X,X,,22,22
+0306_11,Widow,no_data,xx,X,X,,1,14
+0306_12,Widow,no_data,xx,X,X,,1,45
+0306_13,creditors,no_data,xx,X,X,,1,36
+0306_14,Slave woman,no_data,xx,X,X,,1,30
+0306_15,dying owner,no_data,xx,X,X,,1,30
+0306_16+,Slaves,no_data,xx,X,X,,1,35
+0306_17,[Yosef b. Raba on behalf of slavex],no_data,xx,X,X,,1,32
+0306_18,escaped slave,no_data,xx,X,X,,1,10
+0306_19,owner of slave,no_data,xx,X,X,,1,10
+0306_20+,Captivesx,no_data,xx,X,X,,1,14
+0306_21,Sold himself to the games,no_data,xx,X,X,,1,10
+0306_22,caregiverx,no_data,xx,X,X,,1,30
+0306_23+,Relations of orphans,no_data,xx,X,X,,1,30
+0306_24,orphans,no_data,xx,X,X,,1,30
+0306_25,relations of orphans,no_data,xx,X,X,,1,30
+0306_26,buyer of pure goods.,no_data,xx,X,X,,1,10
+0306_27,Scribe of Torah,no_data,xx,X,X,,1,10
+0306_28,Preparer of Torah scroll,no_data,xx,X,X,,1,50
+0306_29,landowners,no_data,xx,X,X,,1,32
+0306_30+,field owners,no_data,xx,X,X,,1,45
+0306_31,Seller of land,no_data,xx,X,X,,1,35
+0306_32,[purchaser of land],no_data,xx,X,X,,1,35
+0306_33,dying man,no_data,xx,X,X,,1,35
+0306_34,divorcee/levirate widow,no_data,xx,X,X,,41,51
+0306_35,[one preparing a divorce],no_data,xx,X,X,,1,10
+0306_36,whox,no_data,xx,X,X,,1,50
+0307_01,seller,no_data,xx,X,X,,1,10
+0307_03,betrothed minor,no_data,xx,X,X,,1,36
+0307_04,man who tossed coins,no_data,xx,X,X,,1,35
+0307_05,tenant farmer,no_data,xx,X,X,,1,35
+0307_06,brewer,no_data,xx,X,X,,1,35
+0307_10,Woman who betrothed herself and her father betrothed,no_data,xx,X,X,,25,26
+0307_11,anon husband; anon wife,no_data,xx,X,X,,1,14
+0307_12,anon husband; anon wife,no_data,xx,X,X,,1,14
+0307_9,man buying meat,no_data,xx,X,X,,1,30
+0406_01,Anon,no_data,xx,X,X,,1,45
+0406_02,Anon,no_data,xx,X,X,,1,45
+0406_03,Anon litigant 1,no_data,xx,X,X,,1,10
+0406_04,Anon litigant 2,no_data,xx,X,X,,1,10
+0406_05,Witness,no_data,xx,X,X,,1,10
+0406_06,Anon litigant,no_data,xx,X,X,,1,30
+0406_07,Anon litigant,no_data,xx,X,X,,1,30
+0503_02,Priest,no_data,xx,X,X,,33,40
+0503_17,Anon owner of slaughtered animal,no_data,xx,X,X,,1,45
+0504_01,Woman convert,no_data,xx,X,X,,1,35
+0504_03,Anon,no_data,xx,X,X,,1,7
+0607_01,Woman,no_data,xx,X,X,,6,4
+0607_02,Women who had miscarried,no_data,xx,X,X,,42,52
+0607_03,Woman having dischanged sac,no_data,xx,X,X,,1,50
+0607_04,Woman who had discharged a sac,no_data,xx,X,X,,1,50
+0607_05,Woman having given birth,no_data,xx,X,X,,1,50
+0607_06,Woman after childbirth,no_data,xx,X,X,,34,41
+0607_07,Father of new child,no_data,xx,X,X,,1,35
+0607_09,Girl(s) seeking to renounce marriage,no_data,xx,X,X,,43,55
+0607_10,Girl(s) seeking to renounce marriage,no_data,xx,X,X,,21,20
+0607_11,Woman found blood on warp[mashtitax],no_data,xx,X,X,,26,27
+0607_13,Woman bleeding during intercourse,no_data,xx,X,X,,1,17
+0607_14,Woman bleeding during intercourse,no_data,xx,X,X,,1,50
+0607_15,Woman who discharges blood after miqveh,no_data,xx,X,X,,1,43
+0607_16,woman having discharged a fetus with two spines,no_data,xx,X,X,,1,30
+1351/2784,Tavot[B5x]; Samuel b. Zutra[B5],no_data,xx,X,X,,1,35
+1570/294/be_Midrasha,Yohanan[P2] or Assi[P3] or be midrasha,is_rabbi,xx,X,X,99999,44,53
+1570/be_Midrasha,Yohanan[P2] or be midrasha,is_rabbi,xx,X,X,99999,45,54
+2004_fellows,"""fellows"" of Kahana",is_rabbi,xx,X,X,99999,43,55
+2032/2423,Levi[P1] OR Mar Uqba[B2],is_rabbi,xx,X,X,99999,46,56
+agardamis_tayya,Agardamis Tayy'a,is_named,xx,X,X,,1,32
+akbara_deyativ_adinare,"""Akbera deyatib adinare""",is_named,xx,X,X,,1,17
+Amram_Sabaa,Amram Saba'a,is_named,xx,X,X,,1,30
+anon_in_rab_settingx,anon [in rab settingx],no_data,xx,X,X,,1,10
+anon_or_be_resh_galuta,anonx [be resh galutax],no_data,xx,X,X,,37,46
+Anon[BM-4],Anon,no_data,xx,X,X,,1,30
+Arabs,Arabs,no_data,xx,X,X,,1,45
+B0203_01,anon pregnant woman,no_data,xx,X,X,,1,17
+B0203_02,anon pregnant woman,no_data,xx,X,X,,21,20
+B0206_01,woman;,no_data,xx,X,X,,1,30
+B0211_01,Woman,no_data,xx,X,X,,1,30
+B0211_02,[borrowers],no_data,xx,X,X,,1,7
+B0302_1,Anon[ket1],no_data,xx,X,X,,1,30
+B0302_10,Anon[Ket9 priest],no_data,xx,X,X,,7,23
+B0302_102,Anon[Ket43_epitropos of estate],no_data,xx,X,X,,1,45
+B0302_11,Anon[Ket10 witness],no_data,xx,X,X,,1,43
+B0302_12,Anon[Ket11 priest],no_data,xx,X,X,,1,43
+B0302_13,Anon[Ket12],no_data,xx,X,X,,1,35
+B0302_14,Anon[Ket-99; betrothed man],no_data,xx,X,X,,1,35
+B0302_15,anon[Ket-100; woman],no_data,xx,X,X,,1,35
+B0302_16,Anon[Ket13],no_data,xx,X,X,,1,17
+B0302_17+,Anon[Ket14] (plural),no_data,xx,X,X,,1,50
+B0302_18+,Anon[Ket15] (plural),no_data,xx,X,X,,1,14
+B0302_19+,Anon[Ket16] (plural),no_data,xx,X,X,,1,35
+B0302_2,Anon[ket2],no_data,xx,X,X,,14,12
+B0302_2+,Anon[betrothed man and woman](2),no_data,xx,X,X,,1,45
+B0302_20,anon[Ket17ovda],no_data,xx,X,X,,38,47
+B0302_21,anon[Ket18ovda],no_data,xx,X,X,,39,48
+B0302_22,Orphans,no_data,xx,X,X,,1,50
+B0302_23+,Anon[Ket19] (and orphans),no_data,xx,X,X,,1,45
+B0302_24,anon[Ket20-orphan],no_data,xx,X,X,,1,35
+B0302_25,anon[Ket21-orphan],no_data,xx,X,X,,1,35
+B0302_26,[anon-widow],no_data,xx,X,X,,1,45
+B0302_27,[anon-heirs],no_data,xx,X,X,,1,45
+B0302_28,anon[Ket21-widow],no_data,xx,X,X,,1,30
+B0302_29,Deceased,no_data,xx,X,X,,5,3
+B0302_3,Anon[Ket3],no_data,xx,X,X,,16,15
+B0302_30,wife,no_data,xx,X,X,,5,3
+B0302_31,wife's heirs,no_data,xx,X,X,,5,3
+B0302_33,Anon[Ket23],no_data,xx,X,X,,1,32
+B0302_34,Anon[Ket24_old woman],no_data,xx,X,X,,1,30
+B0302_35,Anon[Ket27],no_data,xx,X,X,,1,45
+B0302_36,Anon[Ket25_widow],no_data,xx,X,X,,8,5
+B0302_37,Anon[Ke26_brothers],no_data,xx,X,X,,8,5
+B0302_38,widow,no_data,xx,X,X,,1,30
+B0302_39,daughter,no_data,xx,X,X,,1,30
+B0302_4,Anon[Ket4],no_data,xx,X,X,,13,11
+B0302_40,Anon[Ket29],no_data,xx,X,X,,1,50
+B0302_41,Anon[Ket30],no_data,xx,X,X,,1,10
+B0302_42,Anon[Ket31_wife],no_data,xx,X,X,,1,35
+B0302_43,Herdsman,no_data,xx,X,X,,1,30
+B0302_44+,Orphans,no_data,xx,X,X,,1,30
+B0302_45+,creditors,no_data,xx,X,X,,1,30
+B0302_46,Abba[P5],no_data,xx,X,X,,1,50
+B0302_48,Anon[Ket32_woman],no_data,xx,X,X,,1,30
+B0302_49,Anon[Ket33_woman],no_data,xx,X,X,,1,35
+B0302_5,Anon[Ket4],no_data,xx,X,X,,16,15
+B0302_50,Anon[Ket34_woman],no_data,xx,X,X,,10,8
+B0302_51,Anon[Ket35_litigant],no_data,xx,X,X,,10,8
+B0302_52,Depositor,no_data,xx,X,X,,1,10
+B0302_53,Depositor,no_data,xx,X,X,,1,30
+B0302_54,Anon[Ket_54],no_data,xx,X,X,,1,7
+B0302_55,Anon[Ket_55],no_data,xx,X,X,,1,7
+B0302_56,Anon[Ket36_creditor],no_data,xx,X,X,,1,45
+B0302_57,Anon[Ket37_heirs],no_data,xx,X,X,,1,45
+B0302_58+,Anon[Ket_xx_orphans],no_data,xx,X,X,,1,43
+B0302_59,Anon[Ket38_creditor],no_data,xx,X,X,,1,45
+B0302_6,Anon[Ket5],no_data,xx,X,X,,1,17
+B0302_60,Anon[Ket39_creditor],no_data,xx,X,X,,1,45
+B0302_61,Anon[Ket40_widow],no_data,xx,X,X,,1,35
+B0302_62+,Anon[Ket41_heirs],no_data,xx,X,X,,1,35
+B0302_63,depositary,no_data,xx,X,X,,1,10
+B0302_64+,Orphans,no_data,xx,X,X,,1,10
+B0302_65,Anon[Ket44_levir],no_data,xx,X,X,,21,20
+B0302_66,Anon[Ket22],no_data,xx,X,X,,1,50
+B0302_7,Anon[Ket6 witness],no_data,xx,X,X,,1,10
+B0302_8,Anon[Ket7 priest],no_data,xx,X,X,,1,10
+B0302_9,Anon[Ket8 witness],no_data,xx,X,X,,7,23
+B0401_05,Anon[BQ-5],no_data,xx,X,X,,1,14
+B0401_1,Anon[BQ-1],no_data,xx,X,X,,38,47
+B0401_10,ass driver,no_data,xx,X,X,,29,33
+B0401_11,child,no_data,xx,X,X,,29,33
+B0401_12,Anon[BQ-103;ass driver],no_data,xx,X,X,,1,35
+B0401_13,Anon[BQ-104; a child],no_data,xx,X,X,,1,35
+B0401_14,Anon[BQ-10],no_data,xx,X,X,,1,17
+B0401_15,anon[BM-105;  thief];,no_data,xx,X,X,,1,30
+B0401_16+,anon[BM-106; owners],no_data,xx,X,X,,1,30
+B0401_17,Anon[BQ-11],no_data,xx,X,X,,1,43
+B0401_18,Anon[BQ-11;hagrama[x]],no_data,xx,X,X,,1,36
+B0401_19,unspecified,no_data,xx,X,X,,1,14
+B0401_2,Anon[BQ-2],no_data,xx,X,X,,39,48
+B0401_20,Anon[BQ-thief],no_data,xx,X,X,,1,35
+B0401_21,Anon[BQ-16],no_data,xx,X,X,,1,7
+B0401_22,Anon[BQ-15; thief],no_data,xx,X,X,,1,30
+B0401_22+,gentiles,no_data,xx,X,X,,1,7
+B0401_25,Anon[BQ-17; owner],no_data,xx,X,X,,1,36
+B0401_26,depositary; thief; depositors,no_data,xx,X,X,,1,35
+B0401_27,depositary; thief; depositors,no_data,xx,X,X,,1,35
+B0401_28,depositary; thief; depositors,no_data,xx,X,X,,1,35
+B0401_29,Depositary; thief,no_data,xx,X,X,,1,35
+B0401_3,Anon[BQ-3],no_data,xx,X,X,,1,50
+B0401_30,Depositary,no_data,xx,X,X,,1,35
+B0401_31,ass owner,no_data,xx,X,X,,1,35
+B0401_35,Anon[BQ-18],no_data,xx,X,X,,1,36
+B0401_36,Anon[BQ-14],no_data,xx,X,X,,1,30
+B0401_4,Anon[BQ-4],no_data,xx,X,X,,1,35
+B0401_6,Anon[BQ-6],no_data,xx,X,X,,1,30
+B0401_7,Anon[BQ-7],no_data,xx,X,X,,1,30
+B0401_8,anon[ovda],no_data,xx,X,X,,1,32
+B0401_9,Anon[BQ-8],no_data,xx,X,X,,1,32
+B0402_1,Anon[BM-1],no_data,xx,X,X,,1,14
+B0402_10,Anon[BM-11],no_data,xx,X,X,,1,43
+B0402_100+,Parties to a divorce,no_data,xx,X,X,,1,35
+B0402_11,Anon[BM-12],no_data,xx,X,X,,1,35
+B0402_12,Anon[BM-depositary],no_data,xx,X,X,,1,35
+B0402_13,Anon[BM-14],no_data,xx,X,X,,1,35
+B0402_14,Anon[BM-15],no_data,xx,X,X,,1,14
+B0402_15,anonymus(*),no_data,xx,X,X,,1,14
+B0402_16+,Anon[BM-17; orphana],no_data,xx,X,X,,1,7
+B0402_18,anon[ovda],no_data,xx,X,X,,1,35
+B0402_20,Anon[BM-18],no_data,xx,X,X,,1,32
+B0402_21+,Anon[BM-19; alkaline sellers],no_data,xx,X,X,,1,32
+B0402_22,Anon[BM-20; seller],no_data,xx,X,X,,1,30
+B0402_23,Anon[BM-21; purchaser],no_data,xx,X,X,,1,30
+B0402_24+,Anon[BM-22; 23],no_data,xx,X,X,,1,35
+B0402_25,Anon[BM-24],no_data,xx,X,X,,1,35
+B0402_26,Anon[BM-25],no_data,xx,X,X,,1,35
+B0402_27,Anon[BM-26; shepher],no_data,xx,X,X,,1,35
+B0402_28,Anon[BM-28],no_data,xx,X,X,,1,35
+B0402_29,Anon[BM-29],no_data,xx,X,X,,1,36
+B0402_3,Buyer,no_data,xx,X,X,,1,36
+B0402_30,Anon[BM-Borrower of item],no_data,xx,X,X,,1,32
+B0402_31,Anon[BM-30],no_data,xx,X,X,,1,36
+B0402_32,Anon[BM-31],no_data,xx,X,X,,1,35
+B0402_33,Anon[BM-32; planter],no_data,xx,X,X,,29,33
+B0402_34,Anon[BM-33],no_data,xx,X,X,,1,45
+B0402_4,victim of theft,no_data,xx,X,X,,1,36
+B0402_5,Anon[BM-6],no_data,xx,X,X,,1,50
+B0402_6,Anon[BM-7],no_data,xx,X,X,,1,30
+B0402_7+,Anon[BM-8; gardeners],no_data,xx,X,X,,1,36
+B0402_8,Anonymous finder,no_data,xx,X,X,,1,45
+B0402_99,anon[BM-99],no_data,xx,X,X,,1,14
+B0403_04,bearer of document,no_data,xx,X,X,,1,35
+B0403_05,purchaser of brothers' property;,no_data,xx,X,X,,1,45
+B0403_06,[seller; implied],no_data,xx,X,X,,1,45
+B0403_07,Purchaser of  purchase of landed property,no_data,xx,X,X,,1,45
+B0403_08,[seller; implied],no_data,xx,X,X,,1,45
+B0403_1,Anon[BB-1; ovda],no_data,xx,X,X,,1,45
+B0403_10,an external claimant,no_data,xx,X,X,,1,35
+B0403_104,"Anon[BB, attests that one is firstborn]",no_data,xx,X,X,,21,20
+B0403_105,another who is a firstborn,no_data,xx,X,X,,21,20
+B0403_107,anonymous,no_data,xx,X,X,,30,34
+B0403_108,"Anon[BB, one who bought from gentile]",no_data,xx,X,X,,1,50
+B0403_109,"Anon[BB, an Israelite who plowed in field]",no_data,xx,X,X,,1,50
+B0403_11+,generic claimants(2),no_data,xx,X,X,,1,30
+B0403_12+,Anon[BB-12;plaintifs(2)],no_data,xx,X,X,,1,30
+B0403_13,Seller not of age,no_data,xx,X,X,,1,35
+B0403_16+,anon[BB-16],no_data,xx,X,X,,1,35
+B0403_17+,anon[BB-17; witnesses],no_data,xx,X,X,,1,35
+B0403_18,anon[BB-18; neighbor],no_data,xx,X,X,,1,30
+B0403_19,anon[BB-19; neighbor],no_data,xx,X,X,,1,50
+B0403_2+_,anon[BB-2; Tiberians],no_data,xx,X,X,,1,17
+B0403_20+,anon[BB-20; witnesses],no_data,xx,X,X,,1,50
+B0403_24,"anon[BB-24, Woman]",no_data,xx,X,X,,46,56
+B0403_25,"anon[BB-25, man]",no_data,xx,X,X,,46,56
+B0403_28+,anon[BB-28; heirs; 3],no_data,xx,X,X,,11,9
+B0403_29+,anon[BB-29; heirs; 10],no_data,xx,X,X,,11,9
+B0403_3+,Anon[BB-3; butchers],no_data,xx,X,X,,1,35
+B0403_30,anon[BB-30],no_data,xx,X,X,,1,10
+B0403_31,anon[BB-31;Owner of house],no_data,xx,X,X,,1,10
+B0403_32+,anon[BB-32; people in public domain],no_data,xx,X,X,,1,10
+B0403_33,anon[BB-33;Owner of tree],no_data,xx,X,X,,26,27
+B0403_34+,anon[BB-34; people in public domain],no_data,xx,X,X,,26,27
+B0403_35,anon[BB-35; from Salmon],no_data,xx,X,X,,0,0
+B0403_36,anon[BB-36],no_data,xx,X,X,,1,50
+B0403_37_,anon[BB-37],no_data,xx,X,X,,1,7
+B0403_38,anon[BB-38; butcher],no_data,xx,X,X,,1,7
+B0403_39,anon[BB-39; thief],no_data,xx,X,X,,1,7
+B0403_40,anon[ovda],no_data,xx,X,X,,1,45
+B0403_41,[owner/purchaser of vineyard],no_data,xx,X,X,,1,50
+B0403_42,anon[ovda],no_data,xx,X,X,,40,49
+B0403_43,Firstborn,no_data,xx,X,X,,1,35
+B0403_44+,brother(s),no_data,xx,X,X,,1,35
+B0403_45,purchasers,no_data,xx,X,X,,1,35
+B0403_46,"Anon[BB, attests that one is firstborn];",no_data,xx,X,X,,1,36
+B0403_47,another who is a firstborn,no_data,xx,X,X,,1,36
+B0403_48,another Israelite,no_data,xx,X,X,,1,30
+B0403_50,anon[ovda],no_data,xx,X,X,,1,50
+B0403_52,anon[ovda],no_data,xx,X,X,,1,43
+B0403_53+,anonymous[Husband and wifex],no_data,xx,X,X,,1,14
+B0403_54+,Anonymous(2),no_data,xx,X,X,,1,17
+B0403_55,One who gave in anticipation of death,no_data,xx,X,X,,1,14
+B0403_57,[Saris],no_data,xx,X,X,,1,17
+B0403_58,son <20yrs; relations; buyers,no_data,xx,X,X,,1,35
+B0403_59,son <20yrs; relations; buyers,no_data,xx,X,X,,1,35
+B0403_60,Bearer of a bound document presented it,no_data,xx,X,X,,1,17
+B0403_61,Bearer of a bound document presented it,no_data,xx,X,X,,1,17
+B0403_67+,anonymuswomen(2),no_data,xx,X,X,,1,30
+B0403_68+,Landowners in Pumbedita,no_data,xx,X,X,,1,45
+B0403_69+,[Arabs],no_data,xx,X,X,,1,45
+B0403_70,Woman who gave funds,no_data,xx,X,X,,1,30
+B0403_71,the agent,no_data,xx,X,X,,1,30
+B0403_73,ההיא דאתאי לקמיה ד; anon(1),no_data,xx,X,X,,1,35
+B0403_79,relations of brothers,no_data,xx,X,X,,1,35
+B0403_8+,Anon[BB-8;Sesame grinders],no_data,xx,X,X,,1,7
+B0403_80+,[grantees],no_data,xx,X,X,,1,14
+B0403_81+,son <20yrs; relations; buyers,no_data,xx,X,X,,1,35
+B0403_82,anon[BB-40],no_data,xx,X,X,,1,36
+B0403_83,anon[BB-41]; merchant],no_data,xx,X,X,,1,36
+B0403_84,anon[BB-42; customers],no_data,xx,X,X,,1,36
+B0403_9+,Flax grinders,no_data,xx,X,X,,1,35
+B0403_99,anon[BB-13],no_data,xx,X,X,,1,30
+B0404_01,anon,no_data,xx,X,X,,1,10
+B0404_02,anon,no_data,xx,X,X,,1,10
+B0404_03,anon (child),no_data,xx,X,X,,1,30
+B0404_08,Anon,no_data,xx,X,X,,1,35
+B0404_09x,anonx,no_data,xx,X,X,,1,45
+B0404_10x,anonx,no_data,xx,X,X,,1,17
+B0404_11,anon,no_data,xx,X,X,,30,34
+B0404_12,anon,no_data,xx,X,X,,1,36
+B0503-01+,anon[ovda](multiplex),no_data,xx,X,X,,1,45
+B0503-02,anon(slaughterer),no_data,xx,X,X,,1,35
+B0503-03,anon(slaughterers),no_data,xx,X,X,,1,45
+B0503-04,anon(slaughtererx Ownder of animalx),no_data,xx,X,X,,1,35
+B0503-05,anon(slaughtererx Owner of animalx),no_data,xx,X,X,,1,36
+B0503-06,anon(slaughterer or animal owner),no_data,xx,X,X,,4,28
+B0503-07,anon(slaughterer or animal owner),no_data,xx,X,X,,1,7
+B0503-08,anon(slaughterer or animal owner),no_data,xx,X,X,,47,57
+B0503-09,anon(slaughterer or animal owner),no_data,xx,X,X,,1,50
+B0503-10,anon(slaughterer or animal owner),no_data,xx,X,X,,48,58
+B0503-11,anon(slaughterer or animal owner),no_data,xx,X,X,,1,35
+B0503-12,anon,no_data,xx,X,X,,1,35
+B0503-13,anon(ovda),no_data,xx,X,X,,1,17
+B0503-14,anon(animal owner),no_data,xx,X,X,,1,50
+B0503-16,anon[Hul-99],no_data,xx,X,X,,1,35
+B0503-18+,anon[ovda](multiplex),no_data,xx,X,X,,1,43
+B0503-19+,Anon,no_data,xx,X,X,,15,13
+B0503-20,anon,no_data,xx,X,X,,36,44
+B0503-21,anon,no_data,xx,X,X,,1,17
+B0503-22,anon,no_data,xx,X,X,,21,20
+B0503-23,Porters,no_data,xx,X,X,,1,7
+B0505_Anon_1,[borrowerx],no_data,xx,X,X,,1,7
+B0505_Anon_2,anon,no_data,xx,X,X,,1,50
+B0505_husband_1,husband,no_data,xx,X,X,,1,32
+B0505_wife_2,wife,no_data,xx,X,X,,1,32
+Bar_Adda_Sebola'a,Bar Adda Sebola'a,is_named,Bx,B,X,,1,32
+be_bar_Marion,property of be bar Marion,is_named,Bx,B,X,,1,45
+be_Hoza'e,be Hoza'e,is_named,Bx,B,X,,1,35
+be_midrasha,be-midrasha,is_rabbi,xx,X,X,99999,1,17
+be_resh_galuta,be-resh-galuta,is_relation,Bx,B,X,,1,30
+Beth_Sheanites,Beth-Sheanites,is_named,xx,X,X,,1,43
+blind_student,Blind student[x],is_named,Bx,B,X,,1,50
+daugher_in_law_of_house_of_Eliashib,daughter in law of house house of Eliashib,is_named,Bx,B,X,,1,35
+Demon,[Demon],is_named,xx,X,X,,1,7
+diqula'e,anon[BB-4; basket sellers],is_named,xx,X,X,,1,35
+Giddal_b_Re'ila'I,Giddal b. R/De'ila'i,is_named,Bx,B,X,,1,32
+hanan_bisha,Hanan Bisha,is_named,Bx,B,X,,1,14
+Hananiah_T,Hananiah[T],no_data,T,P,0,,47,57
+hiyya_b_r,Hiyya b. Rabbi,no_data,P0,P,0,,3,2
+house_of_Eliashib,House of Eliashib,is_named,Bx,B,X,,1,35
+house_of_Marion_br_Rabin+,those of the house of Marion b. Rabin,is_named,Bx,B,X,,1,35
+Issur,Issur,is_named,Bx,B,X,,1,45
+kenishta_de_ma'on,kenishta de Ma'on,is_named,Px,P,X,,1,43
+Marta_and_granddaughters,Marta etc (3rd party),is_named,Bx,B,X,,1,36
+oshaya_b_r,Oshaya b. Rabbi,no_data,P0,P,0,,3,2
+pair_of_rabbis,Pair of sages [or: Zogax],no_data,Bx,B,X,,7,23
+Pappi_Yokna'a,Pappi Yo[k]na'a,is_named,Bx,B,X,,1,7
+people_of_Pum_Nehara+,anon[BB-7; people of the place],is_named,Bx,B,X,,1,36
+people_of_qaquna,people of  Qaquna,is_named,xx,X,X,,1,45
+people_of_the_place,anon[BB-5; people of the place],is_named,Bx,B,X,,1,35
+qab_rashu,"""Qab Rashu""",is_named,Bx,B,X,,1,30
+rabbanan,Rabbanan,no_data,Px,P,X,,1,17
+Rabbanan terofa'e,Rabbanan Terofa'e,no_data,Bx,B,X,,48,58
+rabbanan_de_be_resh_galuta,rabbanan of resh galuta,no_data,Bx,B,X,,1,30
+Rabi_b_tamre,Rami b. Tamri FIL of Rami b. Diqule,is_named,Bx,B,X,,17,16
+resh_galuta,resh galuta,is_named,Bx,B,X,,1,30
+Samaritans+,Samaritans[!],is_named,Px,P,X,,1,32
+sorba_derabbanan_01,rabbinic disciple,is_rabbi,Bx,B,X,99999,1,30
+sorba_derabbanan_02,rabbinic disciple,is_rabbi,Bx,B,X,99999,1,17
+sorba_derabbanan_03,tsorba de-rabbanan,is_rabbi,Bx,B,X,99999,20,19
+tobiah,Tobiah,is_named,xx,X,X,,1,32
+Wool_sellers+,anon[BB-6; ‘amra’e],is_named,xx,X,X,,1,36
+Yalta,Yalta,is_relation,_B3,B,3,,1,36
+zibud,Zibud,is_named,Bx,B,X,,1,32
+B0303_student,student,is_rabbi,Bx,B,X,,1,14
