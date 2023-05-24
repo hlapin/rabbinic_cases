@@ -11,7 +11,7 @@
     * **judge**	
     * **sper_sat_id**: Unique identifiers for judges (generally following Satlow-Sperling ids).
     * **judge_gen**: Conventional assignment to generations (after Albeck 1969)	
-    * **Legal areas:** **Ri**(itual); **Pu**(urity); **St**(tatus); **Pr**(operty); **Vows**; **Oth**(er)	
+    * **Legal areas:** **Ri**(itual); **Pu**(rity); **St**(atus); **Pr**(operty); **Vows**; **Oth**(er)	
     * **rabb_actor**: Whether parties to case include members of rabbinic circles
     * **explicit_case**: Whether the matter at issue is derived from context or stated in the narrative. 
 * **CasesSupplementaryData.md**: Supplementary data on cases
